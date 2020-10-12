@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "SUSTech Cubesat - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Cubesat  at SUSTech University."
 sitemap: false
 permalink: /
 ---
