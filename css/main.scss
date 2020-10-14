@@ -51,8 +51,10 @@ firstp {
 	text-align: left;
 }
 
-#homeidtmp h1 {
-	text-align: center;
+.homeid h1 {
+	margin-right: auto;
+    margin-left: auto;
+    max-width: 1000px; /* or 950px */
 }
 
 #newsid img {
