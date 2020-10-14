@@ -27,7 +27,7 @@ permalink: /
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1000.jpg" alt="Slide 1" />
             <div class="carousel-caption">
-                <h3>小卫星，大未来</h3>
+                <h3 style="color:#00FF00" >小卫星，大未来</h3>
                 <p>Welcome to the SUSTech Cubesat Project</p>
             </div>
         </div>
