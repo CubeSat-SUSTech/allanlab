@@ -11,7 +11,6 @@ permalink: /
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
-    <h1>Welcome to the SUSTech Cubesat Project</h1>
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <!-- <li data-target="#carousel" data-slide-to="1"></li>
@@ -27,6 +26,10 @@ permalink: /
 
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1000.jpg" alt="Slide 1" />
+            <div class="carousel-caption">
+                <h3>小卫星，大未来</h3>
+                <p>Welcome to the SUSTech Cubesat Project</p>
+            </div>
         </div>
         <!-- <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/STS.jpg" alt="Slide 2" />
