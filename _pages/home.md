@@ -11,6 +11,7 @@ permalink: /
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
+    <h1>Welcome to the SUSTech Cubesat Project</h1>
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <!-- <li data-target="#carousel" data-slide-to="1"></li>
