@@ -47,20 +47,18 @@ firstp {
 }
 
 /* Home, News */
-#newsid p {
-	text-align: left;
+// #newsid p {
+// 	text-align: left;
+// }
+
+#homeidtmp h1 {
+	text-align: center;
 }
 
-.homeid h1 {
-	margin-right: auto;
-    margin-left: auto;
-    max-width: 1000px; /* or 950px */
-}
-
-#newsid img {
-	margin-top: 6px;
-	margin-bottom: 6px;
-}
+// #newsid img {
+// 	margin-top: 6px;
+// 	margin-bottom: 6px;
+// }
 
 /* Team & Publications */
 #gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
@@ -89,7 +87,7 @@ firstp {
     border-radius: 3px 3px 3px 3px;
     margin-bottom: 20px;
     margin-top: 20px;
-    margin-left: 30px;
-    margin-right: 30px;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
 }
 
