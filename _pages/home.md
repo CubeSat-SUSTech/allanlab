@@ -24,7 +24,7 @@ permalink: /
   <div class="carousel-inner" markdown="0">
 
       <div class="item active">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1000.jpg" alt="Slide 1" />
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cubesat2.jpg" alt="Slide 1" />
           <div class="carousel-caption">
               <h3 class="carousel-title hidden-xs" style="color:#00FF00" >小卫星，大未来!</h3>
               <p>Welcome to the SUSTech Cubesat Project</p>
@@ -34,11 +34,11 @@ permalink: /
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/mx.jpg" alt="Slide 2" />
       </div>
       <div class="item">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/all.jpg" alt="Slide 3" />
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ye.jpg" alt="Slide 3" />
       </div>
       
       <div class="item">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ye.jpg" alt="Slide 4" />
+          <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/yj.jpg" alt="Slide 4" />
       </div>
       <!-- <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoiseCover2.jpg" alt="Slide 5" />
