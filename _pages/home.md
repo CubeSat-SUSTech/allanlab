@@ -19,7 +19,6 @@ permalink: /
       <li data-target="#carousel" data-slide-to="5"></li>
       <li data-target="#carousel" data-slide-to="6"></li> -->
   </ol>
-
   <!-- Items -->
   <div class="carousel-inner" markdown="0">
 
