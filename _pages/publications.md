@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: " SUSTech Cubesat - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: " SUSTech Cubesat -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -41,7 +41,7 @@ permalink: /publications/
 </div>
 {% endif %}
 
-{% endif %}
+<!-- {% endif %}
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -59,4 +59,4 @@ permalink: /publications/
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
-{% endfor %}
+{% endfor %} -->
