@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-# Publications
+<!-- # Publications
 
 ## Group highlights
 
@@ -41,7 +41,7 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<!-- {% endif %}
+{% endif %}
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
