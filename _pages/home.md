@@ -68,7 +68,7 @@ permalink: /
   </a>
 </div>
 
-<div class="dynamic">
+<div markdown="0" class="dynamic">
     <div class="block1" data-wow-offset="40">
         <p class="services-icon"><span class="fa fa-android fa-5x"></span></p>
         <h4 class="services-title">LECTURES</h4>
