@@ -1,12 +1,12 @@
 ---
-title: "News"
+title: "Notice"
 layout: textlay
 excerpt: "SUSTech Cubesat"
 sitemap: false
 permalink: /allnews.html
 ---
 
-# News
+# Notice
 
 {% for article in site.data.news %}
 <p>{{ article.date }} <br>
