@@ -1,8 +1,8 @@
 ---
-title: "SUSTech Cubesat. - Pictures"
+title: "SUSTech Cubesat. - Files"
 layout: piclay
-excerpt: "SUSTech Cubesat. -- Pictures"
-permalink: /pictures/
+excerpt: "SUSTech Cubesat. -- Files"
+permalink: /files/
 ---
 
 <!-- # Pictures
