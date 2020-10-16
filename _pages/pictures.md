@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "SUSTech Cubesat. - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "SUSTech Cubesat. -- Pictures"
 permalink: /pictures/
 ---
 
