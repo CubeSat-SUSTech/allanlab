@@ -68,7 +68,32 @@ permalink: /
   </a>
 </div>
 
-
+<div class="dynamic">
+    <div class="block1" data-wow-offset="40">
+        <p class="services-icon"><span class="fa fa-android fa-5x"></span></p>
+        <h4 class="services-title">LECTURES</h4>
+        <p class="services-body">Cras interdum placerat libero vel tempor. Curabitur gravida iaculis erat quis dignissim.</p>
+        <p class="services-more"><a href="#">Find Out More</a></p>
+    </div>
+    <div class="block2" data-wow-offset="40">
+        <p class="services-icon"><span class="fa fa-android fa-5x"></span></p>
+        <h4 class="services-title">NEWS</h4>
+        <p class="services-body">Cras interdum placerat libero vel tempor. Curabitur gravida iaculis erat quis dignissim.</p>
+        <p class="services-more"><a href="#">Find Out More</a></p>
+    </div>
+    <div class="block3" data-wow-offset="40">
+        <p class="services-icon"><span class="fa fa-android fa-5x"></span></p>
+        <h4 class="services-title">calendar</h4>
+        <p class="services-body">Cras interdum placerat libero vel tempor. Curabitur gravida iaculis erat quis dignissim.</p>
+        <p class="services-more"><a href="#">Find Out More</a></p>
+    </div>
+    <div class="block4" data-wow-offset="40">
+        <p class="services-icon"><span class="fa fa-android fa-5x"></span></p>
+        <h4 class="services-title">more</h4>
+        <p class="services-body">Cras interdum placerat libero vel tempor. Curabitur gravida iaculis erat quis dignissim.</p>
+        <p class="services-more"><a href="#">Find Out More</a></p>
+    </div>
+</div>
 <!-- 
 
 
