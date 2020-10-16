@@ -112,11 +112,16 @@ firstp {
 	margin-right:10px;
 	height:600px；
 }
-.col-sm-01,.col-sm-02,.col-sm-03,.col-sm-04 {
+.col-sm-00 {
+	float:left;
+	height:600px;
+}
+.l-sm-01,.l-sm-02,.l-sm-03,.l-sm-04 {
 	border:1px solid gray;
 	height:240px;
 	width:500px;
 	margin-left:50px;
+	margin-right:50px;
 	margin-bottom: 20px;
 	float:left;
 }
