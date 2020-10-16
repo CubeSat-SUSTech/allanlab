@@ -110,8 +110,14 @@ firstp {
 #newsid {
 	float:right;
 	margin-right:10px;
-	height:100px；
+	height:200px；
 }
-#block1,#bloack2,#bloack3,#block4 {
-	float: left;
+.col-sm-01,.col-sm-02,.col-sm-03,.col-sm-04 {
+	padding-left: 16px;
+	padding-right: 16px;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	border:1px solid gray;
+	height:76px；
+	width:6opx
 }
