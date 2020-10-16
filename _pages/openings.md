@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "SUSTech Cubesat - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+<!-- # Open positions
 
 **Note: We currently don't have funding for additional PhD and postdoc positions. We can only welcome you if you have a fellowship.**
 
@@ -36,4 +36,4 @@ If you are interested in pursuing a Master degree at Leiden University, see [mas
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+</figure> -->
