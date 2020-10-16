@@ -31,13 +31,22 @@ permalink: /
       </div>
       <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/mx.jpg" alt="Slide 2" />
+          <div class="carousel-caption">
+              <h3 class="carousel-title hidden-xs" style="color:#00FF00" >2020年9月17日，项目介绍会，刘凯军老师做介绍</h3>
+          </div>
       </div>
       <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ye.jpg" alt="Slide 3" />
+          <div class="carousel-caption">
+              <h3 class="carousel-title hidden-xs" style="color:#00FF00" >2020年9月17日，项目介绍会，叶生毅老师做介绍</h3>
+          </div>
       </div>
       
       <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/yj.jpg" alt="Slide 4" />
+          <div class="carousel-caption">
+              <h3 class="carousel-title hidden-xs" style="color:#00FF00" >2020年9月17日，项目介绍会，杨剑老师做介绍</h3>
+          </div>
       </div>
       <!-- <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoiseCover2.jpg" alt="Slide 5" />
