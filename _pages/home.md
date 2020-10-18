@@ -21,7 +21,6 @@ permalink: /
   </ol>
   <!-- Items -->
   <div class="carousel-inner" markdown="0">
-
       <div class="item active">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cubesat2.jpg" alt="Slide 1" />
           <div class="carousel-caption">
@@ -40,8 +39,7 @@ permalink: /
           <div class="carousel-caption">
               <p>2020年9月17日，项目介绍会，叶生毅老师做介绍</p>
           </div>
-      </div>
-      
+      </div> 
       <div class="item">
           <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/yj.jpg" alt="Slide 4" />
           <div class="carousel-caption">
@@ -81,7 +79,6 @@ permalink: /
         <p class="services-body">Cras interdum placerat libero vel tempor. Curabitur gravida iaculis erat quis dignissim.</p>
         <p class="services-more"><a href="#">Find Out More</a></p>
       </div>
-  
       <div class="l-sm-03" data-wow-offset="40">
         <p class="services-icon"><span class="fa fa-android fa-5x"></span></p>
         <h4 class="services-title">calendar</h4>
