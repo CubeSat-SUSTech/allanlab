@@ -83,16 +83,7 @@ firstp {
 	padding-right: 26px;
 }
 
-.col-sm-0 {
-	position: absolute;
-	margin: auto;
-	top: 0;
-	left: 0;
-	right: 0;
-	bottom: 0;
-	height:600px;
-	width:600px;
-}
+
 /* Carusel */
 
 #carousel {
@@ -139,4 +130,14 @@ firstp {
 	// margin-right:50px;
 	margin-bottom: 20px;
 	float:left;
+}
+.col-sm-0 {
+	position: absolute;
+	margin: auto;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	height:600px;
+	width:600px;
 }
