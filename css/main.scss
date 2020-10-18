@@ -121,16 +121,7 @@ firstp {
 	width:850px;
 	height:600px;
 }
-.l-sm-01,.l-sm-02,.l-sm-03,.l-sm-04 {
-	border:2px inset gray;
-	border-top-style:inset;
-	height:240px;
-	width:400px;
-	margin-left:20px;
-	// margin-right:50px;
-	margin-bottom: 20px;
-	float:left;
-}
+
 .col-sm-0 {
 	// position: absolute;
 	margin: 0px;
@@ -140,4 +131,15 @@ firstp {
 	bottom: 0;
 	height:600px;
 	width:600px;
+}
+
+.l-sm-01,.l-sm-02,.l-sm-03,.l-sm-04 {
+	border:2px inset gray;
+	border-top-style:inset;
+	height:240px;
+	width:350px;
+	margin-left:20px;
+	// margin-right:50px;
+	margin-bottom: 20px;
+	float:left;
 }
