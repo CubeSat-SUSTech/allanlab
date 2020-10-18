@@ -137,8 +137,9 @@ firstp {
 }
 
 .l-sm-01,.l-sm-02,.l-sm-03,.l-sm-04 {
-	border:1px gray;
+	// border:1px gray;
 	border-top-style:2px inset gray;
+	border-radius: 5px;
 	height:240px;
 	width:350px;
 	margin-left:20px;
