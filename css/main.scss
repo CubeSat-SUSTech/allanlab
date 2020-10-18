@@ -42,6 +42,8 @@ firstp {
 .container-fluid {
   margin-right: 0px;
   margin-left: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 /* Home, News */
@@ -121,6 +123,7 @@ firstp {
 }
 .l-sm-01,.l-sm-02,.l-sm-03,.l-sm-04 {
 	border:1px solid gray;
+	box-shadow: inset 0 2px 0 rgba(0,0,0,0.05);
 	height:240px;
 	width:400px;
 	margin-left:20px;
