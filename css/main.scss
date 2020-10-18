@@ -71,10 +71,12 @@ firstp {
 /* Grid overrides */
 .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-5, .col-sm-6,
 .col-sm-7, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12,.col-sm-01,.col-sm-02,.col-sm-03,.col-sm-04 {
+	position: fixed;
 	padding-left: 16px;
 	padding-right: 16px;
 }
 .col-sm-8 {
+	
 	margin-right: auto;
     margin-left: auto;
 }
@@ -88,11 +90,12 @@ firstp {
 /* Carusel */
 
 #carousel {
+	position: fixed;
     margin-right: auto;
 	margin-left: auto;
 	margin-bottom:20px;
 	height: 850px;
-	width:
+	width:auto;
 }
           
 // div.item img{
@@ -112,12 +115,14 @@ firstp {
 // }
 
 #newsid {
+	position: fixed;
 	float:right;
 	margin-right:0px;
 	height:600px;
 	width:300px;
 }
 .sm-00 {
+	position: fixed;
 	float:left;
 	margin-left:100px;
 	width:750px;
@@ -125,7 +130,7 @@ firstp {
 }
 
 .col-sm-0 {
-	// position: relative;
+	position: fixed;
 	margin: 0px;
 	top: 0;
 	left: 0;
@@ -136,6 +141,7 @@ firstp {
 }
 
 .l-sm-01,.l-sm-02,.l-sm-03,.l-sm-04 {
+	position: fixed;
 	border:2px inset gray;
 	border-top-style:inset;
 	height:240px;
