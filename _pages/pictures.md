@@ -8,18 +8,20 @@ permalink: /files/
 <!-- <h3 text-align='center'>file download</h3> -->
 <table id="dataListTable" class="table table-condensed table-hover" style="display:block;">
     <tbody> 
-        <tr class='title'>
-            file download
+        <tr>
+            <td class='title'>
+                file download
+            </td>
         </tr>            
         <tr>
             <th class="sort1">
-                序号
+                Derial Number
             </th>
             <th class="sort2 text-center">
-                数据名
+                Data
             </th>
             <th class="sort3">
-                操作
+                Download
             </th>
         </tr>               
         <tr>
