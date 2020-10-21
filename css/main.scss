@@ -167,6 +167,7 @@ firstp {
 	padding-top: 50px;
 }
 #dataListTable {
+	padding-top: 50px;
     width: 500px;
     margin: 0 auto;
     text-align: center;
@@ -226,10 +227,11 @@ firstp {
 
 #dataListTable td.title {
     height: 24px;
-    width: 52px;
+	width: 52px;
+	text-align: center;
     line-height: 24px;
-    border: 1px solid #006fc8;
-    background: #006fc8;
+    border: 1px solid #ffff;
+    background: #ffff;
     color: #FFF;
     border-right-color: #FFF;
 }
