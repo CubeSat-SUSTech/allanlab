@@ -29,10 +29,10 @@ permalink: /files/
                 1
             </td>
             <td id="aa" class="sort2">
-                anhui.rar
+                try.rar
             </td>
             <td class="sort3">
-                <a id="ContentPlaceHolder1_rf_rep_DataList_down_allow_0" href="{{ site.url }}{{ site.baseurl }}/downloads/PD.pdf" target="_blank">下载</a>
+                <a id="ContentPlaceHolder1_rf_rep_DataList_down_allow_0" href="{{ site.url }}{{ site.baseurl }}/downloads/try.rar" target="_blank">下载</a>
             </td>
         </tr>
         <tr>
