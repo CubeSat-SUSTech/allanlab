@@ -228,10 +228,10 @@ firstp {
 #dataListTable td.title {
     height: 24px;
 	width: 52px;
-	text-align: center;
     line-height: 24px;
-    border: 1px solid #ffff;
+    // border: 1px solid #ffff;
     background: #ffff;
     color: #006fc8;
-    border-right-color: #FFF;
+	border-right-color: #FFF;
+	text-align: center;
 }
