@@ -223,3 +223,13 @@ firstp {
     line-height: 24px;
     width: 396px;
 }
+
+#dataListTable tr.title {
+    height: 24px;
+    width: 52px;
+    line-height: 24px;
+    border: 1px solid #006fc8;
+    background: #006fc8;
+    color: #FFF;
+    border-right-color: #FFF;
+}
