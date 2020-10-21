@@ -172,3 +172,33 @@ firstp {
     text-align: center;
 	border: 1px solid #006fc8;
 }
+
+#dataListTable th.sort1 {
+    height: 24px;
+    width: 52px;
+    line-height: 24px;
+    border: 1px solid #006fc8;
+    background: #006fc8;
+    color: #FFF;
+    border-right-color: #FFF;
+}
+
+#dataListTable th.sort2 {
+    height: 24px;
+    width: 396px;
+    line-height: 24px;
+    border: 1px solid #006fc8;
+    background: #006fc8;
+    color: #FFF;
+    border-right-color: #FFF;
+}
+
+#dataListTable th.sort3 {
+    height: 24px;
+    width: 120px;
+    line-height: 24px;
+    border: 1px solid #006fc8;
+    background: #006fc8;
+    color: #FFF;
+    border-right-color: #FFF;
+}
