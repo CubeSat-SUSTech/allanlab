@@ -5,7 +5,7 @@ excerpt: "SUSTech Cubesat. -- Files"
 permalink: /files/
 ---
 
-<h3 text-align: center>file download</h3>
+<h3 text-align='center'>file download</h3>
 <table id="dataListTable" class="table table-condensed table-hover" style="display:block;">
     <tbody>             
         <tr>
