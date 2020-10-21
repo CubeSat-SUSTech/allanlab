@@ -10,7 +10,7 @@ permalink: /files/
     <tbody> 
         <tr>
             <td class='title' colspan='3'>
-                file download
+                File Download
             </td>
         </tr>            
         <tr>
