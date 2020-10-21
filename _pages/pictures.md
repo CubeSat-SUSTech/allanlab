@@ -9,7 +9,7 @@ permalink: /files/
 <table id="dataListTable" class="table table-condensed table-hover" style="display:block;">
     <tbody> 
         <tr>
-            <td class='title'>
+            <td class='title' colspan='3'>
                 file download
             </td>
         </tr>            
