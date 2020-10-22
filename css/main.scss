@@ -240,12 +240,13 @@ firstp {
 }
 
 .nwl span {
-    position: absolute;
+    // position: absolute;
     left: 50%;
     margin-left: -2.2%;
     bottom: 22px;
     font-size: 16px;
-    color: #c0c0c0;
+	color: #c0c0c0;
+	text-align: center;
 }
 
 // .nwl .xian {
