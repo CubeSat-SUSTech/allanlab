@@ -10,6 +10,9 @@ layout: default
   </div>
   <div class='col-sm-0'>
     <div class='sm-00'>
+      <div id="newsid" class="l-sm-4" >
+        {% include Notice.html %}
+      </div>
       {% include lecture.html %}
       <div class="nwl">
         <!-- <div class="xian"></div> -->
@@ -17,9 +20,6 @@ layout: default
         {% include calendar.html %}
         {% include news.html %}
         {% include dynamic.html %}
-      </div>
-      <div id="newsid" class="l-sm-4" >
-        {% include Notice.html %}
       </div>
     </div>  
   </div>
