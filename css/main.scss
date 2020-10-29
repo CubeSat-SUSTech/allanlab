@@ -12,6 +12,7 @@ html {
 }
 body {
 	// padding-top: 70px;
+	text-align:center;
 	position: relative;
 }
 
@@ -44,9 +45,10 @@ pubtit {
 
 .container-fluid {
     position: relative;
-	margin-right: auto;
-    margin-left: auto;
-	max-width: 2800px;
+	// margin-right: auto;
+	// margin-left: auto;
+	margin:0px auto 0px auto;
+	max-width: 5000px;
 }
 
 /* Home, News */
