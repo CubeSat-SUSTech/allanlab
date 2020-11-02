@@ -5,7 +5,6 @@ excerpt: "SUSTech Cubesat. -- Files"
 permalink: /files/
 ---
 
-<!-- <h3 text-align='center'>file download</h3> -->
 <div id="left">
     <div id="dataGather">
         <div id="gatherHead">文件目录</div>
@@ -25,8 +24,8 @@ permalink: /files/
                         </a>
                         <ul>   
                             <li>
-                                <a target="_blank" title="中国东中西三大区域分布" href="/data.aspx?DATAID=277">
-                                    中国东中西三大区域分布
+                                <a target="_blank" title="总体" href="/data.aspx?DATAID=277">
+                                    总体
                                 </a>
                             </li>
                         </ul>
@@ -38,8 +37,8 @@ permalink: /files/
                         </a>
                         <ul>   
                             <li>
-                                <a target="_blank" title="中国东中西三大区域分布" href="/data.aspx?DATAID=277">
-                                    中国东中西三大区域分布
+                                <a target="_blank" title=" 极光相机" href="/data.aspx?DATAID=277">
+                                    极光相机
                                 </a>
                             </li>
                         </ul>
@@ -51,8 +50,8 @@ permalink: /files/
                         </a>
                         <ul>   
                             <li>
-                                <a target="_blank" title="中国东中西三大区域分布" href="/data.aspx?DATAID=277">
-                                    中国东中西三大区域分布
+                                <a target="_blank" title="波动载荷" href="/data.aspx?DATAID=277">
+                                    波动载荷
                                 </a>
                             </li>
                         </ul>
