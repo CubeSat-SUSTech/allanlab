@@ -6,6 +6,63 @@ permalink: /files/
 ---
 
 <!-- <h3 text-align='center'>file download</h3> -->
+<div id="left">
+    <div id="dataGather">
+        <div id="gatherHead">文件目录</div>
+        <div class="gatherBody" style="display: block;">
+            <div class="gatherSort">
+                <div class="gatherSortHead" id="gatherSortHead" title="文献数据">
+                    <span>参考文献</span>
+                    <a href="Datalist1.aspx?FieldTyepID=7,1">
+                    更多&gt;&gt;
+                    </a>
+                </div>
+                <div class="gatherSortBody" style ="display:block;">
+                    <div class="childsorthead" id="childsorthead">
+                        <span>总体</span>
+                        <a href="Datalist1.aspx?FieldTyepID=7,1">
+                            更多&gt;&gt;
+                        </a>
+                        <ul>   
+                            <li>
+                                <a target="_blank" title="中国东中西三大区域分布" href="/data.aspx?DATAID=277">
+                                    中国东中西三大区域分布
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="childsorthead" id="childsorthead">
+                        <span>极光相机</span>
+                        <a href="Datalist1.aspx?FieldTyepID=7,1">
+                            更多&gt;&gt;
+                        </a>
+                        <ul>   
+                            <li>
+                                <a target="_blank" title="中国东中西三大区域分布" href="/data.aspx?DATAID=277">
+                                    中国东中西三大区域分布
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="childsorthead" id="childsorthead">
+                        <span>波动载荷</span>
+                        <a href="Datalist1.aspx?FieldTyepID=7,1">
+                            更多&gt;&gt;
+                        </a>
+                        <ul>   
+                            <li>
+                                <a target="_blank" title="中国东中西三大区域分布" href="/data.aspx?DATAID=277">
+                                    中国东中西三大区域分布
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>   
+            </div>
+        </div>
+    </div>
+</div>
+
 <table id="dataListTable" class="table table-condensed table-hover" style="display:block;">
     <tbody> 
         <tr>
