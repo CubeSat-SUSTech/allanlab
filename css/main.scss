@@ -277,10 +277,7 @@ pubtit {
 //     background: url(../img/title-x.png) no-repeat 0 0;
 //     margin: 17px auto;
 // }
-#left {
-    width: 250px;
-    float: left;
-}
+
 #gatherHead {
     width: 250px;
     padding-left: 10px;
@@ -328,4 +325,8 @@ ul {
     border: 1px solid #bfd6e3;
     // background: url(../picture/sortHead.png) repeat-x;
     cursor: pointer;
+}
+#left {
+    width: 250px;
+    float: left;
 }
