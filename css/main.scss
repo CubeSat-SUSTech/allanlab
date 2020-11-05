@@ -72,7 +72,9 @@ pubtit {
 #homeid img { margin: 0 auto;box-shadow: 0px 0px 0px #888888 }
 #picid img { margin: 6px 3px 60px 6px; box-shadow: 2px 2px 5px #888888 }
 #gridid .row { margin-bottom: 24px;}
-
+#picid {
+	height:1200px;
+}
 
 /* Grid overrides */
 .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-5, .col-sm-6,
