@@ -22,8 +22,21 @@ permalink: /files/
             <th class="sort3">
                 Download
             </th>
-        </tr>               
+        </tr>
+        {% for article in site.data.files limit:50 %}
         <tr>
+            <td class="sort1">
+                {{ article.num }}
+            </td>
+            <td id="aa" class="sort2">
+                {{ article.title }}
+            </td>
+            <td class="sort3">
+                <a id="ContentPlaceHolder1_rf_rep_DataList_down_allow_0" href="{{ site.url }}{{ site.baseurl }}/downloads/try.rar" target="_blank">下载</a>
+            </td>
+        </tr>
+        {% endfor %}      
+        <!-- <tr>
             <td class="sort1">
                 1
             </td>
@@ -385,7 +398,7 @@ permalink: /files/
             <td class="sort3">    
                 <a id="ContentPlaceHolder1_rf_rep_DataList_down_allow_32" href="download.aspx?FileID=1265" target="_blank">下载</a>
             </td>
-        </tr>        
+        </tr>         -->
     </tbody>
 </table>
 
