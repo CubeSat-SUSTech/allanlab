@@ -65,7 +65,12 @@ permalink: /
     <span class="sr-only">Next</span>
   </a>
 </div>
-
+<script src="https://cdn.bootcss.com/jquery/1.11.3/jquery.js">
+</script>
+<!-- Include all compiled plugins (below), or include individual files
+as needed -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js">
+</script>
 
 <!-- 
 
