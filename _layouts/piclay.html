@@ -5,6 +5,214 @@ layout: default
 
 
 <div id="picid" class="col-sm-12">
+  <div class="row">
+    <div class="col-xs-3">
+      <div class="defaultLeftMenu">
+        <div class="defaultLeftList">
+          <div class="defaultLeftContent">
+            <div class="text-center defaultListTitle">
+              <span>
+                项目资料
+              </span>
+            </div>
+            <!-- 利用data-target指定要折叠的分组列表 -->
+            <div class="panel-heading" id="collapseListGroupHeading1" data-toggle="collapse"
+            data-target="#collapseListGroup1" role="tab">
+              <h5 class="text-center">
+              参考文献 &nbsp;
+              <span class="glyphicon glyphicon-menu-down down">
+              </span>
+              </h5>
+            </div>
+            <!-- .panel-collapse和.collapse标明折叠元素 .in表示要显示出来 -->
+            <div id="collapseListGroup1" class="panel-collapse collapse in" role="tabpanel"
+            aria-labelledby="collapseListGroupHeading1">
+              <ul class="text-center solutionList">
+                <li role="presentation" class="linkactive">
+                  <a href="#tab1-1" aria-controls="tab1-1" role="tab" data-toggle="tab">
+                    1.1总体
+                  </a>
+                </li>
+                <li role="presentation">
+                  <a href="#tab1-2" aria-controls="tab1-2" role="tab" data-toggle="tab">
+                    1.2极光相机
+                  </a>
+                </li>
+                <li role="presentation">
+                  <a href="#tab1-3" aria-controls="tab1-2" role="tab" data-toggle="tab">
+                    1.3波动载荷
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <!-- 利用data-target指定要折叠的分组列表 -->
+            <div class="panel-heading" id="collapseListGroupHeading2" data-toggle="collapse"
+            data-target="#collapseListGroup2" role="tab">
+              <h5 class="text-center">
+                工作进展 &nbsp;
+                <span class="glyphicon glyphicon-menu-right right">
+                </span>
+              </h5>
+            </div>
+            <!-- .panel-collapse和.collapse标明折叠元素 .in表示要显示出来 -->
+            <div id="collapseListGroup2" class="panel-collapse collapse " role="tabpanel"
+            aria-labelledby="collapseListGroupHeading2">
+              <ul class="text-center solutionList">
+                <li role="presentation">
+                  <a href="#tab2-1" aria-controls="tab2-1" role="tab" data-toggle="tab">
+                    2.1总体
+                  </a>
+                </li>
+                <li role="presentation">
+                  <a href="#tab2-2" aria-controls="tab2-2" role="tab" data-toggle="tab">
+                    2.2极光相机
+                  </a>
+                </li>
+                <li role="presentation">
+                  <a href="#tab1-2" aria-controls="tab1-2" role="tab" data-toggle="tab">
+                    1.2波动载荷
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <!-- 利用data-target指定要折叠的分组列表 -->
+            <div class="panel-heading" id="collapseListGroupHeading3" data-toggle="collapse"
+            data-target="#collapseListGroup3" role="tab">
+              <h5 class="text-center">
+                相机任务 &nbsp;
+                <span class="glyphicon glyphicon-menu-right right">
+                </span>
+              </h5>
+            </div>
+            <!-- .panel-collapse和.collapse标明折叠元素 .in表示要显示出来 -->
+            <div id="collapseListGroup3" class="panel-collapse collapse " role="tabpanel"
+            aria-labelledby="collapseListGroupHeading3">
+              <ul class="text-center solutionList">
+                <li role="presentation">
+                  <a href="#tab3-1" aria-controls="tab3-1" role="tab" data-toggle="tab">
+                    任务列表
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-9 defaultRightPanel">
+      <div class="defaultPanelBody">
+        <div class="tab-content">
+          <!-- TAB选项1-1内容 -->
+          <div role="tabpanel" class="tab-pane active" id="tab1-1">
+            <div class="defaultPanelHead">
+              <span class="defaultPanelTitle">
+                <h4>
+                  1.1总体
+                </h4>
+              </span>
+            </div>
+            <div class="defaultPanelContent">
+              <div>
+                <p>
+                  1.1即将上线！
+                </p>
+              </div>
+            </div>
+          </div>
+          <!-- TAB选项1-2内容 -->
+          <div role="tabpanel" class="tab-pane " id="tab1-2">
+            <div class="defaultPanelHead">
+              <span class="defaultPanelTitle">
+                <h4>
+                  1.2极光相机
+                </h4>
+              </span>
+            </div>
+            <div class="defaultPanelContent">
+              <div>
+                <p>
+                  1.2极光相机
+                </p>
+                {{ content }}
+              </div>
+            </div>
+          </div>
+          <!-- TAB选项一-内容 -->
+          <div role="tabpanel" class="tab-pane " id="tab2-1">
+            <div class="defaultPanelHead">
+              <span class="defaultPanelTitle">
+                <h4>
+                  2.1总体
+                </h4>
+              </span>
+            </div>
+            <div class="defaultPanelContent">
+              <div>
+                <p>
+                  2.1项目介绍会
+                </p>
+              </div>
+            </div>
+          </div>
+          <!-- TAB选项一-内容 -->
+          <div role="tabpanel" class="tab-pane " id="tab2-2">
+            <div class="defaultPanelHead">
+              <span class="defaultPanelTitle">
+                <h4>
+                  2.2极光相机
+                </h4>
+              </span>
+            </div>
+            <div class="defaultPanelContent">
+              <div>
+                <p>
+                  2.2工作情况
+                </p>
+              </div>
+            </div>
+          </div>
+          <!-- TAB选项一-内容 -->
+          <div role="tabpanel" class="tab-pane " id="tab3-1">
+            <div class="defaultPanelHead">
+              <span class="defaultPanelTitle">
+                <h4>
+                  项目任务
+                </h4>
+              </span>
+            </div>
+            <div class="defaultPanelContent">
+              <div>
+                <p>
+                  任务表格
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- jQuery1.11.3 (necessary for Bo otstrap's JavaScript plugins) -->
+  <script src="https://cdn.bootcss.com/jquery/1.11.3/jquery.js">
+  </script>
+  <!-- Include all compiled plugins (below), or include individual files
+  as needed -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js">
+  </script>
+  <!-- 切换折叠指示图标 -->
+  <script>
+    $(function() {
+      $(".panel-heading").click(function(e) {
+        $(this).find("span").toggleClass("glyphicon-menu-right");
+        $(this).find("span").toggleClass("glyphicon-menu-down");
+      });
+  
+      $(".solutionList li").click(function() {
+        $(".solutionList .linkactive").removeClass('linkactive');
+        $(this).addClass('linkactive');
+      });
+    });
+  </script>
   <!-- <div id="left">
     <div id="gatherHead">文件目录</div>
     <div class="gatherSortHead" id="gatherSortHead" title="文献数据">
@@ -55,7 +263,7 @@ layout: default
         </div>
     </div>
   </div> -->
-  <div class="left">
+  <!-- <div class="left">
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
@@ -78,9 +286,7 @@ layout: default
             </div>
             <div id="collapsefour" class="panel-collapse collapse">
               <div class="panel-body">
-                Nihil anim keffiyeh helvetica, craft beer labore wes anderson 
-                cred nesciunt sapiente ea proident. Ad vegan excepteur butcher 
-                vice lomo.
+                稍等片刻！
               </div>
             </div>
           </div>
@@ -167,5 +373,5 @@ layout: default
     </script>  
   </div>
 	
-  {{ content }}
+  {{ content }} -->
 </div>
