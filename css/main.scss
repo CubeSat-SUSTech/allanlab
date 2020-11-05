@@ -334,3 +334,159 @@ ul {
 	padding-left: 10px;
 	background:#bfd6e3;
 }
+
+*{
+	padding:0;
+	margin:0;
+  }
+  ul{margin-bottom:0;}
+  li {
+	list-style: none;
+  }
+  
+  .defaultLeftMenu {
+	background-color: #fdfdfd;
+	margin-bottom: 20px;
+  }
+  
+  .defaultLeftList {
+	padding: 40px 20px 20px;
+	height: 100%;
+  }
+  
+  .defaultLeftContent {
+	border: 1px solid #ddd;
+	height: inherit;
+  }
+  
+  .defaultListTitle {
+	height: 35px;
+	line-height: 35px;
+	background: #02aee8;
+	color: #fdfdfd;
+  }
+  
+  .panel-heading {
+	border-top: 1px solid #ddd;
+	background: #f2f2f2;
+	cursor: pointer;
+  }
+  
+  .panel-heading .glyphicon {
+	top: 2px!important;
+	float: right;
+  }
+  
+  .defaultLeftContent ul > li,
+  .panel-heading {
+	padding:0 10px;
+	height: 35px;
+	line-height: 35px;
+	border-bottom: 1px solid #ddd;
+  }
+  
+  .defaultLeftContent ul > li:last-child {
+	border-bottom: 0;
+  }
+  
+  .defaultLeftContent ul > li > a {
+	color: #333;
+	display: block;
+	letter-spacing: 1px;
+  }
+  
+  .defaultLeftContent ul > li > a:hover,
+  .defaultLeftContent ul > li > a:focus {
+	text-decoration: none;
+  }
+  
+  .defaultLeftContent ul > li.linkactive > a {
+	color: #02aee8;
+  }
+  
+  
+  /*DefaultRightPanel*/
+  
+  .defaultRightPanel {
+	padding-left: 0;
+  }
+  
+  .defaultPanelBody {
+	background-color: #fdfdfd;
+	margin-bottom: 20px;
+	padding: 40px 20px 0 20px;
+  }
+  
+  .defaultPanelHead {
+	height: 45px;
+	line-height: 45px;
+	border-bottom: 1px solid #ddd;
+  }
+  
+  .defaultPanelTitle {
+	font-size: 15px;
+	letter-spacing: 1px;
+	text-align: center;
+  }
+  
+  .defaultPanelContent {
+	padding: 20px 0;
+  }
+  
+  .defaultPanelBlank {
+	height: 350px;
+  }
+  
+  .product-list-item {
+	height: 180px;
+  }
+  
+  .product-img {
+	height: inherit;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+  }
+  
+  .product-list-info {
+	padding: 10px 0 40px 0;
+  }
+  
+  .product-title {
+	font-size: 16px;
+	padding-bottom: 5px;
+	width: 100%;
+	letter-spacing: 1px;
+	font-weight: bolder;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+  }
+  
+  .product-model {
+	width: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+  }
+  
+  .product-title,
+  .product-model,
+  .product-title:hover,
+  .product-model:hover,
+  .product-title:focus,
+  .product-model:focus {
+	color: #333;
+	display: block;
+  }
+  
+  .pagination a,
+  .pagination span {
+	margin: 0 4px;
+  }
+  
+  @media screen and (max-width: 1024px) {
+	.product-list-item {
+	  height: 120px;
+	}
+  }
