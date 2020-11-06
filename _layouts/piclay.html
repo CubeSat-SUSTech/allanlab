@@ -148,7 +148,7 @@ layout: default
             <div class="defaultPanelContent">
               <div>
                 <p>
-                  1.3波动载荷
+                  1.3波动载荷,即将上线！
                 </p>
               </div>
             </div>
@@ -167,6 +167,39 @@ layout: default
                 <p>
                   2.1项目介绍会
                 </p>
+                <table id="dataListTable" class="table table-condensed table-hover" style="display:block;">
+                  <tbody> 
+                      <tr>
+                          <td class='title' colspan='3'>
+                              File Download
+                          </td>
+                      </tr>            
+                      <tr>
+                          <th class="sort1">
+                              Derial Number
+                          </th>
+                          <th class="sort2 text-center">
+                              Data
+                          </th>
+                          <th class="sort3">
+                              Download
+                          </th>
+                      </tr>
+                      {% for article in site.data.progress_total limit:2 %}
+                      <tr>
+                          <td class="sort1">
+                              {{ article.num }}
+                          </td>
+                          <td id="aa" class="sort2">
+                              {{ article.title }}
+                          </td>
+                          <td class="sort3">
+                              <a id="ContentPlaceHolder1_rf_rep_DataList_down_allow_0" href="{{ site.url }}{{ site.baseurl }}/progress_total/{{ article.title }}" target="_blank">下载</a>
+                          </td>
+                      </tr>
+                      {% endfor %}      
+                  </tbody>
+                </table>
               </div>
             </div>
           </div>
@@ -184,6 +217,39 @@ layout: default
                 <p>
                   2.2工作情况
                 </p>
+                <table id="dataListTable" class="table table-condensed table-hover" style="display:block;">
+                  <tbody> 
+                      <tr>
+                          <td class='title' colspan='3'>
+                              File Download
+                          </td>
+                      </tr>            
+                      <tr>
+                          <th class="sort1">
+                              Derial Number
+                          </th>
+                          <th class="sort2 text-center">
+                              Data
+                          </th>
+                          <th class="sort3">
+                              Download
+                          </th>
+                      </tr>
+                      {% for article in site.data.progress_auroracamera limit:17 %}
+                      <tr>
+                          <td class="sort1">
+                              {{ article.num }}
+                          </td>
+                          <td id="aa" class="sort2">
+                              {{ article.title }}
+                          </td>
+                          <td class="sort3">
+                              <a id="ContentPlaceHolder1_rf_rep_DataList_down_allow_0" href="{{ site.url }}{{ site.baseurl }}/progress_aurora/{{ article.title }}" target="_blank">下载</a>
+                          </td>
+                      </tr>
+                      {% endfor %}      
+                  </tbody>
+                </table>
               </div>
             </div>
           </div>
@@ -198,7 +264,7 @@ layout: default
             <div class="defaultPanelContent">
               <div>
                 <p>
-                  2.3波动载荷
+                  2.3波动载荷,即将上线！
                 </p>
               </div>
             </div>
@@ -217,6 +283,39 @@ layout: default
                 <p>
                   任务表格
                 </p>
+                <table id="dataListTable" class="table table-condensed table-hover" style="display:block;">
+                  <tbody> 
+                      <tr>
+                          <td class='title' colspan='3'>
+                              File Download
+                          </td>
+                      </tr>            
+                      <tr>
+                          <th class="sort1">
+                              Derial Number
+                          </th>
+                          <th class="sort2 text-center">
+                              Data
+                          </th>
+                          <th class="sort3">
+                              Download
+                          </th>
+                      </tr>
+                      {% for article in site.data.task limit:3 %}
+                      <tr>
+                          <td class="sort1">
+                              {{ article.num }}
+                          </td>
+                          <td id="aa" class="sort2">
+                              {{ article.title }}
+                          </td>
+                          <td class="sort3">
+                              <a id="ContentPlaceHolder1_rf_rep_DataList_down_allow_0" href="{{ site.url }}{{ site.baseurl }}/task/{{ article.title }}" target="_blank">下载</a>
+                          </td>
+                      </tr>
+                      {% endfor %}      
+                  </tbody>
+                </table>
               </div>
             </div>
           </div>
