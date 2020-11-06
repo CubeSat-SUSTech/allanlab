@@ -23,7 +23,7 @@ permalink: /files/
                 Download
             </th>
         </tr>
-        {% for article in site.data.files limit:50 %}
+        {% for article in site.data.files limit:42 %}
         <tr>
             <td class="sort1">
                 {{ article.num }}
