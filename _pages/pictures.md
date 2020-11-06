@@ -32,7 +32,7 @@ permalink: /files/
                 {{ article.title }}
             </td>
             <td class="sort3">
-                <a id="ContentPlaceHolder1_rf_rep_DataList_down_allow_0" href="{{ site.url }}{{ site.baseurl }}/downloads/try.rar" target="_blank">下载</a>
+                <a id="ContentPlaceHolder1_rf_rep_DataList_down_allow_0" href="{{ site.url }}{{ site.baseurl }}/references/{{ article.title }}" target="_blank">下载</a>
             </td>
         </tr>
         {% endfor %}      
