@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - AOA"
+title: "Cubesat SUSTECH - AOA"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
