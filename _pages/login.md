@@ -12,7 +12,7 @@ permalink: /login/
 <p>{{ article.date }} <br>
 <em>{{ article.headline }}</em></p>
 {% endfor %} -->
-<form action="{{ site.url }}{{ site.baseurl }}/pictures.html" onsubmit="return fn()">
+<form action="{{ site.url }}{{ site.baseurl }}/pictures.html" method="post" onsubmit="return fn()">
     <label for="firstname" class="col-sm-2 control-label">用户名：</label>
     <input type="text" name="userName" placeholder='请输入用户名'>
     <div  class="col-sm-10">
