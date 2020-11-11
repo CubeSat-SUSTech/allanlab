@@ -1,9 +1,9 @@
 ---
 title: "LOGIN"
-layout: login
+layout: loginlay
 excerpt: "SUSTech Cubesat"
 sitemap: false
-permalink: /login.html
+permalink: /login/
 ---
 
 <!-- # Notice
@@ -12,7 +12,7 @@ permalink: /login.html
 <p>{{ article.date }} <br>
 <em>{{ article.headline }}</em></p>
 {% endfor %} -->
-<form action="{{ site.url }}{{ site.baseurl }}/allnews.html" onsubmit="return fn()">
+<form action="{{ site.url }}{{ site.baseurl }}/pictures.html" onsubmit="return fn()">
     <input type="text" name="userName" />
     <input type="password" name="passWord" />
     <button type="submit" >submit</button>
