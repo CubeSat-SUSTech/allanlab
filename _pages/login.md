@@ -13,7 +13,7 @@ permalink: /login/
 <em>{{ article.headline }}</em></p>
 {% endfor %} -->
 <form class="form-horizontal" role="form" action="{{ site.url }}{{ site.baseurl }}/pictures.html" method="post" onsubmit="return fn()">
-	<div class="form-group">
+	<div class="row">
 		<label for="firstname" class="col-sm-2 control-label">用户名</label>
 		<div class="col-sm-10">
 			<input type="text" class="form-control" id="firstname" 
