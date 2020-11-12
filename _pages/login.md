@@ -3,7 +3,7 @@ title: "LOGIN"
 layout: loginlay
 excerpt: "SUSTech Cubesat"
 sitemap: false
-permalink: /login/
+permalink: /login
 ---
 
 <!-- # Notice
