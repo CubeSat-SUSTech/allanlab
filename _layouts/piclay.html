@@ -264,8 +264,41 @@ layout: default
             <div class="defaultPanelContent">
               <div>
                 <p>
-                  2.3 波动载荷, 即将上线！
+                  2.3 波动载荷
                 </p>
+                <table id="dataListTable" class="table table-condensed table-hover" style="display:block;">
+                  <tbody> 
+                      <tr>
+                          <td class='title' colspan='3'>
+                              File Download
+                          </td>
+                      </tr>            
+                      <tr>
+                          <th class="sort1">
+                              Derial Number
+                          </th>
+                          <th class="sort2 text-center">
+                              Data
+                          </th>
+                          <th class="sort3">
+                              Download
+                          </th>
+                      </tr>
+                      {% for article in site.data.progress_cubesate_load limit:7 %}
+                      <tr>
+                          <td class="sort1">
+                              {{ article.num }}
+                          </td>
+                          <td id="aa" class="sort2">
+                              {{ article.title }}
+                          </td>
+                          <td class="sort3">
+                              <a id="ContentPlaceHolder1_rf_rep_DataList_down_allow_0" href="{{ site.url }}{{ site.baseurl }}/progress_cubesate_load/{{ article.title }}" target="_blank">下载</a>
+                          </td>
+                      </tr>
+                      {% endfor %}      
+                  </tbody>
+                </table>
               </div>
             </div>
           </div>
