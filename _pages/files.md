@@ -2,7 +2,7 @@
 title: "SUSTech Cubesat. - Files"
 layout: piclay
 excerpt: "SUSTech Cubesat. -- Files"
-permalink: /files
+permalink: /files.html
 ---
 
 <table id="dataListTable" class="table table-condensed table-hover" style="display:block;">
