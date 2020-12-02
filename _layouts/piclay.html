@@ -3,7 +3,44 @@ layout: default
 ---
 
 
+<script>
+  var uname=sessionStorage.getItem("firstname");
+  var pdw=sessionStorage.getItem("lastname");
+  if(uname=='sustech_ess' || pdw=="Cu8e$@t_2020"){
+    $(function() {
+      $(".panel-heading").click(function(e) {
+        $(this).find("span").toggleClass("glyphicon-menu-right");
+        $(this).find("span").toggleClass("glyphicon-menu-down");
+      });
+  
+      $(".solutionList li").click(function() {
+        $(".solutionList .linkactive").removeClass('linkactive');
+        $(this).addClass('linkactive');
+      });
+    });
+  }
+  else
+  {
+    window.location.href="{{ site.url }}{{ site.baseurl }}/login.html";
+  }
+  
+  // var uname=sessionStorage.getItem("firstname");
+  // var pdw=sessionStorage.getItem("lastname");
+  // if(uname=='sustech_ess' || pdw=="Cu8e$@t_2020"){
+  //   window.location.href="{{ site.url }}{{ site.baseurl }}/allnews.html";
+  // }
+  // $(function() {
+  //   $(".panel-heading").click(function(e) {
+  //     $(this).find("span").toggleClass("glyphicon-menu-right");
+  //     $(this).find("span").toggleClass("glyphicon-menu-down");
+  //   });
 
+  //   $(".solutionList li").click(function() {
+  //     $(".solutionList .linkactive").removeClass('linkactive');
+  //     $(this).addClass('linkactive');
+  //   });
+  // });
+</script>
 <div id="picid" class="col-sm-12">
   <div class="row">
     <div class="col-xs-3">
@@ -364,42 +401,4 @@ layout: default
   <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js">
   </script>
   <!-- 切换折叠指示图标 -->
-  <script>
-    var uname=sessionStorage.getItem("firstname");
-    var pdw=sessionStorage.getItem("lastname");
-    if(uname=='sustech_ess' || pdw=="Cu8e$@t_2020"){
-      $(function() {
-        $(".panel-heading").click(function(e) {
-          $(this).find("span").toggleClass("glyphicon-menu-right");
-          $(this).find("span").toggleClass("glyphicon-menu-down");
-        });
-    
-        $(".solutionList li").click(function() {
-          $(".solutionList .linkactive").removeClass('linkactive');
-          $(this).addClass('linkactive');
-        });
-      });
-    }
-    else
-    {
-      window.location.href="{{ site.url }}{{ site.baseurl }}/login.html";
-    }
-    
-    // var uname=sessionStorage.getItem("firstname");
-    // var pdw=sessionStorage.getItem("lastname");
-    // if(uname=='sustech_ess' || pdw=="Cu8e$@t_2020"){
-    //   window.location.href="{{ site.url }}{{ site.baseurl }}/allnews.html";
-    // }
-    // $(function() {
-    //   $(".panel-heading").click(function(e) {
-    //     $(this).find("span").toggleClass("glyphicon-menu-right");
-    //     $(this).find("span").toggleClass("glyphicon-menu-down");
-    //   });
-  
-    //   $(".solutionList li").click(function() {
-    //     $(".solutionList .linkactive").removeClass('linkactive');
-    //     $(this).addClass('linkactive');
-    //   });
-    // });
-  </script>
 </div>
