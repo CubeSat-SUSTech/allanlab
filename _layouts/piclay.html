@@ -8,17 +8,7 @@ layout: default
   var pdw=sessionStorage.getItem("lastname");
 
   if(uname=='sustech_ess' || pdw=="Cu8e$@t_2020"){
-    $(function() {
-      $(".panel-heading").click(function(e) {
-        $(this).find("span").toggleClass("glyphicon-menu-right");
-        $(this).find("span").toggleClass("glyphicon-menu-down");
-      });
-  
-      $(".solutionList li").click(function() {
-        $(".solutionList .linkactive").removeClass('linkactive');
-        $(this).addClass('linkactive');
-      });
-    });
+    
   }
   else
   {
@@ -400,6 +390,19 @@ layout: default
   <!-- Include all compiled plugins (below), or include individual files
   as needed -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js">
+  </script>
+  <script>
+    $(function() {
+      $(".panel-heading").click(function(e) {
+        $(this).find("span").toggleClass("glyphicon-menu-right");
+        $(this).find("span").toggleClass("glyphicon-menu-down");
+      });
+  
+      $(".solutionList li").click(function() {
+        $(".solutionList .linkactive").removeClass('linkactive');
+        $(this).addClass('linkactive');
+      });
+    });
   </script>
   <!-- 切换折叠指示图标 -->
 </div>
