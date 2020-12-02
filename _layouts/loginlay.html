@@ -35,11 +35,15 @@ layout: default
   <script>  
     function fn() {
         var flag=true;
+        // var fstname = document.getElementById("firstname")
+        // var lstname = document.getElementById("lastname")
         var myUserName = document.querySelectorAll("input")[0];
         var myPassWord = document.querySelectorAll("input")[1];
         if (myUserName.value == "sustech_ess") {
             if (myPassWord.value == "Cu8e$@t_2020") {
                 alert("验证成功");
+                sessionStorage.setItem("firstname",firstname.value);
+                sessionStorage.setItem("lastname",lastname.value);
                 return flag;
             }
             else {
