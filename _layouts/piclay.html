@@ -6,6 +6,7 @@ layout: default
 <script>
   var uname=sessionStorage.getItem("firstname");
   var pdw=sessionStorage.getItem("lastname");
+
   if(uname=='sustech_ess' || pdw=="Cu8e$@t_2020"){
     $(function() {
       $(".panel-heading").click(function(e) {
@@ -272,7 +273,7 @@ layout: default
                               Download
                           </th>
                       </tr>
-                      {% for article in site.data.progress_auroracamera limit:17 %}
+                      {% for article in site.data.progress_auroracamera limit:28 %}
                       <tr>
                           <td class="sort1">
                               {{ article.num }}
