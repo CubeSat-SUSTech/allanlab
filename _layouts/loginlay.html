@@ -43,8 +43,8 @@ layout: default
           var myUserName = document.querySelectorAll("input")[0];
           var myPassWord = document.querySelectorAll("input")[1];
           
-          if (myUserName.value == "{{ article.title }}") {
-              if (myPassWord.value == "{{ article.num }}") {
+          if (myUserName.value == "{{ article.username }}") {
+              if (myPassWord.value == "{{ article.password }}") {
                   alert("验证成功");
                   sessionStorage.setItem("firstname",firstname.value);
                   sessionStorage.setItem("lastname",lastname.value);
