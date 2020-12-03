@@ -33,8 +33,8 @@ layout: default
     </div>
   </form>
   {% for article in site.data.login limit:1%}
-    pwd = {{ article.num }}
-    uname = {{ article.title }}
+    <!-- pwd = {{ article.num }}
+    uname = {{ article.title }} -->
     <script>  
       function fn() {
           var flag=true;
@@ -43,8 +43,8 @@ layout: default
           var myUserName = document.querySelectorAll("input")[0];
           var myPassWord = document.querySelectorAll("input")[1];
           
-          if (myUserName.value == uname) {
-              if (myPassWord.value == pwd) {
+          if (myUserName.value == "sustech_ess") {
+              if (myPassWord.value == "Cu8e$@t_2020") {
                   alert("验证成功");
                   sessionStorage.setItem("firstname",firstname.value);
                   sessionStorage.setItem("lastname",lastname.value);
@@ -69,4 +69,5 @@ layout: default
   </script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js">
     </script>
+
 </div>
