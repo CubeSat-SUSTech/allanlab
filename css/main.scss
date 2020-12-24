@@ -502,6 +502,6 @@ ul {
 	}
   }
 .bg {
-  background:"{{ site.url }}{{ site.baseurl }}/images/bg.jpg" no-repeat center fixed;
+  background:url("{{ site.url }}{{ site.baseurl }}/images/bg.jpg") no-repeat center fixed;
   background-size:contain;
 }
