@@ -4,21 +4,21 @@ layout: default
 <div id="loginid" class="col-sm-12 bg">
   <form class="form-horizontal" role="form" action="{{ site.url }}{{ site.baseurl }}/files" method="GET" onsubmit="return fn()">
     <div class="form-group">
-      <label for="firstname" class="col-sm-2 control-label">用户名</label>
+      <label for="firstname" class="col-sm-3 control-label">用户名</label>
       <div class="col-sm-3">
         <input type="text" class="form-control" id="firstname" 
              placeholder="请输入用户名">
       </div>
     </div>
     <div class="form-group">
-      <label for="lastname" class="col-sm-2 control-label">密码</label>
+      <label for="lastname" class="col-sm-3 control-label">密码</label>
       <div class="col-sm-3">
         <input type="password" class="form-control" id="lastname" 
              placeholder="请输入用户密码">
       </div>
     </div>
     <div class="form-group">
-      <div class="col-sm-offset-2 col-sm-2">
+      <div class="col-sm-offset-2 col-sm-3">
         <div class="checkbox">
           <label>
             <input type="checkbox"> 请记住我
@@ -69,6 +69,13 @@ layout: default
   </script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js">
     </script>
-
+  <script>
+    function clear() {
+    Source=document.body.firstChild.data;
+    document.open();
+    document.close();
+    document.body.innerHTML=Source;
+    }
+  </script>
 </div>
 
