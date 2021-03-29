@@ -1,0 +1,6359 @@
+[33mcommit e805ae72dec510013d5767acb4efbe7c9aeac5af[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Mar 19 11:54:03 2021 +0800
+
+    update
+
+[33mcommit 3b48123ce76f1385b070012b5ce22ee5617d777f[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Mon Mar 8 14:41:15 2021 +0800
+
+    a
+
+[33mcommit f009492d8561688b0a3b7857715e60985f44a92b[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Jan 29 17:07:26 2021 +0800
+
+    update
+
+[33mcommit 734931136cf5b22fd08463ecae5d32b9486a51e8[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Jan 28 17:36:08 2021 +0800
+
+    a
+
+[33mcommit f8ecf6a596b11d7dc4185336ce1c7082c5cc7d99[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Jan 15 10:05:03 2021 +0800
+
+    Update default.html
+
+[33mcommit 4d22cd48df1f078e6c37afc5981ba5482edcbc2d[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Jan 15 09:58:57 2021 +0800
+
+    Update default.html
+
+[33mcommit 8de648ba757c6854dede1a1c16ea906436f21ab3[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Jan 15 09:50:48 2021 +0800
+
+    hide_login_code
+
+[33mcommit cb031f046af3b276c3e3e15db43a8f6501db8efe[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Jan 14 11:18:55 2021 +0800
+
+    1.6
+
+[33mcommit 9b00d0df2efdbc83c8eb6b071281eebb9776ee84[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Dec 24 17:27:27 2020 +0800
+
+    Update main.scss
+
+[33mcommit 48b01220a077834b9a848936c272e10c0655a32a[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Dec 24 17:18:47 2020 +0800
+
+    Update main.scss
+
+[33mcommit d20f5bc8b05b46f6615a1ae4039d3600d504aa77[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Dec 24 16:41:23 2020 +0800
+
+    Update loginlay.html
+
+[33mcommit 68ae6b57358a53cc396de7155d5700d015051e9f[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Dec 24 15:41:03 2020 +0800
+
+    Update main.scss
+
+[33mcommit f24f2a4dd48a8077056e056e9d945e907d3a9df3[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Dec 24 15:31:17 2020 +0800
+
+    Update main.scss
+
+[33mcommit 1b0c40dd6702421d5097df04e63fc3c71c39169e[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Dec 24 15:23:18 2020 +0800
+
+    login_bg
+
+[33mcommit 0fd69168ecea4e230ef6b81ef8be26347c3adac5[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Dec 24 15:22:45 2020 +0800
+
+    login_bg
+
+[33mcommit 53f5632d765e9a425cd6b13ac4501ff555e80913[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Dec 4 17:45:10 2020 +0800
+
+    Update head.html
+
+[33mcommit 84dc20ea83b9063b26a3359b6788a8f82f9e3ac7[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Dec 4 17:41:05 2020 +0800
+
+    hidecodehead
+
+[33mcommit 63b039357eae2b35608b94f7060fbc550f7670f5[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Dec 4 17:34:43 2020 +0800
+
+    Update loginlay.html
+
+[33mcommit eca0851c62ffef3e35258987feb2d05a56f26ed8[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Dec 4 17:30:38 2020 +0800
+
+    Update loginlay.html
+
+[33mcommit c3e9b2bad3f637539827e037aec746047d92e1df[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Dec 3 10:47:17 2020 +0800
+
+    Update loginlay.html
+
+[33mcommit c007a81184b99e738a07b5d507668730ed76cfdb[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Dec 3 10:24:52 2020 +0800
+
+    Update loginlay.html
+
+[33mcommit ab4e7ec789e42eca378e115d9af976162c766cd3[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Dec 3 09:56:13 2020 +0800
+
+    Update loginlay.html
+
+[33mcommit 685829c1cb87cfb7a8832f182f430a26dc4b08c5[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Dec 3 09:52:03 2020 +0800
+
+    Update loginlay.html
+
+[33mcommit 2f54f1c3562af20650dc7b3624f9ecd21a99ee72[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Dec 3 09:40:14 2020 +0800
+
+    Update loginlay.html
+
+[33mcommit f6e818e7865ae2614783637d184aa2f2aae5b917[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Dec 2 17:43:23 2020 +0800
+
+    Update piclay.html
+
+[33mcommit 8cc35b1c3f93e8548720e9850c05c8962a334362[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Dec 2 17:11:26 2020 +0800
+
+    progress_aurora
+
+[33mcommit d63281fd6f5a4a075cc7ae98e5ced4c99979fc53[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Dec 2 11:52:16 2020 +0800
+
+    Update piclay.html
+
+[33mcommit 4f8637dcd69861b58506f5d23336c84150af35ff[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Dec 2 11:40:29 2020 +0800
+
+    Update piclay.html
+
+[33mcommit 8495e8a3a56e54d7835fca07b0837c2e43c8c096[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Dec 2 11:38:29 2020 +0800
+
+    login_js
+
+[33mcommit 412d0dedccf35f9ada2ca6d84b285aca6d967d40[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Tue Dec 1 17:57:47 2020 +0800
+
+    files
+
+[33mcommit c2fec13983a646bc4bad11d810d104a7eabd0fac[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Tue Dec 1 17:52:48 2020 +0800
+
+    files/
+
+[33mcommit a4791062533638e93918eb9568cf661448a5d881[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 27 14:19:37 2020 +0800
+
+    Update loginlay.html
+
+[33mcommit ef36dee5d99c753e1ea05f3301406131a62d321a[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 27 14:12:40 2020 +0800
+
+    Update files.md
+
+[33mcommit a3602976d5dac6c0782341553afc3cd1fb5d93b7[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Nov 25 13:09:41 2020 +0800
+
+    Update loginlay.html
+
+[33mcommit aef4815e25591b4877378b7773012e84e63368c7[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Nov 25 12:59:22 2020 +0800
+
+    Update loginlay.html
+
+[33mcommit 2c123a618d9370bf76c71a7ee99c0b6cd199d790[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Nov 25 12:54:11 2020 +0800
+
+    picture_to_file
+
+[33mcommit 1973d7d39e3b088cfb50a43b7e722adcfbd54886[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Nov 25 12:50:05 2020 +0800
+
+    Update loginlay.html
+
+[33mcommit 5d4ff7a0c26e0215b0cd12fbf5a3a38e8b8c4b7b[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 13 17:52:57 2020 +0800
+
+    subesat_load2
+
+[33mcommit c07e2ec199dff8ad95e6eb0e4cc28767d09375e1[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 13 17:47:02 2020 +0800
+
+    load_progress_yml
+
+[33mcommit 288682589b2d8db35847e03958919c3600a7c2f1[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 13 17:35:23 2020 +0800
+
+    load
+
+[33mcommit d9c8c14343026030a26d75feee4bbbf8b6f7dd9f[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 12 10:39:35 2020 +0800
+
+    login
+
+[33mcommit 3b685c122ad7076301882f443b907a8ca33bba64[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 12 10:34:53 2020 +0800
+
+    Update pictures.md
+
+[33mcommit 6f6f45f24de6066a153bfc525bff5d4939114836[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 12 10:33:35 2020 +0800
+
+    Update loginlay.html
+
+[33mcommit 67ac4ad81a7e7029ce4397e3974871f1b7bf174f[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 12 10:27:41 2020 +0800
+
+    logindeletefile
+
+[33mcommit e610a6cb49b2aed3a110162ef27d8eb5013d1fec[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 12 09:41:23 2020 +0800
+
+    loginaddress
+
+[33mcommit cc698b887b70913e836814eb224991cbc4fef82d[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 12 09:37:10 2020 +0800
+
+    link_addlogin
+
+[33mcommit eb582de70d7a7eba1da0d68c35a32b4650913cd9[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 12 09:32:09 2020 +0800
+
+    Update loginlay.html
+
+[33mcommit ff25ff7c0817064e32e15a4976209b7f6f44ed1b[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 12 09:29:05 2020 +0800
+
+    logintobefore
+
+[33mcommit 8e03dc293cd8c19070859475ebe8e9b09b54b01d[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 12 09:25:21 2020 +0800
+
+    Update login.md
+
+[33mcommit 31daea8a3b11ea86db402ef22d90a2c7ff1274ca[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 12 09:18:16 2020 +0800
+
+    Update login.md
+
+[33mcommit e995d98f8b2114d02db8ee5e514b0e6176b2a07f[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Nov 11 17:49:26 2020 +0800
+
+    Update login.md
+
+[33mcommit e79c8ccd210eb7ed77d6dd0cf14c57cf77e0260b[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Nov 11 17:41:21 2020 +0800
+
+    Update login.md
+
+[33mcommit 4d143afc03fccaf8f8ae9b90b1372595b83306ff[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Nov 11 17:37:38 2020 +0800
+
+    Update login.md
+
+[33mcommit 6ad4f2db20894b5a518ccae5a217560cffc0cab2[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Nov 11 16:35:59 2020 +0800
+
+    Update login.md
+
+[33mcommit 33a4b020804aa2cf20eda8d5c91ad3e591055d52[m
+Merge: ea76cef 3eba9e2
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Nov 11 16:30:26 2020 +0800
+
+    Merge branch 'master' of https://github.com/CubeSat-SUSTech/cubesat-sustech.github.io
+
+[33mcommit ea76cefe42b11ff93f5b747140ac5ca4c3e86026[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Nov 11 16:29:20 2020 +0800
+
+    login_filelink
+
+[33mcommit 3eba9e210c5ba828367a27b3b0e99b261233e492[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Nov 8 13:52:37 2020 +0800
+
+    Update mini_lecture_series.md
+
+[33mcommit b62e33616644a3ff33d7741de517ed8c7b06327d[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 17:52:19 2020 +0800
+
+    log
+
+[33mcommit 4f21bfcefbe2779ba49270cd0dbf8929022b8589[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 14:27:41 2020 +0800
+
+    Update piclay.html
+
+[33mcommit 12c98866d0de5ec2f5c5b17b71d4d5d1ed1ffb34[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 13:41:25 2020 +0800
+
+    Update main.scss
+
+[33mcommit cd4e5e31c347fc5e65de86c84246a7ad4844aea1[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 13:33:50 2020 +0800
+
+    Update home.md
+
+[33mcommit 01c000ede4cf773b64533d6db357298275c13e03[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 12:39:33 2020 +0800
+
+    Update pictures.md
+
+[33mcommit d9b9f0f6105e14ef9233fb892c9124499fefc99b[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 12:30:49 2020 +0800
+
+    Update piclay.html
+
+[33mcommit 82fb9c607466c50428f88f3b6959749a2fb4f4c8[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 12:28:09 2020 +0800
+
+    Update piclay.html
+
+[33mcommit 44045d2276e87852e0130fc910509d03705a7d6b[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 11:50:36 2020 +0800
+
+    progress_task
+
+[33mcommit e405528d65f64bfe6bb3694bebe00cee94cc522b[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 11:06:05 2020 +0800
+
+    Update pictures.md
+
+[33mcommit b425c0e59a7bd3c2d21ac990306b60a8a7dd3499[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 11:01:24 2020 +0800
+
+    Update pictures.md
+
+[33mcommit f95162d311b7bce9971fc406eefc16f47b03b2fc[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 11:00:43 2020 +0800
+
+    Update main.scss
+
+[33mcommit 5dc5ca2b2136daa4d46aeff838bbce3957d533eb[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 10:03:18 2020 +0800
+
+    references
+    
+    filedownload
+
+[33mcommit e04d2b87d39d30abe98eb378ba33b437fcbf40cc[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 10:02:41 2020 +0800
+
+    Create Aurora_Parameterized Least-Squares Attitude History Estimation and Magne.pdf
+
+[33mcommit 2540d403e6030b4972116ccf173fc96222deb1f9[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 10:02:38 2020 +0800
+
+    Create aurora_iss_20170817.mp4
+
+[33mcommit 78e31ae00719a829c16bdca2dbba37792d62acbe[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 10:02:33 2020 +0800
+
+    Create Aurora_intensity_unit_conversion_brightness.pdf
+
+[33mcommit 1447eef7987c3e0f6c7c6bbdb37ce7672768ad2d[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 10:00:35 2020 +0800
+
+    Create ATISE.pdf
+
+[33mcommit a91bdec09e233f2b81bbff1dd7b20c2c337c7d0f[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 10:00:31 2020 +0800
+
+    Create ASTRID-2.pdf
+
+[33mcommit f8c97d33ed6bf0626a0a93486dc4b480a77d7dfb[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 10:00:28 2020 +0800
+
+    Create asim_neubert_3.pdf
+
+[33mcommit 9568cf6525fce39339dc0db6030d7a750cbff6cf[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 10:00:24 2020 +0800
+
+    Create Alaska_ASI_imager_3.pdf
+
+[33mcommit ce891ee61ef773925c0f15f214ccf19e922127e8[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 10:00:16 2020 +0800
+
+    Create Alaska_ASI_imager_2.pdf
+
+[33mcommit b3d01d0a28bc5345815ff49fde02ed1d3f6b7d62[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 09:56:49 2020 +0800
+
+    Create Alaska_ASI_imager_1.pdf
+
+[33mcommit b1e459d0a8dc1af6b97cf2cf8b26b0b010f395a2[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 09:56:45 2020 +0800
+
+    Create 27165.pdf
+
+[33mcommit 3bbf9c56441551e4d359886b96e7119d5148b11b[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 09:56:41 2020 +0800
+
+    Create 07-Dumitru-GOLIAT.pdf
+
+[33mcommit 643553c1922e3e1872d075fe013c9517bd53c6c6[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 09:56:37 2020 +0800
+
+    Update pictures.md
+
+[33mcommit 9fac6c3976e8663a4ee2f26af13c48b85550c9ec[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Nov 6 09:48:50 2020 +0800
+
+    Update files.yml
+
+[33mcommit 9f0474c2ab649ae17a861d4211179045fba43889[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 5 18:06:08 2020 +0800
+
+    Update pictures.md
+
+[33mcommit 13506523460ccaf901bcd1cec88a636f844e1dd5[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 5 17:57:00 2020 +0800
+
+    Update pictures.md
+
+[33mcommit c2afbf29201c1cf6a5e6da9b05a359ef3b0ab2f5[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 5 17:56:54 2020 +0800
+
+    Update piclay.html
+
+[33mcommit 1250fc04c0384b5bca90722d31c7bfd7794351c8[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 5 17:56:48 2020 +0800
+
+    Delete pictures_Leiden.yml
+
+[33mcommit 2c9dd5b29d3e6a4e5e8eb44d914df9054ec0e2df[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 5 17:56:39 2020 +0800
+
+    Create files.yml
+
+[33mcommit 3b3345fb7eb70d8d7878248a3cd60205d453d87a[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 5 17:23:26 2020 +0800
+
+    Update home.md
+
+[33mcommit 6f5c467d4644fcb0ea1359a312f39a410da612bc[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 5 16:02:20 2020 +0800
+
+    Update home.md
+
+[33mcommit 18001d2e187f9dd2136244605c6af1c88aa95ae7[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 5 15:51:40 2020 +0800
+
+    Update main.scss
+
+[33mcommit d42a232a958adaa353cd1a87d0b852b0be2d99fd[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 5 15:37:28 2020 +0800
+
+    Update main.scss
+
+[33mcommit 34abe15973d715e9909a8a6246e2ad4a066cf4d1[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 5 15:32:17 2020 +0800
+
+    Update main.scss
+
+[33mcommit 9128a5a71cfea2cc2a5054d8d2a94a92957d5993[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 5 15:14:01 2020 +0800
+
+    Update home.md
+
+[33mcommit e1df428204264cc492b2227befacc8ef35c57284[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 5 15:02:26 2020 +0800
+
+    Update piclay.html
+
+[33mcommit 4bf2fac2bc52b18be3a2a234e00139afb07a89ad[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 5 14:54:19 2020 +0800
+
+    Update piclay.html
+
+[33mcommit 433c268363288ae1fc48832a8e3de4691830f227[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 5 14:35:55 2020 +0800
+
+    Update piclay.html
+
+[33mcommit 93fbe184f98e5f9b13b14c46614b0accebbad6c1[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 5 13:28:06 2020 +0800
+
+    Update main.scss
+
+[33mcommit 7c0be2d94f804003683e504e74a6373c2716a692[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 5 13:25:02 2020 +0800
+
+    Update main.scss
+
+[33mcommit 65a31d26a2351eef4dce6e8bdc0f017fe4d15236[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 5 13:19:35 2020 +0800
+
+    Update piclay.html
+
+[33mcommit cf371f7712b1db4fa90c58bea72315ae1721f5f1[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 5 13:07:21 2020 +0800
+
+    Update piclay.html
+
+[33mcommit 7ef29d51351b92a7eb3eeb207dfd0c067e375bff[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 5 13:00:17 2020 +0800
+
+    Update main.scss
+
+[33mcommit 1c138781e6caffd5b09019b3435e266d9d10a601[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Nov 5 13:00:10 2020 +0800
+
+    Update piclay.html
+
+[33mcommit 7269f584a3c4bdb4dc2acf7857374bf6ed625fb4[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Nov 4 18:01:29 2020 +0800
+
+    Update main.scss
+
+[33mcommit 7d53e6de211e55edc59a9cd2ace4764b2c0f8cc3[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Nov 4 18:00:58 2020 +0800
+
+    Update piclay.html
+
+[33mcommit a5e2c1cb0032c6348a4af8037ca1dc39854d82ac[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Nov 4 17:46:58 2020 +0800
+
+    Update piclay.html
+
+[33mcommit c4d301c9b8877b6eb6c1aa8c32e2fb920ebf1777[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Nov 4 17:46:11 2020 +0800
+
+    Update piclay.html
+
+[33mcommit 0d675e5d23945c771e816f21d6aefedf01be1a66[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Nov 4 16:48:17 2020 +0800
+
+    Update piclay.html
+
+[33mcommit 5ddb1050e0fbc692d9ed98f774ae574b529b807f[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Nov 4 15:52:02 2020 +0800
+
+    Update main.scss
+
+[33mcommit 06ad13d41e9a2ac443cda0d2aeb28cf91c11c363[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Nov 4 15:49:46 2020 +0800
+
+    Update main.scss
+
+[33mcommit e8859537919504b8df9bfe29b1087c4e28dd3a41[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Nov 4 15:47:10 2020 +0800
+
+    Update piclay.html
+
+[33mcommit d39a3b0e40ae43020ba9c2510cedf69734480d7b[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Mon Nov 2 17:49:29 2020 +0800
+
+    Update pictures.md
+
+[33mcommit f2493764504393439a748196cef5d8d5dbabb2c2[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Mon Nov 2 17:49:25 2020 +0800
+
+    Update piclay.html
+
+[33mcommit d17c3dd96588054459ef0e0b6b4e904ef63cbd5f[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Mon Nov 2 17:44:35 2020 +0800
+
+    Update pictures.md
+
+[33mcommit debff921cca6a47990b67592de6907b72e955d9e[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Mon Nov 2 17:38:31 2020 +0800
+
+    Update pictures.md
+
+[33mcommit 596e0da85c31a42ea02db93a74fdbb1fab287e42[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Mon Nov 2 15:14:47 2020 +0800
+
+    Update main.scss
+
+[33mcommit a9d08c58e86255b219c8ae208529cfae2475ff2e[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Mon Nov 2 15:14:18 2020 +0800
+
+    Update main.scss
+
+[33mcommit f85c2eac3acaf4fa1fc8f8bc1cabb4e189451505[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Mon Nov 2 15:03:48 2020 +0800
+
+    Update pictures.md
+
+[33mcommit 07d8c241343996a48946f058a68c0ac58edf856d[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Mon Nov 2 14:56:18 2020 +0800
+
+    Update main.scss
+
+[33mcommit 97683fa36e92152ed7f6f25729888f8d4e9b428b[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Mon Nov 2 14:56:13 2020 +0800
+
+    Update pictures.md
+
+[33mcommit 7f22b86bec6cba04565ca05b4d2e87e964f3c9f3[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 30 09:34:20 2020 +0800
+
+    Update main.scss
+
+[33mcommit a58792819da57e803c805f48569d27ef3b51dd58[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 29 16:43:58 2020 +0800
+
+    Update main.scss
+
+[33mcommit 070a2ea6784809e2a67f130b61dac2eca9223233[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 29 15:50:37 2020 +0800
+
+    Update main.scss
+
+[33mcommit 61cee0129ee37c14d41da0938b378d9079970594[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 29 15:18:50 2020 +0800
+
+    Update main.scss
+
+[33mcommit 927cd2626351d39f1d3617b308ad093652e57fdf[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 29 15:14:42 2020 +0800
+
+    Update main.scss
+
+[33mcommit 4ad3aebdb566b2b8dea196bdcc3f6185b6622af5[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 29 15:07:25 2020 +0800
+
+    Update main.scss
+
+[33mcommit 31fca7cf6ea2003bacc05f4ade5f5ac8f298c4bf[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 29 15:07:20 2020 +0800
+
+    Update homelay.html
+
+[33mcommit cfecbc9cd16ff4294c5aebcd295bd5a3d8df268b[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 29 14:33:58 2020 +0800
+
+    Update main.scss
+
+[33mcommit c80947e43ae7a8c128640e4c4a7c916bf7b4de19[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 29 14:33:55 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 897841e9139439868d22775474362a6967e424d7[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 29 09:51:43 2020 +0800
+
+    Update main.scss
+
+[33mcommit 9d2ec7be2c4a8d827d09466c6a1e30e8b86e9b5b[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 29 09:35:53 2020 +0800
+
+    Update main.scss
+
+[33mcommit 8e5ab471db4edbd5352562b5da8a610a34ce6365[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 29 09:24:10 2020 +0800
+
+    Update main.scss
+
+[33mcommit 8c9f507cca622867706495bc1443b83ef5b9d49c[m
+Merge: fb49e19 0b520c9
+Author: wangyi2019py <qsx312@126.com>
+Date:   Tue Oct 27 18:40:18 2020 +0800
+
+    Merge branch 'master' of https://github.com/CubeSat-SUSTech/cubesat-sustech.github.io
+
+[33mcommit fb49e19922dcd0a517182e60524a9866cc806c11[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Tue Oct 27 18:40:09 2020 +0800
+
+    Update team_members.yml
+
+[33mcommit 0b520c99d6cc6e36c24cf6a4587ba5270d4a3e10[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Tue Oct 27 09:20:50 2020 +0800
+
+    Update main.scss
+
+[33mcommit 9abb3fbdb5bf17d4743e6565cbee9b69121f9fc5[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Tue Oct 27 09:18:13 2020 +0800
+
+    Update main.scss
+
+[33mcommit 6d08878d854d5744e73d02493fd582f7f4a9b8bb[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Mon Oct 26 17:43:00 2020 +0800
+
+    Update main.scss
+
+[33mcommit 2226e1975ceba887fdf8a1b8779c0389144b901b[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Mon Oct 26 17:28:06 2020 +0800
+
+    Update main.scss
+
+[33mcommit 91449252734ce4a5b4f1d3d2ce191acb30d2782b[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 23 16:59:56 2020 +0800
+
+    Update main.scss
+
+[33mcommit 8ae0babcb41cf8ede7272699683d50ae563608ab[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 23 16:59:09 2020 +0800
+
+    Update main.scss
+
+[33mcommit a7b347a650802919f270d036424db15ed6db3477[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 13:30:54 2020 +0800
+
+    Update homelay.html
+
+[33mcommit c21d777fa3a98372eafb4070b2ecb9349ff847ca[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 13:26:20 2020 +0800
+
+    Update main.scss
+
+[33mcommit 2c31982c235e7eb918a4d88cc641745b2d505fcc[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 13:24:48 2020 +0800
+
+    Update main.scss
+
+[33mcommit f872cd61cf82864c6edbbba3e4327113e41251cb[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 13:20:06 2020 +0800
+
+    Update main.scss
+
+[33mcommit bd98e77f73a9bb57bd16ef596d53afe0126a079f[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 13:18:08 2020 +0800
+
+    Update main.scss
+
+[33mcommit 2fde04f449c320d54d936b6047b22ce0cfc8e03a[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 13:14:32 2020 +0800
+
+    Update main.scss
+
+[33mcommit d9c863391ff227144f92f3c5ea8040e37612194b[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 13:11:59 2020 +0800
+
+    Update main.scss
+
+[33mcommit b41b261f81bb5d585d1197a96f81a21c2019a8b3[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 13:10:07 2020 +0800
+
+    Update main.scss
+
+[33mcommit 3b6c5d07e749d3b62bbcb40af3f050104fb77439[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 13:07:56 2020 +0800
+
+    Update main.scss
+
+[33mcommit 9ad7889734fbf4c78937c9393e886eea0b1c75f7[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 13:06:15 2020 +0800
+
+    Update main.scss
+
+[33mcommit 41b039aa5d1d368fd5174d0e5d549fa9b8354ae6[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 13:02:15 2020 +0800
+
+    Update main.scss
+
+[33mcommit c2b71891de92a5d15bb2facd774d01d6c9650632[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 13:00:24 2020 +0800
+
+    Update main.scss
+
+[33mcommit ab9449a8b9e831238413407923dc82b649683481[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 12:58:08 2020 +0800
+
+    Update main.scss
+
+[33mcommit 81e7e3e96c656e1f066568d79071e7a018076d47[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 12:51:45 2020 +0800
+
+    Update main.scss
+
+[33mcommit e004466d5c4e970f2c893ec9918e0e3ec3a17da9[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 12:51:42 2020 +0800
+
+    Update homelay.html
+
+[33mcommit c2dd6d5884aecedb04f92f903ac4bca8e416535a[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 12:40:50 2020 +0800
+
+    Update main.scss
+
+[33mcommit c376f7fa75bba1e7c00a463c3e3d6566ceba2698[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 12:37:54 2020 +0800
+
+    Update main.scss
+
+[33mcommit b4fb013f22cb783c061ba43a27e7fc5a62d5e872[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 12:34:17 2020 +0800
+
+    Update main.scss
+
+[33mcommit c8c2000ed2f6f08bb82c08aa18e08ada9ff0fcc6[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 12:32:00 2020 +0800
+
+    Update main.scss
+
+[33mcommit 626c938dc0d1bbd9ed88c8ed5059f2a90a50e4fe[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 12:28:14 2020 +0800
+
+    Update main.scss
+
+[33mcommit e9247ec1741cb281b30bcb31ed10bd8ba7552f0e[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 12:24:18 2020 +0800
+
+    Update main.scss
+
+[33mcommit 15a051efbbbc209908ec2a7da533b33783cff547[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 12:18:30 2020 +0800
+
+    Update main.scss
+
+[33mcommit 3ca70ff0efab19def534cdc351cc04bb9884aa16[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 12:18:26 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 2b898e5c5bb5ad3f672b50e7c5f0fc602dc512a5[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 11:53:42 2020 +0800
+
+    Update main.scss
+
+[33mcommit 3456a025375025ddb21fd0a31dcc4d3f8cddee41[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 11:49:53 2020 +0800
+
+    Update main.scss
+
+[33mcommit 3c07112b42162b19487b9bf1bfc2826db92aad6c[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 11:49:50 2020 +0800
+
+    Update news.html
+
+[33mcommit 908b522e7a66e1fc214a40d7b2def52e3e432366[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 11:49:46 2020 +0800
+
+    Update lecture.html
+
+[33mcommit 843b06b1bf10aee0e4b91290ff1a11104a616c4b[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 11:27:45 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 8e43be04c6c6ea8bf24c8d5691b9c1fb71a8bf3a[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 11:27:42 2020 +0800
+
+    Create dynamic.html
+
+[33mcommit 7b31c88e7d65bea9c6e3ad6ef37f97b438c79cf6[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 11:27:37 2020 +0800
+
+    Create calendar.html
+
+[33mcommit 02995764f6d9c702c436a584b967f16123e01f13[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 11:00:13 2020 +0800
+
+    Update homelay.html
+
+[33mcommit b07414b6787ac1628cdae98e79086580ee810561[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 11:00:08 2020 +0800
+
+    Create news.html
+
+[33mcommit 9fd1b585493fab560345e2e124a25c4dee4dbe2a[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 09:56:03 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 27748e3ad72a21d10ca8ef1d6f3ec5b9f740fdd5[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 09:55:58 2020 +0800
+
+    Create lecture.html
+
+[33mcommit eadb4ea6648dbb2112dbfdfc51cd1a49717ae393[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 09:51:39 2020 +0800
+
+    Update Notice.html
+
+[33mcommit 528e92d345f4ba8f21bcb79b240bf4b5691fb992[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 09:51:35 2020 +0800
+
+    Create notice.yml
+
+[33mcommit f2a4ebb27809181736dada0b726b9502b170991f[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 09:51:32 2020 +0800
+
+    Delete news.yml
+
+[33mcommit 328fc8c6f2af0162d3b73c915336b4d926afc577[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 09:49:57 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 4df0dd22d7e6f7264fb1f291a12867fe129927e4[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 09:49:45 2020 +0800
+
+    Create Notice.html
+
+[33mcommit e4d27ceb73ec734d61efe154763f8a9055f40e0d[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 09:49:41 2020 +0800
+
+    Delete news.html
+
+[33mcommit df309469e1e3aef2e1fd0bb26defeaf1390cb495[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 09:36:32 2020 +0800
+
+    Update main.scss
+
+[33mcommit ab371d993c6846b9963126a1bdbef02146f86d90[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 09:32:54 2020 +0800
+
+    Update main.scss
+
+[33mcommit 2b9f99d5ec202f027691d5be14b66e29716d6b90[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 22 09:30:12 2020 +0800
+
+    Update main.scss
+
+[33mcommit c8225d351d6eb24baef0193f331353f8d1f72a6c[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 17:54:42 2020 +0800
+
+    Update main.scss
+
+[33mcommit 9899823b17a190a131d084c69351c79fba87a395[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 17:13:17 2020 +0800
+
+    Update home.md
+
+[33mcommit 2c7e7cab3baf6c5a69f207f3b1a57b32810836ef[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 17:09:10 2020 +0800
+
+    Update home.md
+
+[33mcommit f86d7d4b3074fc4802fe540db07c9e7e73332fe6[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 16:56:32 2020 +0800
+
+    Update main.scss
+
+[33mcommit 1a0c70b1414940a2e92cf4f91611403fc5246459[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 15:28:50 2020 +0800
+
+    Update pictures.md
+
+[33mcommit 9a5c88ab8b7095e7c066358c4ff8b1e2ffcd9bb1[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 15:25:21 2020 +0800
+
+    Create try.rar
+
+[33mcommit 1255610f9274986f41cd68b8c529582e35b8d8cc[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 15:22:49 2020 +0800
+
+    Update pictures.md
+
+[33mcommit 30f41bcaba0acc9a3cfb1cda833ed4523976e0be[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 15:14:14 2020 +0800
+
+    Update main.scss
+
+[33mcommit 8b51201a3b12c64f28f03cb32f5b8f17bd5dea7e[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 14:53:55 2020 +0800
+
+    Update main.scss
+
+[33mcommit e5a20f7cced0b9d3a864c5cdb595293323970c31[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 14:53:50 2020 +0800
+
+    Update pictures.md
+
+[33mcommit 56cd7b4955d56ae39746721a057fe9836b8e17d4[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 14:49:57 2020 +0800
+
+    Update main.scss
+
+[33mcommit de88452c9541af38c6cfe0d37620b7a2d95247bb[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 14:49:50 2020 +0800
+
+    Update pictures.md
+
+[33mcommit 2efb5d370c3e34a4417eabe4d7dcbca8df0f4880[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 13:40:25 2020 +0800
+
+    Update main.scss
+
+[33mcommit 70759c4ca723710b795d193990efe614893e1e1d[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 13:36:37 2020 +0800
+
+    Update main.scss
+
+[33mcommit 61eb2be5b1f0a0d4e8100f7511bdce5e7d08a7f2[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 13:27:18 2020 +0800
+
+    Update main.scss
+
+[33mcommit e425cf9d1c9fb00d90a555447b5583fdb3e8725e[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 13:08:32 2020 +0800
+
+    Update main.scss
+
+[33mcommit 0f810a316e8d774af14b2d002f151cbe52259ee4[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 13:08:21 2020 +0800
+
+    Update pictures.md
+
+[33mcommit 6f92013b12ed1a1e30a534eb45fb1cfb9e8719b3[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 13:03:33 2020 +0800
+
+    Update pictures.md
+
+[33mcommit 1e52302227ab2cbfb48e8091351dbb0934af3489[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 12:58:27 2020 +0800
+
+    Update main.scss
+
+[33mcommit c23984ef396a17d7564b5dcb4331db494f7e9fdd[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 12:58:23 2020 +0800
+
+    Update pictures.md
+
+[33mcommit 429072497121c9a385359bb834b49fc922965414[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 12:55:24 2020 +0800
+
+    Update pictures.md
+
+[33mcommit db27fd113aa58be9f798c1ba493cc7dc1117251e[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 12:51:48 2020 +0800
+
+    Update main.scss
+
+[33mcommit 009e797728a9947ba578ae053cb6d6f6babf9f7f[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 12:49:00 2020 +0800
+
+    Update main.scss
+
+[33mcommit 593784600fb04ac32d5580fdd62535a6178864ce[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 12:39:25 2020 +0800
+
+    Update main.scss
+
+[33mcommit 70cf9c961ef242645f19d91fc5322dda0ec83af6[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 12:27:33 2020 +0800
+
+    Update pictures.md
+
+[33mcommit e306f3e05ba370b107e4d52814002ceb82c5e8c5[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 12:24:00 2020 +0800
+
+    Update pictures.md
+
+[33mcommit 0c3f2609625b9df71ab605d228b489c39ae5d891[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 12:17:05 2020 +0800
+
+    Update main.scss
+
+[33mcommit eeb0368e1276b3340b0de2890c93f7d41b0820f7[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 11:56:13 2020 +0800
+
+    Update main.scss
+
+[33mcommit 760fdf97fd65bbde0731bd7edd523de52d089bae[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 11:53:38 2020 +0800
+
+    Update main.scss
+
+[33mcommit f083d55309549eb896afd753ef5645a5b95a7156[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 11:47:07 2020 +0800
+
+    Update main.scss
+
+[33mcommit f29f3f1fe602e1d082599af398acbef421dbae84[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 11:44:28 2020 +0800
+
+    Update main.scss
+
+[33mcommit bed839edc97b824ce3ee61abcdc2858cced527bf[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 11:37:06 2020 +0800
+
+    Update pictures.md
+
+[33mcommit ca0e499c229e04b144e4cbc4c47a649888aa0ace[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 11:20:37 2020 +0800
+
+    Update home.md
+
+[33mcommit a3161e58035f2b02bf97bedcec76a877f3cc6c6e[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 21 10:54:35 2020 +0800
+
+    Update team.md
+
+[33mcommit c183f445a9ef1daf7491bddb19d16f7576d454ef[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Tue Oct 20 17:38:14 2020 +0800
+
+    Update main.scss
+
+[33mcommit 4d35dc3f20f1229516ceafe071c23be7a521145c[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Tue Oct 20 17:29:44 2020 +0800
+
+    Update main.scss
+
+[33mcommit 848b17e48dba392c9eba8a8ed4bb6a109510b37f[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Tue Oct 20 16:21:02 2020 +0800
+
+    Update main.scss
+
+[33mcommit 5396dbf38e75b281df7eddf73e916fedfa9ced38[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Tue Oct 20 16:19:50 2020 +0800
+
+    Update main.scss
+
+[33mcommit b18d16f3ef358636234edc6dd727c88cb97bbfbc[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Tue Oct 20 16:14:10 2020 +0800
+
+    Update main.scss
+
+[33mcommit 3ed34ce09315d82168707a8cb30d4e11321c54da[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Tue Oct 20 15:10:24 2020 +0800
+
+    Update home.md
+
+[33mcommit bdf4f17fc51bee2acac7a176fdcfbaf8e24a3e98[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Tue Oct 20 12:31:06 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 021fcb114b0f29da0708b7153075c18e590f8c06[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Tue Oct 20 12:27:26 2020 +0800
+
+    Update home.md
+
+[33mcommit 1bd00ef81ec9c89ad567c271782060ac8cd766df[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Tue Oct 20 12:27:19 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 335c244d89215cb04938cb224616aa620d53de4a[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Tue Oct 20 11:59:11 2020 +0800
+
+    Update home.md
+
+[33mcommit 67562aa6dbf8c4314572d6df238982bd1611d8f9[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Tue Oct 20 11:59:06 2020 +0800
+
+    Update homelay.html
+
+[33mcommit ac8464fabd3ede489dec9f0ef283077c863f3158[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Tue Oct 20 11:53:13 2020 +0800
+
+    Update home.md
+
+[33mcommit c8175e4f7d314ace412f4b4850322a140dd40044[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Tue Oct 20 11:40:03 2020 +0800
+
+    Update home.md
+
+[33mcommit 93d405a4f8922b90fb6a0c87f1c53076281331ef[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Tue Oct 20 11:39:03 2020 +0800
+
+    Update homelay.html
+
+[33mcommit c72af99e5f4cee7e41b96dc385c9a3694027ce33[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Mon Oct 19 01:41:39 2020 +0800
+
+    Update home.md
+
+[33mcommit 691970ab52c0bd4eb95afc59f54be68d8ab36ae2[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Mon Oct 19 01:41:33 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 632d053977ffa68317732578a4c390da93ed5a43[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Mon Oct 19 00:50:44 2020 +0800
+
+    Update home.md
+
+[33mcommit 19280badd25e31b2b00ed2021471d92c18c27f85[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Mon Oct 19 00:43:03 2020 +0800
+
+    Update home.md
+
+[33mcommit 58b08a149bdbf11a94855461f6eb0d9217e889b4[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Mon Oct 19 00:40:12 2020 +0800
+
+    Update home.md
+
+[33mcommit a9d6883516fd77d9f8628c2f270c892b635983f0[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Mon Oct 19 00:37:10 2020 +0800
+
+    Update home.md
+
+[33mcommit d8267d70d72787342342d3db92dc8de03f05195f[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Mon Oct 19 00:37:02 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 805350454a43ea865a1c5256c7658f2d57750c5d[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Mon Oct 19 00:36:56 2020 +0800
+
+    Update default.html
+
+[33mcommit 55a3a49dd2a23bee6bdecc3449a0d780896a2025[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Mon Oct 19 00:30:03 2020 +0800
+
+    Update default.html
+
+[33mcommit b756285da6b0a47cd14be18b10e04a7d5134c09a[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Mon Oct 19 00:23:46 2020 +0800
+
+    Update main.scss
+
+[33mcommit 228ecd2854c13186d672959c024711ac9c53bfaf[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Mon Oct 19 00:22:01 2020 +0800
+
+    Update main.scss
+
+[33mcommit 3aea5c47cbf439e86f17e717738e0480a2f1d5a5[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Mon Oct 19 00:18:35 2020 +0800
+
+    Update main.scss
+
+[33mcommit d91239de212179c31dadeb0aa81440c06bf7dfca[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Mon Oct 19 00:16:20 2020 +0800
+
+    Update homelay.html
+
+[33mcommit f072015d35fee8a7723e2378f882cc7f9bb7f795[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Mon Oct 19 00:16:15 2020 +0800
+
+    Update default.html
+
+[33mcommit 4a32da87da95208e921a82ee87aa1fc5b4cb940b[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Mon Oct 19 00:12:22 2020 +0800
+
+    Update main.scss
+
+[33mcommit 741103aa71a1a3c09ce39ff7b983fc9af1d3f704[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Mon Oct 19 00:01:53 2020 +0800
+
+    Update main.scss
+
+[33mcommit 71bedba3ee4cadbf424f9de614d2cd6207b04d53[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 23:58:56 2020 +0800
+
+    Update main.scss
+
+[33mcommit f1941178350599099b08dd466b689a534f0b8172[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 23:53:03 2020 +0800
+
+    Update main.scss
+
+[33mcommit b496baf866a7f4425d591a126469cdbc12b6b84f[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 23:42:47 2020 +0800
+
+    Update home.md
+
+[33mcommit 3f55194d9d01d0c69cbdd3d75b94dabef1ba9ce6[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 23:42:42 2020 +0800
+
+    Update homelay.html
+
+[33mcommit e6e62f43eefef72877625cbf88672a91193144a0[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 23:33:10 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 5beb04f622fabf2434a7195e1ce166b970d31a1f[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 23:30:50 2020 +0800
+
+    Update home.md
+
+[33mcommit 0911bf01fd12ebf259c4f7f388519b62aa0fb50e[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 23:21:15 2020 +0800
+
+    Update home.md
+
+[33mcommit 49863afea80286e8ac3b972d506c884359be31fc[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 23:18:57 2020 +0800
+
+    Update home.md
+
+[33mcommit d3b4739eccb06568fd22b1e8c47c732cabc9c849[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 23:16:01 2020 +0800
+
+    Update homelay.html
+
+[33mcommit bdc90444e703ceb98cde48c9e86df6ddc74ad47f[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 23:13:40 2020 +0800
+
+    Update home.md
+
+[33mcommit 8f4e1c406c3b44076a7b0160ff468dde1f85452b[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 23:13:36 2020 +0800
+
+    Update default.html
+
+[33mcommit adff147ca914c8dd273a0a13e169b006bd2be85f[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 23:04:24 2020 +0800
+
+    Update default.html
+
+[33mcommit 94e0cc39c7d7eda9c086c232c07e0a84709e6730[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 23:03:50 2020 +0800
+
+    Update home.md
+
+[33mcommit dd15745e4523fb4ea16c9b60b71367d30bef81f1[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 23:03:46 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 73052562e393c10a439cad1b088b432204abc149[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 23:03:41 2020 +0800
+
+    Update default.html
+
+[33mcommit e3629c556c3a23c6b00850adce4a86d1c35087c1[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 22:40:38 2020 +0800
+
+    Update main.scss
+
+[33mcommit d95892a2b64973876a09a02015ad5a101817143f[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 22:36:44 2020 +0800
+
+    Update main.scss
+
+[33mcommit 53a838481409bd1b9797ebfabe07e6981f3fd30d[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 22:32:56 2020 +0800
+
+    Update main.scss
+
+[33mcommit 450b6ed627c16e381f74e804db5865194b539729[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 22:29:20 2020 +0800
+
+    Update main.scss
+
+[33mcommit ee7cfc58fc94c4d2acc6470612eff00896254339[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 22:24:12 2020 +0800
+
+    Update main.scss
+
+[33mcommit f5062a3a221d890ee69bfbf4efe83f454f68694e[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 21:19:50 2020 +0800
+
+    Update main.scss
+
+[33mcommit 40d56bb7d57bd0b0bdb1d9b7a87701f0254338b3[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 21:15:32 2020 +0800
+
+    Update main.scss
+
+[33mcommit 037f376a3c8deb9813ac4551119c1b0c6ca0acdb[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 21:11:34 2020 +0800
+
+    Update news.html
+
+[33mcommit e368868184696e01df072f927f4e38e3a77db726[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 20:54:26 2020 +0800
+
+    Update main.scss
+
+[33mcommit a6b06b998ec38861b98a9779f52f7d0266eb864c[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 20:50:01 2020 +0800
+
+    Update main.scss
+
+[33mcommit 17f888e45ef274caabdcb323aee835e6ed3d5095[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 20:41:04 2020 +0800
+
+    Update main.scss
+
+[33mcommit d6e4118e47f7c8bcef21e4b61686bf2b2125451b[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 20:37:52 2020 +0800
+
+    Update main.scss
+
+[33mcommit e324bd07ca3377ddae39152f53fca3edba4ea5ba[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 20:28:40 2020 +0800
+
+    Update main.scss
+
+[33mcommit 86f5e1d9945dc9e91c25e2612daf2128633afed1[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 20:25:41 2020 +0800
+
+    Update main.scss
+
+[33mcommit 5640d7c19ddd8d673a237619c8dabf8bf7d9d395[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 20:22:09 2020 +0800
+
+    Update main.scss
+
+[33mcommit c0ba4a58baf177dc8cc8db21bba4702fdf905e96[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 20:18:54 2020 +0800
+
+    Update main.scss
+
+[33mcommit 75da1c1e2113f4599b291ab028595f13fce0723a[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 20:14:01 2020 +0800
+
+    Update main.scss
+
+[33mcommit 134da4d541241c67cf5306d5bd4181981889e91f[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 20:08:29 2020 +0800
+
+    Update main.scss
+
+[33mcommit 80e659384b2640a20b6146b8d2cbc9079a90f090[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 20:05:37 2020 +0800
+
+    Update main.scss
+
+[33mcommit 5eb9e55ac0da57c5bc4415eccaea68d5b95c815f[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 19:57:22 2020 +0800
+
+    Update main.scss
+
+[33mcommit 62ccc2f7f302ddf8fd3db3dec87426bfddff5ea4[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 19:33:22 2020 +0800
+
+    Update main.scss
+
+[33mcommit db9d9b474d58ce4eeb073fd94be2dc5a720b3135[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 19:31:01 2020 +0800
+
+    Update main.scss
+
+[33mcommit 0c956ac3ce650c2a9795641ba7ab2f17e8f0b7a7[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 19:21:40 2020 +0800
+
+    Update main.scss
+
+[33mcommit d7b7e68e8849e6314f5bcbd8ed2c9c9f33247d57[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 19:19:05 2020 +0800
+
+    Update main.scss
+
+[33mcommit 11473f2e993b819869795162df4b90ea0b0f2761[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 19:16:28 2020 +0800
+
+    Update main.scss
+
+[33mcommit 9eccbc512138035c1f8373e74048221cb45ea760[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 19:15:12 2020 +0800
+
+    Update main.scss
+
+[33mcommit e3c578fc936ce8bc0e7cc859d3fe0b2d89485368[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 19:12:56 2020 +0800
+
+    Update main.scss
+
+[33mcommit 0158cb7b3a949a14f3e3c22191cc82115ab285c8[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 19:08:45 2020 +0800
+
+    Update main.scss
+
+[33mcommit c65f5509f8bb339cd1c53b3f8ce37a0bef261ea9[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 19:04:57 2020 +0800
+
+    Update main.scss
+
+[33mcommit 3f1aea26591adda70b3cfe3930b683e9fb0745ee[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 18:54:18 2020 +0800
+
+    Update main.scss
+
+[33mcommit 16c3176e4a88483dbfc9832f34f9536b7fa6acc3[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 18:53:04 2020 +0800
+
+    Update main.scss
+
+[33mcommit 45bc1b8e7089b62b33252fdb03d34ba7f01cdc33[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 18:41:59 2020 +0800
+
+    Update main.scss
+
+[33mcommit 3732f06ccc0bb462ebef7052555cb430377d6c38[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 18:37:42 2020 +0800
+
+    Update main.scss
+
+[33mcommit ff9f47c8c5c988cbfdf94182b9d8903e49d109b9[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 18:30:47 2020 +0800
+
+    Update main.scss
+
+[33mcommit a3ef846322fc3050c01f605d4757b96d2719bfa3[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 18:28:39 2020 +0800
+
+    Update main.scss
+
+[33mcommit 657bd1575c560853ca5dae11586f341f426f5087[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 18:27:12 2020 +0800
+
+    Update main.scss
+
+[33mcommit 76398fef3a585b1428e9384a0b5bfa5821db19d0[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 18:01:01 2020 +0800
+
+    Update main.scss
+
+[33mcommit e196db2d0433a27b336b0dd9dda5ac2ac5e11f49[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 17:58:15 2020 +0800
+
+    Update main.scss
+
+[33mcommit 00ba6f95985bc8e9f93d9a672621d34956942b47[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 17:48:47 2020 +0800
+
+    Update main.scss
+
+[33mcommit d7564e11f64ed02fee6ac2824c2665d9c0061b75[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 17:47:05 2020 +0800
+
+    Update main.scss
+
+[33mcommit 7dfe7f3f2a8339099bccd5c66a31ac2a00facbe1[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 17:42:33 2020 +0800
+
+    Update main.scss
+
+[33mcommit 640fee135c149b21aec271f8c059733e7a5569a9[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 17:36:35 2020 +0800
+
+    Update main.scss
+
+[33mcommit af6d627077d6f43fdabff17cf5444f4541706264[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 17:28:48 2020 +0800
+
+    Update main.scss
+
+[33mcommit e19e4a2ba2d587577cb829da85c919ff4ba7eabf[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 17:27:19 2020 +0800
+
+    Update main.scss
+
+[33mcommit 3942b9bf7e3feb12fcc8f44b516650303551fe73[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 17:25:14 2020 +0800
+
+    Update main.scss
+
+[33mcommit a803107c3255334f1f2a06f45a6ac91177596ed1[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 17:13:53 2020 +0800
+
+    Update main.scss
+
+[33mcommit f495308dfa84542a0f4bd684ab68e37dba749c04[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 17:11:12 2020 +0800
+
+    Update main.scss
+
+[33mcommit ca9a5e6eea7d9e610f4745368689755e517417b1[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 16:57:53 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 69b525790b40daab61d03da18ebc0c3ac04cf53c[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 16:51:19 2020 +0800
+
+    Update main.scss
+
+[33mcommit bae96ad857fd7b64d1b1eb28e6c7136a85278cca[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 16:48:31 2020 +0800
+
+    Update homelay.html
+
+[33mcommit c7feda3c4ea14d14379f8b52434001b7a8ce7810[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 16:45:46 2020 +0800
+
+    Update main.scss
+
+[33mcommit 5b358301ecc861bbb45b221518fdc0a2e6e54697[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 16:45:35 2020 +0800
+
+    Update home.md
+
+[33mcommit ca522c6443667b295f5480d31145af77d1dc1358[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 16:45:30 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 505a956b17ec3b65f7b9125f57f7dba43c48b3ed[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 16:40:34 2020 +0800
+
+    Update home.md
+
+[33mcommit 802bc56312d933cc0ca8e247d5b682262a766729[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 16:36:43 2020 +0800
+
+    Update home.md
+
+[33mcommit 478578f794219ca42427ecf2606a9b3392671176[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 16:36:38 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 512fe867cf9334df04f2984d693cdf70a9300835[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 16:32:45 2020 +0800
+
+    Update main.scss
+
+[33mcommit 529331274b3c2d2bf128b65d5ec883228728c8c0[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 16:23:39 2020 +0800
+
+    Update main.scss
+
+[33mcommit ae134fa2a64913022f27a579c78c28705d9453ae[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 16:09:36 2020 +0800
+
+    Update main.scss
+
+[33mcommit 7ef451c650700d1f31780cb7dadf9a616be0d3d5[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 16:09:29 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 7154cc409cc9909f0fd4bff2931e966f2382d28d[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 16:04:04 2020 +0800
+
+    Update main.scss
+
+[33mcommit 4349d50ff3e83b2cadc2ad4636056826b012ceaa[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 16:03:58 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 23e94c610b2e965df562541c74dfb9f660b94263[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 15:55:42 2020 +0800
+
+    Update main.scss
+
+[33mcommit ceafea0c5b954294becfd6976c4b6dd69bfb2550[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 15:50:31 2020 +0800
+
+    Update main.scss
+
+[33mcommit e617d52dc797bc9c550754316abc8743418be9aa[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 15:40:25 2020 +0800
+
+    Update main.scss
+
+[33mcommit ba5f559a59f553d6239cda4b37602b4b0fa9626e[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 15:24:11 2020 +0800
+
+    Update main.scss
+
+[33mcommit 75044eb7cf9169dcd7e85f8bda0dd4c9c7cad8b8[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 14:11:35 2020 +0800
+
+    Update main.scss
+
+[33mcommit a053f92b292e8f6720909eb104fdcaeb2eea8216[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 13:52:09 2020 +0800
+
+    Update main.scss
+
+[33mcommit 658d1975e070f2ae0a5b766035ff156a81d28133[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 13:47:32 2020 +0800
+
+    Update main.scss
+
+[33mcommit 04179db3bcbebeea76d452e3e75eaf26a48ea536[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 13:42:39 2020 +0800
+
+    Update main.scss
+
+[33mcommit 66c08efc6954a0ea3601f7fe72d3129ddde4498e[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 13:35:31 2020 +0800
+
+    Update main.scss
+
+[33mcommit 99145485773214034055c12d02b2c57cf24c8ecc[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 13:04:26 2020 +0800
+
+    Update main.scss
+
+[33mcommit 2d215b46430f209f24c7a580feed608c03a8696c[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sun Oct 18 13:04:20 2020 +0800
+
+    Update default.html
+
+[33mcommit 3edaf3c7f79994ab2127a3484aa318db1c752670[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sat Oct 17 00:42:16 2020 +0800
+
+    Update main.scss
+
+[33mcommit db2b6cba078a5e9719d12a949db2be1e5bd47606[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sat Oct 17 00:37:18 2020 +0800
+
+    Update main.scss
+
+[33mcommit 38fdd7913cb165e6da1c745ba2a840887f51c65e[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sat Oct 17 00:33:28 2020 +0800
+
+    Update main.scss
+
+[33mcommit a52c1db66add01435c9952dbc0eb875e2e052a5f[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Sat Oct 17 00:16:54 2020 +0800
+
+    Update main.scss
+
+[33mcommit a355b5c993d7d8b5befe69e3f4017798530ab4ed[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 18:10:17 2020 +0800
+
+    Update pictures.md
+
+[33mcommit b48609ed75c662000ff3f4b12412f03cfdd45a60[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 18:08:17 2020 +0800
+
+    Update pictures.md
+
+[33mcommit a1824221dd2495f5be202c45e5e2fe1ac73543c2[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 18:05:43 2020 +0800
+
+    Update pictures.md
+
+[33mcommit 8beb1aac39c5ca3cd572ac18b358901a77c4072a[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 17:58:03 2020 +0800
+
+    Update openings.md
+
+[33mcommit 44d99259ceb9a609c3b86c8263589293a46205d8[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 17:55:58 2020 +0800
+
+    Update pictures.md
+
+[33mcommit 5934d756da2c6853ff6826b7eba46eecf3fc8aeb[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 17:55:55 2020 +0800
+
+    Update publist.yml
+
+[33mcommit 3e47dfeed6a852f92f8ac059515a46316fec37d1[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 17:51:49 2020 +0800
+
+    Update research.md
+
+[33mcommit 4d7bee382092d6de98285ab52110f5181f4681db[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 17:51:46 2020 +0800
+
+    Update pictures.md
+
+[33mcommit 7841ef983ee5b6332c835bec425ac499f79c6edb[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 17:19:57 2020 +0800
+
+    Update allnews.md
+
+[33mcommit c857f7f32b455414b64e27d46ffab2297f09c96d[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 17:07:09 2020 +0800
+
+    Update main.scss
+
+[33mcommit 8d009c06b6dbfe3be69566b08042d465b6d8e640[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 16:59:41 2020 +0800
+
+    Update main.scss
+
+[33mcommit 6eb81e6944ee5570b6f1736c0083d9c03192d587[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 16:57:00 2020 +0800
+
+    Update main.scss
+
+[33mcommit cf19d89a12fe08d2c3227df76d7db0bc980e8a34[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 16:53:02 2020 +0800
+
+    Update main.scss
+
+[33mcommit 9db71a90674c72349dd6a47e1f5838112ccb1173[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 16:47:34 2020 +0800
+
+    Update main.scss
+
+[33mcommit 9255972f8c2f41be67c5d392562f083cb586b9b9[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 16:38:50 2020 +0800
+
+    Update main.scss
+
+[33mcommit 88bc4a68aa8f120326d757575061c62e56ffc768[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 16:32:02 2020 +0800
+
+    Update main.scss
+
+[33mcommit 40f5f27686d685a3a5ec5f5e23c538a5a25ab5fb[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 16:28:15 2020 +0800
+
+    Update main.scss
+
+[33mcommit ab2769bba902fb0f32431f113e04c6b9685bfa44[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 16:26:07 2020 +0800
+
+    Update main.scss
+
+[33mcommit 1eba5c2e1dc72b587f9d527059b200e37f08ee11[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 16:26:02 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 72fedef475a59e9efe4f32ccd3d2bd4b3f39814e[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:55:05 2020 +0800
+
+    Update _config.yml
+
+[33mcommit 5b98e83c1464768ad82eeb140b4312d08099146e[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:50:43 2020 +0800
+
+    Update main.scss
+
+[33mcommit 098bbbb3d869ca8d7bcfbf420a34588f0a5113aa[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:43:15 2020 +0800
+
+    Update publications.md
+
+[33mcommit 7b04df92c9acbca38b58a97343cca2a8824ab6fa[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:40:49 2020 +0800
+
+    Update publications.md
+
+[33mcommit 6abaeb95b70aa2789f73104a7fc71a209ae56b3e[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:37:38 2020 +0800
+
+    Update allnews.md
+
+[33mcommit 5913ddfa2e36cfa4804721d6346aa376b06442b3[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:37:34 2020 +0800
+
+    Update team.md
+
+[33mcommit f1de79ddb54890e90d8040f08a472d14b3e2998b[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:37:14 2020 +0800
+
+    Update _config.yml
+
+[33mcommit e50045e505f8c50a88127331c38fdc4d0bfb7f34[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:23:22 2020 +0800
+
+    Update team.md
+
+[33mcommit bd26e3f7b721cf5be102cfbfe2b4b5cc48903239[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:21:40 2020 +0800
+
+    Update team.md
+
+[33mcommit 7b60d51b231ed240702d0be9cf9a343669d70fcc[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:20:14 2020 +0800
+
+    Update team.md
+
+[33mcommit ef7713b0df7fe6ee684b0df600819093aa206b35[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:17:07 2020 +0800
+
+    Update alumni_visitors.yml
+
+[33mcommit 21689f78b3ce6a7a5fc3c217a3d3bc8a103f9992[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:17:04 2020 +0800
+
+    Update alumni_msc.yml
+
+[33mcommit 0aa30e4a5d883a82b66ee076d307cccecabc45c5[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:17:00 2020 +0800
+
+    Update alumni_bsc.yml
+
+[33mcommit b9afbbbd6f1ff33358cb08d58f95777f64ea7882[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:14:32 2020 +0800
+
+    Update team.md
+
+[33mcommit 2b35a3bd7bc1897b1393b60fe479117a2b7a30d8[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:11:32 2020 +0800
+
+    Update team.md
+
+[33mcommit 20e6e9efba88c431e1c083d602fd366e48637157[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:10:06 2020 +0800
+
+    Update team.md
+
+[33mcommit 2fabe41450fc42a1a12b79c179f5cfb4c8a0ac80[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:04:34 2020 +0800
+
+    Update alumni_members.yml
+
+[33mcommit 93efe891dd88c3ba8d490bd9876621f5f4961fbb[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:03:20 2020 +0800
+
+    Update team_members.yml
+
+[33mcommit 02e4cb63776a630b106cfc4d6851661a7e0f7c49[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:03:16 2020 +0800
+
+    Update students.yml
+
+[33mcommit befe5aa82766f827045e4528f55fb700a67fa225[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:00:56 2020 +0800
+
+    Create Yang, Jian.jpg
+
+[33mcommit 69e64676cd230c5571fd2c1f76f8f1be0ff73e9f[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:00:53 2020 +0800
+
+    Create Ye, Shengyi.jpg
+
+[33mcommit be66e6f00227e214baa3a5f65f03af53229f344f[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:00:49 2020 +0800
+
+    Create Liu, Kaijun.jpg
+
+[33mcommit a0dcc4569219528fc869c656362dc188458a347c[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 15:00:44 2020 +0800
+
+    Update team_members.yml
+
+[33mcommit 07809cb1ff2d2ab92de830e41961f975fe683135[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 14:38:53 2020 +0800
+
+    Update home.md
+
+[33mcommit ed5815e681acb8f7301bbbe22661670e0b1e7d5f[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 14:34:33 2020 +0800
+
+    Update main.scss
+
+[33mcommit d9aad8a36b78cc457164e414e49cd5198224729c[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 14:30:07 2020 +0800
+
+    Update main.scss
+
+[33mcommit 7211d71d8dbcc2b83d1d0e674205e1889793c28c[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 14:27:15 2020 +0800
+
+    Update main.scss
+
+[33mcommit 1d69e73eda9164b4bad3fc5523855c8c10667dab[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 14:27:11 2020 +0800
+
+    Update news.yml
+
+[33mcommit 07f4a8beb773f52cfafd0ac7a273130620058e01[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 14:21:13 2020 +0800
+
+    Update main.scss
+
+[33mcommit 24f82c0a513425c6933c5c2866b7ec5e69433a36[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 14:19:55 2020 +0800
+
+    Update main.scss
+
+[33mcommit 303e2ee18aa3888ca6039728dedecb7a445311f8[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 14:16:29 2020 +0800
+
+    Update main.scss
+
+[33mcommit 768b4d5b1f354730836e7dd7c67a359eca27683a[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 14:11:53 2020 +0800
+
+    Update homelay.html
+
+[33mcommit a0cde381be69c93c0b0bb9856e0a4ee666851d3e[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 14:05:11 2020 +0800
+
+    Update main.scss
+
+[33mcommit fbebfe206416ce9ff51cfa490989581ee9ed3372[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 14:00:37 2020 +0800
+
+    Update main.scss
+
+[33mcommit d68a1e154cbb0a7512430b9ace2ffac4e262d826[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 13:25:06 2020 +0800
+
+    Update main.scss
+
+[33mcommit 1d0eedf2848a1a716a57dba781ec274c7a21627e[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 13:02:35 2020 +0800
+
+    Update main.scss
+
+[33mcommit 2dfeea7728ed33aa5d92d06da0d16965f9294c05[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 12:48:11 2020 +0800
+
+    Update main.scss
+
+[33mcommit 3426f3e0c767b2bbf20b8d55fe80b6f2be395e0b[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 12:34:59 2020 +0800
+
+    Update main.scss
+
+[33mcommit 501cfa4ff379eacaf917d1d99eeab064e019da30[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 12:34:54 2020 +0800
+
+    Update homelay.html
+
+[33mcommit bfbaa18d017b18521f476fdf682e81840bf77e26[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 12:26:42 2020 +0800
+
+    Update main.scss
+
+[33mcommit 7a355efb4eceb6c4e2228854d41bf79a1ba5329a[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 12:25:54 2020 +0800
+
+    Update main.scss
+
+[33mcommit f74bc31d5a43bccf13b990a339ed4636b102747c[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 12:23:22 2020 +0800
+
+    Update main.scss
+
+[33mcommit ac5c60d250a7036e62a142ea6a24d72d8ea97e8f[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 12:23:18 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 857418e7a3e599a6cb21ce5ea23519d50c256d30[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 12:17:44 2020 +0800
+
+    Update main.scss
+
+[33mcommit 942a91e9d2bfdc631656e7bf98aeeaa0e9e54c93[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 12:17:40 2020 +0800
+
+    Update home.md
+
+[33mcommit 7ae3e406e02d0194a725029f11c9ae95a67f588f[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 12:17:36 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 68834bbfb5f68165e438beec69f11f9cb4dfae3d[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 12:10:17 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 78d45424ccc1c139571119362a273b77830409b1[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 11:43:54 2020 +0800
+
+    Update home.md
+
+[33mcommit c245e8e9f947df22f9b4d715c31e2b98a0f7032e[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 11:37:47 2020 +0800
+
+    Update main.scss
+
+[33mcommit af2064c853163f56bdf2325f7426d9ed2147f899[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 11:36:31 2020 +0800
+
+    Update main.scss
+
+[33mcommit fcb1cfe8dd74b6d4ac91b2955c25b498a47d0055[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 11:36:26 2020 +0800
+
+    Update home.md
+
+[33mcommit 0aee2700b8cbd89dc69858ddf45bb682f855d7f8[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 11:11:36 2020 +0800
+
+    Update main.scss
+
+[33mcommit 0be5ee137e59e142a4bdb4551904c486747d9e19[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 11:11:32 2020 +0800
+
+    Update news.yml
+
+[33mcommit 5d64401fe1f24392a277aa24a3de21f23da70d0b[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 10:56:06 2020 +0800
+
+    Update main.scss
+
+[33mcommit ac24ccfd317b918e5721b1cbb3da3abcc57ad623[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 10:56:00 2020 +0800
+
+    Update homelay.html
+
+[33mcommit e68de09a6f92419c5058c669f6ab5408de5b57d1[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 10:49:57 2020 +0800
+
+    Update main.scss
+
+[33mcommit 08cd80ed180647275e20caff4c573f232e1a6c48[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 10:33:59 2020 +0800
+
+    Update home.md
+
+[33mcommit 369242434923684ff48fc8d8bfb96f05c31dcf0e[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Fri Oct 16 10:02:14 2020 +0800
+
+    Update main.scss
+
+[33mcommit d6e65ea05aa1f512dde131b65c545f48e9ab481d[m
+Author: wangyi2019py <qsx312@126.com>
+Date:   Thu Oct 15 21:20:12 2020 +0800
+
+    Update main.scss
+
+[33mcommit b94564f9e5fd08848c18658e43deaa97a3671ae4[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 17:37:56 2020 +0800
+
+    Update _variables.scss
+
+[33mcommit 9ac793d3cbc44ed962a040a65d5f77fe979d4a5d[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 17:37:50 2020 +0800
+
+    Update _variables copy.scss
+
+[33mcommit 411f4ccd24bfae5c72f14997cb586448da55b162[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 17:27:56 2020 +0800
+
+    Update _variables.scss
+
+[33mcommit 3e70b43b770c999acf359384402193be15fcd14b[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 17:27:51 2020 +0800
+
+    Update _variables copy.scss
+
+[33mcommit 861f067201c3d7d22dc84eaed2cbbeb069c270c6[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 14:52:25 2020 +0800
+
+    Update _variables.scss
+
+[33mcommit 17e0ea6d2bea3cad5defdcd668a5b4c7875231e3[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 14:52:20 2020 +0800
+
+    Update _variables copy.scss
+
+[33mcommit cb8ccbd3649d8eab92dda68df41716c037ea76c6[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 14:44:28 2020 +0800
+
+    Update _variables.scss
+
+[33mcommit 7c4c157440eacc93464ac36127e0ba7699804385[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 14:39:18 2020 +0800
+
+    Update _variables.scss
+
+[33mcommit e5dfcdaa1b543ac6d7ca42ffabb3ccaf2364f697[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 14:34:27 2020 +0800
+
+    Update _variables copy.scss
+
+[33mcommit 5b4a1014c48a9800ea6e631f2943cff4aa0c6e70[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 14:11:36 2020 +0800
+
+    Update _carousel.scss
+
+[33mcommit b35bfb21c8d60e8156c3ff37f6d0253ddbe31d9b[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 14:04:27 2020 +0800
+
+    Update ye.jpg
+
+[33mcommit 535cdae48ed839e1a5e267427ed65e0aac9f25eb[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 13:59:13 2020 +0800
+
+    Update main.scss
+
+[33mcommit 0912afd39716b6600fd78c101bf66f23ed62efb8[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 13:35:23 2020 +0800
+
+    Update main.scss
+
+[33mcommit c7524ace552a55875068606b94aeccae2db3c154[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 13:31:16 2020 +0800
+
+    Update home.md
+
+[33mcommit 66a0f81f2914b08ebbec46ca1bf53a344f71cc82[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 13:30:06 2020 +0800
+
+    Create cubesat.jpg
+
+[33mcommit 8e9c0c086ae7755af5ca0c526508a99dd1dbe75d[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 13:30:01 2020 +0800
+
+    Update all.jpg
+
+[33mcommit 3a648d3f8a04964bc98b41dbc015b1ef6b47f705[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 13:23:11 2020 +0800
+
+    Create yj.jpg
+
+[33mcommit cd44896b0d01dd06982a40978761d1de0d53ca25[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 13:23:08 2020 +0800
+
+    Update ye.jpg
+
+[33mcommit 35372c46fe700be7f470273b61d7cfe9c3c2f22a[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 13:23:04 2020 +0800
+
+    Update mx.jpg
+
+[33mcommit b535c09c6cfde5c6df56d7907af401b62278f217[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 13:22:59 2020 +0800
+
+    Create cubesat2.jpg
+
+[33mcommit 76431137b73202d6d63ab45b1fe410dcf773fe30[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 13:22:54 2020 +0800
+
+    Update home.md
+
+[33mcommit 613f060535f948b33ecc2040ba8d10f080e660f0[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 13:08:17 2020 +0800
+
+    Update main.scss
+
+[33mcommit 41ed3dbbb4b8b6f4d506900a50b189b2a7c53289[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 11:47:38 2020 +0800
+
+    Update main.scss
+
+[33mcommit cf68c99dc812d34bf0a7e3329e121638fd2f388a[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 11:42:02 2020 +0800
+
+    Update homelay.html
+
+[33mcommit cebf0eb5c1975612dba4cc2c49668eea61641cb3[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 10:54:15 2020 +0800
+
+    Update default.html
+
+[33mcommit 716cb862cc8eaa6e7bf0133fd6bf7809493ff3e3[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 10:53:15 2020 +0800
+
+    Update home.md
+
+[33mcommit 8700902a2874b4acc7ad646bb10e3aa4b8a1b055[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 10:48:38 2020 +0800
+
+    Update default.html
+
+[33mcommit 3c3bc570873d28fc6e952adc6be87a09405466c6[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 09:39:45 2020 +0800
+
+    Update home.md
+
+[33mcommit ebd108727be4703d958841fd9bd9c2f58a89055b[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 09:36:45 2020 +0800
+
+    Update main.scss
+
+[33mcommit 5691d2d185ae8a4a74a167b9d552deaf9fd482f4[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 09:34:20 2020 +0800
+
+    Update default.html
+
+[33mcommit 90a5c80a3c8fd6d3fc6d69c9ea7b9f9c36942919[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 09:25:24 2020 +0800
+
+    Update default.html
+
+[33mcommit efe1767587d68e32fe7190f1d470d53b3c943ecf[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 09:21:04 2020 +0800
+
+    Update main.scss
+
+[33mcommit 91a8202afa72f71fe7715c335beabcb24c1a5f82[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 09:15:25 2020 +0800
+
+    Update main.scss
+
+[33mcommit 2a7e1dec5dcfd63beb4c854c975a4e209f351278[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 09:15:21 2020 +0800
+
+    Update home.md
+
+[33mcommit 85ea63ad7e55157d9d34b707047db416cee5d550[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 09:15:17 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 9094ee2d6b26ae725e58533c2e6c5875a7d295c2[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Thu Oct 15 09:15:12 2020 +0800
+
+    Update default.html
+
+[33mcommit 9076dd00ac510dfb39f796d9c73614c886a3fc5d[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 17:41:51 2020 +0800
+
+    Update main.scss
+
+[33mcommit b6461a3e21dfa1e073840a14c8f617633dcfb148[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 17:37:58 2020 +0800
+
+    Update main.scss
+
+[33mcommit f5c5e6acc39b74debfcf86e413ad6c4f468b8f3f[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 17:37:53 2020 +0800
+
+    Update default.html
+
+[33mcommit 45c2b5af7a75efe746f891b5e30ac71350fa79f9[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 17:30:31 2020 +0800
+
+    Update main.scss
+
+[33mcommit f91f9ea5705bf12c2149fad612fd6f1135063a70[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 17:30:27 2020 +0800
+
+    Update default.html
+
+[33mcommit 6cdfef458f8428099d8134436b9713c7fd04fd6c[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 17:11:33 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 159b47cb1ec255aa69e413fccd08018389901474[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 17:11:29 2020 +0800
+
+    Update default.html
+
+[33mcommit e8615aeced28ae18afdaf9eee358eff4180ffe27[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 17:01:44 2020 +0800
+
+    Update main.scss
+
+[33mcommit 8e7ddf28602a8c564d066cdc4c4d360842dd7c5c[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 16:55:14 2020 +0800
+
+    Update home.md
+
+[33mcommit c5693cb31f6d20be0f88d0e8cdde68a0ab32cf91[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 16:52:31 2020 +0800
+
+    Update homelay.html
+
+[33mcommit 11060d1afdcb86000a394323afff5ec54d99d475[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 16:41:03 2020 +0800
+
+    Update main.scss
+
+[33mcommit 8337d300f21371c63c4a5db82b35c5764202f5ac[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 16:33:04 2020 +0800
+
+    Update home.md
+
+[33mcommit 490e7fc3bb54a019f6d827a4607110f0e544aad9[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 16:26:09 2020 +0800
+
+    Update default.html
+
+[33mcommit 86d1813762f55df8457396788cf39eaa563584b4[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 16:00:37 2020 +0800
+
+    Update main.scss
+
+[33mcommit 5cea69fb236326987dd97052cdedab30db2962a4[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 15:49:21 2020 +0800
+
+    Update home.md
+
+[33mcommit 7dccc886e074d026db7eb09a8d633aa1589e4386[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 15:23:33 2020 +0800
+
+    Update main.scss
+
+[33mcommit a713cc9ca2f6de418713a31bcc046bbfb4eeb9c2[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 14:42:25 2020 +0800
+
+    Create ye.jpg
+
+[33mcommit a7e44fe1f092b74ab914c7e18b937743838ea643[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 14:42:19 2020 +0800
+
+    Update home.md
+
+[33mcommit 05ef8181c14c2f46664acfc27c760d13345ff712[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 14:36:51 2020 +0800
+
+    Create note.jpg
+
+[33mcommit 6aadc31b17e992cf59bfbd6ff31b8a7cf84d134a[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 14:36:43 2020 +0800
+
+    Create mx.jpg
+
+[33mcommit ac916560e733ff2e5c0d0687a2ea10581a1cecc1[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 14:36:37 2020 +0800
+
+    Create all.jpg
+
+[33mcommit 0a7651a478d601ce9e79df0a809570c30e69a50a[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 14:34:04 2020 +0800
+
+    Update home.md
+
+[33mcommit debe2e8fbabb0db2b1a0392f563fc6346a870311[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 14:25:35 2020 +0800
+
+    Update home.md
+
+[33mcommit 5b34c021c6c5a040e9663bff18140c73fc02c075[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 14:20:40 2020 +0800
+
+    Update homelay.html
+    
+    homenewdelete
+
+[33mcommit debc539bf9e518d7d7cd1989a887a64639f8f68e[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 14:04:22 2020 +0800
+
+    Update home.md
+    
+    小卫星大未来
+
+[33mcommit fb2745d629a81eed5a3a6d402191c9dd91356aa9[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 12:47:22 2020 +0800
+
+    Update home.md
+    
+    welcome
+
+[33mcommit 05a5b01c9801e1d70fcf8616c5d7456b6c1215f3[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 12:47:11 2020 +0800
+
+    Update homelay.html
+    
+    welcome
+
+[33mcommit cc27e2a74b3389339a734d6ef6772518222b1ed3[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 12:34:02 2020 +0800
+
+    Update home.md
+    
+    pic
+
+[33mcommit ccc8961afe6927ae746e02ab14bdb0cb05f063af[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 12:20:44 2020 +0800
+
+    Create 1000.jpg
+    
+    1000.jgp
+
+[33mcommit 809c95e102227897652136e500fcbb8bb9d59d5e[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 12:07:20 2020 +0800
+
+    Update home.md
+    
+    firstpassenage
+
+[33mcommit 9f42f8e3431b462ee8a2be78c323e472b00f2ace[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 12:04:38 2020 +0800
+
+    Update homelay.html
+    
+    project
+
+[33mcommit aa83bee7c27333960036a74bfdfbe1206c598d99[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 12:00:42 2020 +0800
+
+    Update header.html
+    
+    header1014
+
+[33mcommit 57ef8d6130bf190ee1a22f59748f0fbc2e217b9a[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Wed Oct 14 10:54:48 2020 +0800
+
+    Update footer.html
+    
+    footer
+
+[33mcommit 88d45c63424dc23f62b0dd3b645bdc9c05d5077e[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Tue Oct 13 09:35:40 2020 +0800
+
+    Update header.html
+    
+    title
+
+[33mcommit 00e1b05cc38206c6a1c24a5d429bf908c99b1bc2[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Mon Oct 12 17:15:22 2020 +0800
+
+    Update home.md
+    
+    home
+
+[33mcommit 8c7c1200cc0b5fd65ef0b085729e979af67ec54e[m
+Merge: 373896a a8a0d84
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Mon Oct 12 15:16:32 2020 +0800
+
+    Merge branch 'master' of https://github.com/CubeSat-SUSTech/cubesat-sustech.github.io
+
+[33mcommit 373896ad9f8d2d7916410542a6bd8c302ef8ec83[m
+Author: CubeSat-SUSTech <cubesatsustech@gmail.com>
+Date:   Mon Oct 12 15:15:50 2020 +0800
+
+    Update homelay.html
+    
+    change lab
+
+[33mcommit a8a0d841a330af4f30d35c434410c707662f19a2[m
+Author: CubeSat-SUSTech <72129210+CubeSat-SUSTech@users.noreply.github.com>
+Date:   Mon Oct 12 15:13:50 2020 +0800
+
+    Update README.md
+
+[33mcommit c6814cbfdad38181b6c4e6b957642df9c470addd[m[33m ([m[1;31morigin/gh-pages[m[33m)[m
+Author: CubeSat-SUSTech <72129210+CubeSat-SUSTech@users.noreply.github.com>
+Date:   Sat Oct 10 16:21:25 2020 +0800
+
+    Delete CNAME
+
+[33mcommit 81d7c1db782f69fc657af5e11099e05fa7ac9afb[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Wed Oct 7 12:44:28 2020 +0200
+
+    t
+
+[33mcommit d91715b0e4046e8d7d3b986056992f55ecbd1aeb[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Wed Oct 7 12:43:26 2020 +0200
+
+    t
+
+[33mcommit c28dea7bb8a8c644ca2312f3a50586511374ca8b[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Wed Oct 7 12:41:41 2020 +0200
+
+    t
+
+[33mcommit fa903fc7112c78e92546c1c6b358e8a9de9b8f31[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Wed Sep 30 16:03:47 2020 +0200
+
+    t
+
+[33mcommit 5304a1fac2326a395a75ef97544dbbfcffc59b55[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Wed Sep 30 16:02:39 2020 +0200
+
+    t
+
+[33mcommit a81bb3ee371289fcb7934092f4d7aea1f99a21d9[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Wed Sep 30 16:02:18 2020 +0200
+
+    t
+
+[33mcommit ed41f93f32fb9fa52bdc415d3142f63964079921[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Wed Sep 30 16:00:49 2020 +0200
+
+    t
+
+[33mcommit c2e173aab1a183cfd6031c15a55393951135118a[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Wed Sep 30 15:58:56 2020 +0200
+
+    t
+
+[33mcommit 02d4d80ec7588e86e7c1369a6749883d4b9208de[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Fri Sep 18 11:07:08 2020 +0200
+
+    t
+
+[33mcommit 114972e7220ed16d392440b370a3ac5e655f0528[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Fri Sep 18 11:06:11 2020 +0200
+
+    t
+
+[33mcommit 1f2da2af67318523b16b9ffd0836295cc93f3229[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Fri Sep 18 11:03:00 2020 +0200
+
+    t
+
+[33mcommit 58f22eda24ccdf726e59d4c15656c0f1c6bc2f44[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Fri Sep 18 11:01:10 2020 +0200
+
+    t
+
+[33mcommit b7816b2bc4b1ebe4d734e9677ab935e2e82cd9ae[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Fri Sep 18 10:50:04 2020 +0200
+
+    t
+
+[33mcommit 6bf21c3cc6bedd3686789989a6648f08b3ce1ae8[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Sat Sep 5 14:00:08 2020 +0200
+
+    t
+
+[33mcommit 6bc3a7011dd627e3f3d82cb27ef70f9e77f61582[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Sat Sep 5 13:51:09 2020 +0200
+
+    t
+
+[33mcommit 7ea524f66aaec9324d2c37ff2eb61b9b8d586891[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Sat Sep 5 13:49:23 2020 +0200
+
+    t
+
+[33mcommit 2363ac4bfebb7211712ddff7eeb8d3c38fc12550[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Sat Sep 5 12:58:23 2020 +0200
+
+    t
+
+[33mcommit b33cc710814de9c20ddab6ef274a1dd397c409f0[m
+Merge: 4144613 e9d3712
+Author: Milan <milan.allan@gmail.com>
+Date:   Sat Sep 5 12:55:58 2020 +0200
+
+    Merge branch 'gh-pages' of https://github.com/mpa139/allanlab into gh-pages
+
+[33mcommit 4144613106b01681a4e4a577e2b903d23fb0c607[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Sat Sep 5 12:55:52 2020 +0200
+
+    t
+
+[33mcommit e9d3712ea33d316afb6b87f4af8c528a5f1a77f5[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Wed Jun 17 15:51:12 2020 +0200
+
+    Update team_members.yml
+
+[33mcommit 00729fcb5f56b851b56a6ee0b692e7b61b47540e[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Tue May 12 10:59:22 2020 +0200
+
+    t
+
+[33mcommit e553f54e05ab2c792a96551ed856e4a68a7f5f5a[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Tue May 12 10:31:39 2020 +0200
+
+    t
+
+[33mcommit b881e8141b0bcfdbcddbf998d6baf22653a53696[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Mon Apr 20 21:31:31 2020 +0200
+
+    t
+
+[33mcommit a080e1e1fb6d21587adc28b9649c332fb3a41e1a[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Fri Apr 3 10:19:55 2020 +0200
+
+    t
+
+[33mcommit bc5c0cbe813a7bac3de49090ddf09bee386e080f[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Mon Feb 10 17:04:04 2020 +0100
+
+    t
+
+[33mcommit 51b77daeec8c8503907a77eba7fe5d05c4923aac[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Mon Feb 10 17:01:56 2020 +0100
+
+    t
+
+[33mcommit 3a4f784e87d25fad51e35c696a9cde7dee70bc8f[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Fri Jan 10 16:19:57 2020 +0100
+
+    t
+
+[33mcommit fa52ed1a1a5ffd723cb84d427e8c76c7df571eaf[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Fri Jan 10 10:46:43 2020 +0100
+
+    t
+
+[33mcommit f6b96f288436320c1a36541371c7b4fa754a0044[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Fri Jan 10 10:45:27 2020 +0100
+
+    t
+
+[33mcommit 3f4576b9ebaec489a68a8a83f507378f9a187db6[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Fri Jan 10 10:43:49 2020 +0100
+
+    t
+
+[33mcommit 2f932edf9199aea8b4ceabf151e513e47f8db908[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Wed Dec 18 09:50:59 2019 +0100
+
+    Update news.yml
+
+[33mcommit d5b80319734d1f4df2ca18f8d06029e841a2c0cc[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Mon Oct 28 10:02:19 2019 +0100
+
+    t
+
+[33mcommit 14234a1992bee1e722be4f9523154cd70fdb391f[m
+Author: BenschopT <38832389+BenschopT@users.noreply.github.com>
+Date:   Thu Oct 10 17:37:33 2019 +0200
+
+    Update home.md
+    
+    I changed do to to.
+
+[33mcommit 3fcb3bd670b1e0eca5539c990665b12cadd9c57a[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Thu Sep 5 16:46:14 2019 +0200
+
+    Update news.yml
+
+[33mcommit c52e6c8294be3bfd6ea3266538f0efa8d898930e[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Thu Sep 5 16:24:49 2019 +0200
+
+    Update publist.yml
+
+[33mcommit 2052e59b3086abd7b726f0a472c02bd1bfe6c65d[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Mon Sep 2 15:38:53 2019 +0200
+
+    t
+
+[33mcommit 17d0994db1630cfe455d0d6c4c747b9cc6c9ce32[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Mon Sep 2 15:36:25 2019 +0200
+
+    t
+
+[33mcommit f2ee78244d2b00dcab2319739922dfc849227df5[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Mon Sep 2 15:31:43 2019 +0200
+
+    t
+
+[33mcommit 43e163ccf0b31a27f86ac7c4fefee4be21e1a017[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Mon Sep 2 15:21:22 2019 +0200
+
+    t
+
+[33mcommit 58dc17f1e3eea22b8eb62cde72cc9c0e9b3a6ae1[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Mon Sep 2 15:12:28 2019 +0200
+
+    t
+
+[33mcommit 8b8b502547b28a38e5a6826abbfe2a55aecc7bf8[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Mon Aug 26 16:12:10 2019 +0200
+
+    t
+
+[33mcommit 4d679697be4578ae6dc57e3be4923c5cfbac68f3[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Mon Aug 26 13:48:33 2019 +0200
+
+    t
+
+[33mcommit 788cde36a9f7537c7dc5a6d8dd5902297e96dda1[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Mon Aug 26 13:45:29 2019 +0200
+
+    t
+
+[33mcommit 69b017897844dd5fda4ae30e0591489e0705c2d4[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Thu Jul 25 10:17:35 2019 +0200
+
+    Update publist.yml
+
+[33mcommit 0c1a1af20f4b317c54fab02b61c963d13014e366[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Thu Jul 25 10:17:05 2019 +0200
+
+    Update news.yml
+
+[33mcommit d66c3ff7a00f4abff339bed17dfe03bcd488e469[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Wed Jul 24 21:22:26 2019 +0200
+
+    t
+
+[33mcommit 88cebeba593a7cadbac5d12f47b1468ccceeb849[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Wed Jul 24 21:21:36 2019 +0200
+
+    t
+
+[33mcommit 21879ab311204066bd4f9ec348f8d7e465668d2e[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Wed Jul 24 21:16:06 2019 +0200
+
+    t
+
+[33mcommit c4f71525d04efd307327151881dccc1e926906f1[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Wed Jul 24 21:15:24 2019 +0200
+
+    t
+
+[33mcommit f367ec382b04bacdca7859668b9cc34fcddeb1b0[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Wed Jul 24 21:09:34 2019 +0200
+
+    t
+
+[33mcommit 91ff43830242d978e2c35611d64c001db92a9e6b[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Tue Jul 23 15:30:03 2019 +0200
+
+    t
+
+[33mcommit 55bd330746b2d221bb0386165c8f6f5eb435474f[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Tue Jul 23 15:28:53 2019 +0200
+
+    t
+
+[33mcommit fe22a803fd80bb1b4536eebd4acdee365ac41199[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Tue Jul 23 15:24:59 2019 +0200
+
+    t
+
+[33mcommit 75ba5b98e63f7128f9d48994642844930f0a63a6[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Tue Jul 23 15:22:25 2019 +0200
+
+    t
+
+[33mcommit 090be9daffbd6343f8a757d0c805f9bbf70bd612[m
+Merge: c551e9b 65f1c10
+Author: Milan <milan.allan@gmail.com>
+Date:   Tue Jul 23 15:15:14 2019 +0200
+
+    Merge branch 'gh-pages' of https://github.com/mpa139/allanlab into gh-pages
+
+[33mcommit c551e9b81e90307c69381881036adbc6d1948147[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Tue Jul 23 15:12:13 2019 +0200
+
+    t
+
+[33mcommit 65f1c1017264e4c695068f0d99d8487f8299d8ef[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Jul 15 11:54:50 2019 +0200
+
+    Update publist.yml
+
+[33mcommit 836b9e3d07a2d67d9a6d4c1758b33af4ae7dbb67[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Jul 15 11:54:26 2019 +0200
+
+    Delete PbSpub.PNG
+
+[33mcommit c770369d136c3b6922e74d0541e9bb2d459125d2[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Jul 15 11:53:35 2019 +0200
+
+    Add files via upload
+
+[33mcommit 5d798aec9944078a432ded6c3f181f17a6cc8feb[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Jul 15 10:39:58 2019 +0200
+
+    Update publist.yml
+
+[33mcommit bde8e8ca59efe25683f2a796c5838550a476ea59[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Jul 15 10:37:45 2019 +0200
+
+    Update publist.yml
+
+[33mcommit 7d892936e328c131e337c8f16cf970d048be6075[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Jul 15 10:34:45 2019 +0200
+
+    t
+
+[33mcommit 07cae6131752325b8f986fed83a11e371a14828b[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Jul 15 09:58:01 2019 +0200
+
+    t
+
+[33mcommit 74f588e629f1ba205abef97276478ebcdbf6ffa4[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Jul 15 09:52:30 2019 +0200
+
+    Update news.yml
+
+[33mcommit 4e87a231d922d6d10d273947c4a4f3d2a35af221[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Fri May 24 09:46:29 2019 +0200
+
+    t
+
+[33mcommit 263e8bc0e4f80faf277a8b0a1ed84e2ba3f6ea71[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Fri May 24 09:43:54 2019 +0200
+
+    t
+
+[33mcommit 3a2e1f67d9b8418a64683c2f9b634c8819c3c94e[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Fri May 24 09:42:05 2019 +0200
+
+    t
+
+[33mcommit 95be36cc397d641995fb240987f9ea9bef77fde4[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Fri May 24 09:40:33 2019 +0200
+
+    t
+
+[33mcommit 0d914f7eed39177e903ada971b8f5b6f0ff276a7[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Fri May 24 09:38:09 2019 +0200
+
+    Update publist.yml
+
+[33mcommit 1c3cd8a83daf65bc3e96049f3235d65c569cb2ee[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu May 9 15:21:41 2019 +0200
+
+    Update dinner2.jpg
+
+[33mcommit 761a76fe3e747aadffc626fa4011f221c437a9d2[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu May 9 15:19:53 2019 +0200
+
+    t
+
+[33mcommit 16a2e4eefe8f25b7c1b9064c0f2026d752e8400b[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu May 9 15:18:06 2019 +0200
+
+    t
+
+[33mcommit 8eaa765313ace4e590473514cffbf0d45400d2c2[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu May 9 14:49:24 2019 +0200
+
+    t
+
+[33mcommit 07279acbe85f861c9378ef209f7453839519e31b[m
+Author: BenschopT <38832389+BenschopT@users.noreply.github.com>
+Date:   Mon Apr 29 12:04:34 2019 +0200
+
+    Update team_members.yml
+
+[33mcommit 7b3887941c53a98d070276db0e46f35c3cb24ae6[m
+Author: BenschopT <38832389+BenschopT@users.noreply.github.com>
+Date:   Mon Apr 29 12:02:22 2019 +0200
+
+    Update team_members.yml
+
+[33mcommit 0d94a0d0e5e69e1f0d07aea8a9835df1e859ed2c[m
+Author: VincentStalman <45493560+VincentStalman@users.noreply.github.com>
+Date:   Mon Apr 29 11:59:38 2019 +0200
+
+    Add files via upload
+
+[33mcommit 5d9319171aacc708f3cfde2c2ef2a27e5cfa4125[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Mar 19 16:20:47 2019 +0100
+
+    Update publist.yml
+
+[33mcommit 109fd9390ffc248ac2fc0f9a3f6be6bf91a34f64[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Fri Feb 22 11:53:09 2019 +0100
+
+    t
+
+[33mcommit 9cbdd60c6eb5abb1f64fd010d2f20cdc6c5b6ec1[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Sun Jan 6 16:45:00 2019 +0100
+
+    t
+
+[33mcommit f91c3bd0506db4ef36b72597b9fac1c9acc39467[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Sun Jan 6 16:24:15 2019 +0100
+
+    t
+
+[33mcommit a54a817dd60c82ffc88877db449d321844f42a47[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Sun Jan 6 16:21:40 2019 +0100
+
+    t
+
+[33mcommit 91934c0abb3e5406e7fc574401e322437a48f29f[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Sun Jan 6 16:21:15 2019 +0100
+
+    t
+
+[33mcommit f750bf8eb96ee4b5a926a25c6e208f7455f4cb63[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Sun Jan 6 16:18:38 2019 +0100
+
+    t
+
+[33mcommit 63fee8f07555459f2432fa846509f51410258365[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu Dec 13 18:05:09 2018 +0100
+
+    t
+
+[33mcommit 016d92d9a60dde16743df4fb8fabe08420fb01a0[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu Dec 13 18:02:07 2018 +0100
+
+    t
+
+[33mcommit 1572b68c154bd742ea7fd21c13d64490060c1c5e[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu Dec 13 18:01:26 2018 +0100
+
+    t
+
+[33mcommit 9744a18b1b181c51557d67a7ef37dc4c1890fc32[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu Dec 13 17:59:25 2018 +0100
+
+    t
+
+[33mcommit 56bd0bbff0bfa6f72ecbd5c7ba2684c778c8f90a[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu Dec 13 17:57:24 2018 +0100
+
+    t
+
+[33mcommit 3090d331a55e6a86da75b6060af460866d7d632b[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu Dec 13 17:56:35 2018 +0100
+
+    t
+
+[33mcommit 379605368cfa6631a90bad8d80d5d2b98f28464d[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu Dec 13 17:55:04 2018 +0100
+
+    t
+
+[33mcommit 04576370491b52caa77cb22d5440e8e5f1a56e10[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu Dec 13 17:52:16 2018 +0100
+
+    t
+
+[33mcommit e312a49f2e9fabdd9cd3a6586f74a30dac183ac4[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu Dec 13 17:50:48 2018 +0100
+
+    t
+
+[33mcommit 2da441cb1cde585f168152e6a64b1f02351aafd2[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu Dec 13 17:48:54 2018 +0100
+
+    t
+
+[33mcommit 7688438acbad409fa79d83f9c5e0bc3b52c2cd71[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu Dec 13 17:47:25 2018 +0100
+
+    t
+
+[33mcommit c88dd6851c06c4225b61c4575eb401779e130596[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Thu Dec 13 17:30:03 2018 +0100
+
+    Update team_members.yml
+
+[33mcommit d31f9ca21988a5795480f76a06b14d4c3a76efd9[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Thu Dec 13 17:28:13 2018 +0100
+
+    Update news.yml
+
+[33mcommit 85c7c4f4fa4fca315f4aba5a1a0877fdabe7d503[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu Dec 13 17:27:49 2018 +0100
+
+    gem file security patch
+
+[33mcommit 01721bf807fd5d597e3557a4329db1f2f893bd7e[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Thu Dec 13 17:25:54 2018 +0100
+
+    Update publist.yml
+
+[33mcommit 439bb05440b2f46b576402a00d66a2dc1447d6ea[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Thu Dec 13 17:24:59 2018 +0100
+
+    Update news.yml
+
+[33mcommit 1136802415f244fa8c18fd93992f875658272fe0[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Wed Dec 5 10:25:34 2018 +0100
+
+    Update publist.yml
+
+[33mcommit fb84298183208b5006ea6a4cccdb46f8e9456446[m
+Author: BenschopT <38832389+BenschopT@users.noreply.github.com>
+Date:   Thu Nov 8 16:59:32 2018 +0100
+
+    Update team_members.yml
+
+[33mcommit 28ab7d3a34bb3f2273dbba778756dbe719929fa7[m
+Author: BenschopT <38832389+BenschopT@users.noreply.github.com>
+Date:   Thu Nov 8 16:58:12 2018 +0100
+
+    Add files via upload
+
+[33mcommit 587c32cae54a3a24123bc5d3941048a8abe54fd2[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu Nov 8 10:36:30 2018 +0100
+
+    t
+
+[33mcommit f6991ac2753cb37636f075e1ef5bb17e0f3ef143[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu Nov 8 10:34:57 2018 +0100
+
+    t
+
+[33mcommit ee51a16f7aaa381a18472cadf2a18654cc0c2f55[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu Nov 8 10:34:08 2018 +0100
+
+    t
+
+[33mcommit a97cf2a54b4f09a21a407b6fb5087346433a4f23[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu Nov 8 10:33:46 2018 +0100
+
+    t
+
+[33mcommit f19fc59f3b36abdb450bc9a4f48b49729067675d[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu Nov 8 10:32:54 2018 +0100
+
+    t
+
+[33mcommit 51802eacb18432acc76497af7077d1063013da8b[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu Nov 8 10:30:13 2018 +0100
+
+    t
+
+[33mcommit 53ad473630118f26c07b454b3b6360b91142fdf6[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu Nov 8 10:26:55 2018 +0100
+
+    t
+
+[33mcommit 94001aa90211f7490b371a56207977763bd1a70b[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu Nov 8 10:25:46 2018 +0100
+
+    t
+
+[33mcommit 300554cbe17f8c5b21f4a17bba6ae55e0354a692[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu Oct 25 13:27:57 2018 +0200
+
+    t
+
+[33mcommit 4ec5e0ae1e3cc39f17f6fca93378e4f5e95f43f6[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Thu Oct 25 13:24:12 2018 +0200
+
+    t
+
+[33mcommit da1e7a6abf25b17015f4cf051d845cb3a9e830e7[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Oct 23 16:06:41 2018 +0200
+
+    Update team_members.yml
+
+[33mcommit 9df6dbb8f2ac3078645e440afe4588bc80fb6730[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Wed Oct 17 17:00:37 2018 +0200
+
+    Update team_members.yml
+
+[33mcommit 4980f85cc4b5c99e67f9bb50dc22dc7513bafbd0[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Wed Oct 17 16:59:43 2018 +0200
+
+    Update team_members.yml
+
+[33mcommit 9bd0c76085c981502703d703410aacd5dae271b7[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Wed Oct 17 16:56:41 2018 +0200
+
+    Add files via upload
+
+[33mcommit d300582d2edf21eba08a8475681418eb84f09fc1[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Oct 9 12:08:59 2018 +0200
+
+    Update publist.yml
+
+[33mcommit 97b1c857fd776035ab928c3c448ac843e63254f9[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Oct 9 12:07:41 2018 +0200
+
+    Update news.yml
+
+[33mcommit bae77ac37abaa36f3c850f5f6bdb8107c87302db[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Oct 9 12:06:01 2018 +0200
+
+    Update news.yml
+
+[33mcommit 9060fee59a75aebd628e7ef9293db28642ff255a[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Oct 9 12:04:57 2018 +0200
+
+    Update news.yml
+
+[33mcommit 1d843fe51027daad5aaf157aec151fda0480b60a[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Oct 9 12:03:10 2018 +0200
+
+    Update publist.yml
+
+[33mcommit 9b14b7f8526c0358fe460ab8f7977f3302e89bf2[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Oct 9 11:56:14 2018 +0200
+
+    Add files via upload
+
+[33mcommit 8489d9ca67bb8b16d758dbac4ac7c99b50dc403c[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Oct 9 11:49:44 2018 +0200
+
+    Update news.yml
+
+[33mcommit a7d38f694a8ef31c26d7d10de1a1f9c6b01d7fb7[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Mon Oct 1 15:03:10 2018 +0200
+
+    t
+
+[33mcommit 24b4828968e381725c3d8152718b92d1f3653213[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Mon Oct 1 15:01:31 2018 +0200
+
+    t
+
+[33mcommit a529c7a87078ced5b321c3fabc1318566e2cbdcd[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Mon Oct 1 14:59:58 2018 +0200
+
+    t
+
+[33mcommit b18fae8cbb530373a95f0aefcb92bc632c6e8692[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Mon Oct 1 14:58:39 2018 +0200
+
+    t
+
+[33mcommit 71199c7ed6bb20d7a793bb4087b1d98b03e12828[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Mon Oct 1 14:57:45 2018 +0200
+
+    t
+
+[33mcommit 1ad4b0bc6b901cc15f88107626e1611335d8b5d1[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Mon Oct 1 14:56:45 2018 +0200
+
+    t
+
+[33mcommit acb0c0a71b31aef894af13a300261e1ad46b00b4[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Mon Oct 1 14:52:36 2018 +0200
+
+    t
+
+[33mcommit cde9b4fa06ecb404642421ad0b884aeeb4298f25[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Mon Oct 1 14:49:17 2018 +0200
+
+    t
+
+[33mcommit b4bc8a6df6d279f8aaea5264a7cb27dd8f98235a[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Mon Oct 1 14:45:14 2018 +0200
+
+    t
+
+[33mcommit e73c0f2d023f6b67426fae616ef54bb857043003[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Mon Oct 1 14:36:17 2018 +0200
+
+    t
+
+[33mcommit 450b739a8a55d87868824dc65e32aaf53f300c5d[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Thu Sep 27 09:55:41 2018 +0200
+
+    Update news.yml
+
+[33mcommit 4ae30ec9570cbc5b184bde47c21008494d366465[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Thu Sep 27 09:50:37 2018 +0200
+
+    Update publist.yml
+
+[33mcommit bc3de9a27cc7bb366d3fe969df3f40c064206a5a[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Thu Sep 27 09:47:41 2018 +0200
+
+    Update publist.yml
+
+[33mcommit 373bec718d49a8eccab27e8e67da80985a5dc056[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Sat Sep 8 00:29:13 2018 +0200
+
+    security vulnerability fix
+
+[33mcommit 46a9797d8ad09a95003be3d4b3d3b0192e190cc2[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Thu Sep 6 17:00:02 2018 +0200
+
+    Update team_members.yml
+
+[33mcommit f5f53a08b03b4ee0edbc85d2c2f44eb5a032cc2c[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Thu Sep 6 16:59:09 2018 +0200
+
+    Update students.yml
+
+[33mcommit 5f34dcd09d8731cf395c233806a258ec8a671d65[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Thu Sep 6 16:58:42 2018 +0200
+
+    Update team_members.yml
+
+[33mcommit af0aea8690fdd8ba38da9484850b64484f560fca[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Jul 17 17:51:07 2018 +0200
+
+    Update students.yml
+
+[33mcommit 8dbcba507456388d01e2805792ef9fc3e9ff91f5[m
+Author: dooheecho <38831833+dooheecho@users.noreply.github.com>
+Date:   Tue Jun 19 14:16:43 2018 +0200
+
+    test
+
+[33mcommit 20e2ad9bef64a98685fb6c5a75a3e4a9a7d53b59[m
+Author: mpa139 <milan.allan@gmail.com>
+Date:   Wed Jun 6 16:27:07 2018 +0200
+
+    t
+
+[33mcommit f1eac81ef1fe68bc29abe00aa5b4c588b3c40f33[m
+Author: mpa139 <milan.allan@gmail.com>
+Date:   Wed Jun 6 16:22:20 2018 +0200
+
+    t
+
+[33mcommit 7812b7eec22e7fe711e745b39b9b2020ce60c228[m
+Author: mpa139 <milan.allan@gmail.com>
+Date:   Wed Jun 6 16:18:47 2018 +0200
+
+    t
+
+[33mcommit 5fb628fb7781811687c9929181dd2c6f93133c81[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Jun 4 13:55:50 2018 +0200
+
+    Update publist.yml
+
+[33mcommit cb32041f296e90084abca29909f783db90f32038[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Jun 4 09:51:56 2018 +0200
+
+    Update news.yml
+
+[33mcommit dde4c1f0a158e2e1ef90f1458adccc4c035c0b12[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Jun 4 09:50:21 2018 +0200
+
+    Update news.yml
+
+[33mcommit 706ff2295bf6b0808d4f9bd7b9aa8a3133302cf6[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Jun 4 09:49:24 2018 +0200
+
+    Add files via upload
+
+[33mcommit bddbaef47c961f5764d3d3af039c015dedb48057[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Jun 4 09:47:13 2018 +0200
+
+    Update news.yml
+
+[33mcommit 3e9b5a86c1ee98634a7595d6a100a19098a51912[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Jun 4 09:45:22 2018 +0200
+
+    Update news.yml
+
+[33mcommit 41c7c9388134e673f6b58f79adca318822f44b7a[m
+Author: ramaluru <rpa2@st-andrews.ac.uk>
+Date:   Wed May 23 14:28:24 2018 +0200
+
+    email address of Ram updated
+
+[33mcommit 3b1d59d6da2b03108f7d212162529207c363e9bb[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Wed May 16 11:34:55 2018 +0200
+
+    Update news.yml
+
+[33mcommit b3f06c8aaef4057696ad6ef996f1360f38815156[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Wed May 16 11:34:29 2018 +0200
+
+    Update news.yml
+
+[33mcommit aa42a3ade94124bdfa08fa1624e1c4fc3d9b6348[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Wed May 16 11:33:00 2018 +0200
+
+    Update news.yml
+
+[33mcommit ad7f81ef59a980b093aad53401c005bbaaca3670[m
+Author: mpa139 <milan.allan@gmail.com>
+Date:   Tue May 8 10:24:15 2018 +0200
+
+    t
+
+[33mcommit d1c69125f0d657eab8d4608e8e16f20cb6a93635[m
+Author: mpa139 <milan.allan@gmail.com>
+Date:   Tue May 8 10:24:00 2018 +0200
+
+    t
+
+[33mcommit a79b75db10b4ae228c2550635195ff73feb8f944[m
+Author: mpa139 <milan.allan@gmail.com>
+Date:   Tue May 8 09:27:26 2018 +0200
+
+    t
+
+[33mcommit bc05e046bd50eb5fa3a6656a95a547e6b0027662[m
+Author: mpa139 <milan.allan@gmail.com>
+Date:   Tue May 8 08:31:39 2018 +0200
+
+    t
+
+[33mcommit ae17380cccf424e8d0ba305381be3f460a4b5800[m
+Author: mpa139 <milan.allan@gmail.com>
+Date:   Tue May 1 10:32:29 2018 +0200
+
+    t
+
+[33mcommit e358be93caa986015858743ebb7dcd58a0fc1f36[m
+Author: mpa139 <milan.allan@gmail.com>
+Date:   Sat Apr 28 19:40:42 2018 +0200
+
+    t
+
+[33mcommit 1a97925c943d316205e091d2202a51aa8e0f4568[m
+Merge: 4e45529 3ff683a
+Author: mpa139 <milan.allan@gmail.com>
+Date:   Sat Apr 28 19:37:57 2018 +0200
+
+    Merge branch 'gh-pages' of https://github.com/allanlab/allanlab into gh-pages
+
+[33mcommit 3ff683aa8b11a5e09d334cfbe1d1f7501d050d3c[m
+Author: Milan <milan.allan@gmail.com>
+Date:   Sat Apr 28 19:37:34 2018 +0200
+
+    t
+
+[33mcommit 4e4552913ba0205cd8089f31cdeb78032a9a277d[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Sat Apr 28 19:29:59 2018 +0200
+
+    t
+
+[33mcommit a6c5f3b4344edf70c5870c2c699a95ebf29a6f98[m[33m ([m[1;31mupstream/tmp[m[33m, [m[1;31morigin/tmp[m[33m)[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Fri Mar 23 10:24:31 2018 +0100
+
+    t
+
+[33mcommit 9b7fccc73b762778c917c5f7a92941211de85298[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Fri Mar 23 10:22:21 2018 +0100
+
+    t
+
+[33mcommit 5fa419ea5d565d7d513e74f6eccaea37d996947a[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Tue Mar 20 17:34:33 2018 +0100
+
+    t
+
+[33mcommit 68dbb125bcd6ca5c76fab511954dcab8b8b76b00[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Tue Mar 20 17:29:21 2018 +0100
+
+    t
+
+[33mcommit 1efbf956cebb76471cb1295bd48b0d65e4c7153c[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Thu Mar 1 18:16:26 2018 -0800
+
+    t
+
+[33mcommit 0de12c8d0234d785156956d22c2c4a7bd2791c03[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Thu Mar 1 18:14:45 2018 -0800
+
+    t
+
+[33mcommit 7a94deb1330ef405c4172b7c244bd3e3bd9b6c0b[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Feb 26 14:39:18 2018 +0100
+
+    Update students.yml
+
+[33mcommit 8492d79003d0d13edbc6ad7b9f14c1120a0fd46c[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Feb 26 14:38:38 2018 +0100
+
+    Update team.md
+
+[33mcommit 41fb07d4c0317a12b4403ce0bed581c39fdc921a[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Mon Jan 29 21:29:20 2018 +0100
+
+    t
+
+[33mcommit d1610b33c27aa3c6fdcb3b331e6dd825c86cdfc4[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Thu Jan 4 16:23:02 2018 +0100
+
+    t
+
+[33mcommit 9a4b63be86de6bd9e4a9bde20e2c438bf3e24f26[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Wed Dec 27 10:10:41 2017 -0600
+
+    t
+
+[33mcommit aa42e12f28e8834e4dadc5c2ddeba1344ed5fcf6[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Wed Dec 27 10:02:46 2017 -0600
+
+    t
+
+[33mcommit 3e07c7f7460a452ee954dd843c2d071081866763[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Wed Dec 27 09:55:54 2017 -0600
+
+    t
+
+[33mcommit aeffee89256dc6766a024102a160ef932a912ff0[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Wed Dec 27 09:51:51 2017 -0600
+
+    t
+
+[33mcommit b5496b03f60624c19ee64b8aba2705f61f04cf3c[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Dec 11 14:22:53 2017 +0100
+
+    Update team_members.yml
+
+[33mcommit fc613bd52d5b4dcafcdeb6c33d8f28253c192127[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Dec 11 14:21:43 2017 +0100
+
+    Update team_members.yml
+
+[33mcommit 47e2ff7107287e6e16a00165aa4b15e31afd9b29[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Dec 11 14:20:55 2017 +0100
+
+    Add files via upload
+
+[33mcommit 8dd115d6d2b3a57c877589b47d06d252dd89f8a2[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Fri Nov 24 16:44:37 2017 +0100
+
+    t
+
+[33mcommit b1b98ae546509d1e9fd3d7ffe83274596d57f2b1[m
+Merge: c041f04 eb1e314
+Author: allanlab <milan.allan@gmail.com>
+Date:   Fri Nov 24 16:43:14 2017 +0100
+
+    Merge branch 'gh-pages' of https://github.com/allanlab/allanlab into gh-pages
+
+[33mcommit c041f046654144854b89afca2d97b3225e88a9a2[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Fri Nov 24 16:43:11 2017 +0100
+
+    t
+
+[33mcommit eb1e314233c4eedef67bf07f4d3b9e61b11f5b36[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Thu Nov 16 10:57:57 2017 +0100
+
+    Update team_members.yml
+
+[33mcommit 9b58179845e6c5d5bb52558f51eaff4554c06247[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Thu Nov 16 10:57:00 2017 +0100
+
+    Update team_members.yml
+
+[33mcommit 76abbaeb73476418ee7abee76a9c660118a843f3[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Nov 13 13:19:58 2017 +0100
+
+    Update publist.yml
+
+[33mcommit d3610fcb710d92ad9715b069dce00bf860a892df[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Mon Nov 13 11:57:00 2017 +0100
+
+    t
+
+[33mcommit 58fe3b8ddb3502873aa2dba08d7fd87c73cd5554[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Mon Nov 13 11:54:18 2017 +0100
+
+    t
+
+[33mcommit 7e568ad68fe12f6445e8f7662451eda3cb2bb63b[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Mon Nov 13 11:52:55 2017 +0100
+
+    t
+
+[33mcommit 1ef2c1083ff3f5fcf641768e75f56cabf808c406[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Mon Nov 13 11:49:56 2017 +0100
+
+    Revert "Merge branch 'gh-pages' of https://github.com/allanlab/allanlab into gh-pages"
+    
+    This reverts commit e8fa7d3d194181182e68d93f4167fa035723d755, reversing
+    changes made to 6a04798da27d81f4237e6a5b881acc7b158c1eaf.
+
+[33mcommit e8fa7d3d194181182e68d93f4167fa035723d755[m
+Merge: 6a04798 11dc98b
+Author: allanlab <milan.allan@gmail.com>
+Date:   Mon Nov 13 11:46:21 2017 +0100
+
+    Merge branch 'gh-pages' of https://github.com/allanlab/allanlab into gh-pages
+
+[33mcommit 6a04798da27d81f4237e6a5b881acc7b158c1eaf[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Mon Nov 13 11:46:18 2017 +0100
+
+    t
+
+[33mcommit 11dc98b4fab45c5e12a61bd84b6e5e9c13c4dc3f[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Nov 13 11:39:16 2017 +0100
+
+    Update publist.yml
+
+[33mcommit 007da1be02597997f40595e4fe521faa4edb5b34[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Nov 13 11:38:01 2017 +0100
+
+    Update publist.yml
+
+[33mcommit 281d43a12ab771f61607edaf52c240aed48a65d4[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Tue Oct 31 13:54:06 2017 +0100
+
+    t
+
+[33mcommit ec8345f98368da8b87aa59a589eeb7e8a96f5299[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Tue Oct 31 13:34:38 2017 +0100
+
+    t
+
+[33mcommit 5af93f08b56dada0318743104cf84db79907d680[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Tue Oct 31 13:31:05 2017 +0100
+
+    t
+
+[33mcommit 621c01a11bbb44fbea96904e357195075671db02[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Tue Oct 31 13:25:32 2017 +0100
+
+    t
+
+[33mcommit 949b062e1b356471eaf66a335b6e90ae402360e7[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Fri Sep 15 10:50:58 2017 +0200
+
+    Update team.md
+
+[33mcommit 2adf7128b11ac524a524cc76ceedf260e40089a4[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Fri Sep 15 10:48:44 2017 +0200
+
+    Update team.md
+
+[33mcommit 0600ecea073d633eefb8656e8dae3bcb5bb066fa[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Fri Sep 15 10:47:30 2017 +0200
+
+    Update students.yml
+
+[33mcommit 8851bf8c067121ef380802f74b074c55dcda7cc1[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Wed Sep 13 15:51:39 2017 +0200
+
+    t
+
+[33mcommit 922f7bfe6f8476592fbf84507a9edfcaa65b037a[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Wed Sep 13 15:39:54 2017 +0200
+
+    t
+
+[33mcommit 3930c20881293d4fc3f21fcaa11e6fac2ceb8a14[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Tue Sep 12 10:27:20 2017 +0200
+
+    t
+
+[33mcommit 688d03e63b43cd9247b8a62dd808ea7d0ecef7a2[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Fri Sep 1 07:53:03 2017 +0200
+
+    t
+
+[33mcommit 340ca3b39a62ee15e130eadfdd4ac3c094e3d9b3[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Thu Aug 24 12:22:13 2017 +0200
+
+    t
+
+[33mcommit 16eefffb88221d0b9654fc1319eba5328d8a25a9[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Thu Aug 24 12:16:47 2017 +0200
+
+    t
+
+[33mcommit 194c8c025aded68dd1a02053fe57b46763ec743e[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Wed Aug 16 14:03:29 2017 +0200
+
+    t
+
+[33mcommit 195a4f89c0b22d0dac401dc744e264a23865b5e8[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Tue Aug 15 12:00:48 2017 +0200
+
+    t
+
+[33mcommit c6d21249047d9349cf08df2f9a62ae5d462014b7[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Sat Aug 12 16:11:49 2017 +0200
+
+    t
+
+[33mcommit c281e67f3a863589790b5276f3e1f175b456d6b2[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Sat Aug 12 16:10:02 2017 +0200
+
+    t
+
+[33mcommit 177859666c250921b539b28e343ee846c1381daf[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Sat Aug 12 16:08:29 2017 +0200
+
+    t
+
+[33mcommit 8983cdad15f14b42ede3970430e6ac950db69c6a[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Sat Aug 12 16:05:34 2017 +0200
+
+    t
+
+[33mcommit 94b29b21c94fea67b368e5d75799c4ce8658c2d4[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Sat Aug 12 15:57:43 2017 +0200
+
+    t
+
+[33mcommit fc11ecffb4cfe10418459233af8f35dbcbe9c193[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Sat Aug 12 15:54:37 2017 +0200
+
+    t
+
+[33mcommit 3dd7ffcd80c432007a9a9e015d6c74393dd4397d[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Sat Aug 12 15:51:50 2017 +0200
+
+    t
+
+[33mcommit 14a51a0dd1696a942cccfc5c85196480a2ca7bd4[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Aug 8 13:54:41 2017 +0200
+
+    Update students.yml
+
+[33mcommit 55cb4189cf9920f72e5162dc71c0e5250a65082d[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Aug 1 11:51:49 2017 +0200
+
+    Update news.yml
+
+[33mcommit e813e96d581077c64ff6aada5a251cb2eb21d266[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Aug 1 11:51:18 2017 +0200
+
+    Update news.yml
+
+[33mcommit af14e5dd7b59e6957b741c30a754b162a349eb61[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Aug 1 11:50:10 2017 +0200
+
+    Update news.yml
+
+[33mcommit bac67ad157d8b327028d6ba3a3d68b0b837190ff[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Aug 1 11:48:03 2017 +0200
+
+    Add files via upload
+
+[33mcommit de4731499795404c8679126c3278373bc82dc750[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Aug 1 11:34:55 2017 +0200
+
+    Update team.md
+
+[33mcommit 4aa34c5e9a524bc1c4cee757d48c2e9abfe95234[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Aug 1 11:33:20 2017 +0200
+
+    Update students.yml
+
+[33mcommit 1c35a58b48ab5c3fb7d2d72e0f35b5c186831ae9[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Sun Jul 16 12:43:21 2017 +0200
+
+    Update news.yml
+
+[33mcommit 69e7755f645328e3154cb90dbcea6c88a91dad84[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Sun Jul 16 12:43:04 2017 +0200
+
+    Update news.yml
+
+[33mcommit 9ff0449165183ffd9c41f0e7962569981d532938[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Sun Jul 16 11:34:14 2017 +0200
+
+    t
+
+[33mcommit b3d663b06155bbd03224a6c2d935fc786cdb3155[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Sun Jul 16 11:31:28 2017 +0200
+
+    t
+
+[33mcommit 18870667ddcc8b68e2875bbd66c9fdfe71e37c3d[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Sun Jul 16 11:28:45 2017 +0200
+
+    t
+
+[33mcommit 096dbe8ad232d4bba404bb285ced10b3dda9186e[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Jul 4 12:44:34 2017 +0200
+
+    Update team.md
+
+[33mcommit 0bb3cad25c9e89a66af9dca0aca470cb1fb10284[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Jul 4 12:42:21 2017 +0200
+
+    Update students.yml
+
+[33mcommit 3b235546e97f964cb20db9109adfd9aaaff36548[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Fri Jun 23 18:58:13 2017 +0200
+
+    t
+
+[33mcommit b8c406310f7ed43c965228915f7dece838d3fb50[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Fri Jun 23 12:33:02 2017 +0200
+
+    t
+
+[33mcommit d22c63016a3976a62b7a937833229cebcb6938f9[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Tue Jun 20 13:02:43 2017 +0200
+
+    t
+
+[33mcommit 65f69527e456020dce879921f3fca002db71f656[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Tue Jun 20 12:57:57 2017 +0200
+
+    t
+
+[33mcommit a8bbd735f713eaa4157e52e2e29482bda996db7f[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Tue Jun 20 12:57:23 2017 +0200
+
+    t
+
+[33mcommit 4df701bf1856ee67a2a705fbd7e9dd0bf977ad27[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Tue Jun 20 12:51:12 2017 +0200
+
+    t
+
+[33mcommit 01b09e716586ad9fef74c7c3521a8a34be2bb4b7[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Tue Jun 20 09:36:51 2017 +0200
+
+    t
+
+[33mcommit d435ea2ff4d0b6c84c6e467110d6fdfc6dfbd77a[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Jun 19 23:20:01 2017 +0200
+
+    t
+
+[33mcommit b2c582955cb7026ca6f5705d773b110a7b228ce8[m
+Merge: 864d0fd 852fd0e
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Jun 19 23:17:38 2017 +0200
+
+    Merge remote-tracking branch 'origin/gh-pages' into gh-pages
+    
+    # Conflicts:
+    #       _data/news.yml
+
+[33mcommit 864d0fd611e2f1f0f29357126556da15d53d7671[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Jun 19 23:12:11 2017 +0200
+
+    t
+
+[33mcommit 852fd0e38287ee7ed5efd4ef17426dc55813d809[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Thu May 25 15:16:18 2017 +0200
+
+    Update publist.yml
+
+[33mcommit 2cffbe1116c4cfebc33a7dd3995f550ddbb786b9[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Thu May 25 15:13:40 2017 +0200
+
+    Update news.yml
+
+[33mcommit 444ad91c1f776126b97204653bbeb8d04d33c1e8[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Tue May 16 09:51:45 2017 +0200
+
+    t
+
+[33mcommit 6a2a02c9dd0bde5f087d042532115103f8a9eed4[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Tue May 16 09:50:00 2017 +0200
+
+    t
+
+[33mcommit 14f80157ed82dab1a58a6f72ab225ce86aa2c597[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Tue May 16 09:48:42 2017 +0200
+
+    t
+
+[33mcommit ec25fc35bd620abd7fe2143a30e41eb353ad5e1a[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Wed May 10 19:32:11 2017 +0200
+
+    t
+
+[33mcommit 1f6de6d6a4b44aa7f4c70512b2a2802738ceb9b7[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Wed May 10 19:22:38 2017 +0200
+
+    t
+
+[33mcommit b831714db24b921f5e977fd507cb55e5b56aaa60[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Wed May 10 19:21:14 2017 +0200
+
+    t
+
+[33mcommit 0269cd57372351806f87b78b8873bc7dacc0e2ca[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Wed May 10 19:20:07 2017 +0200
+
+    t
+
+[33mcommit a0ae0fb93cdd2826a0a5c71478076e986438ce3f[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Wed May 10 11:10:27 2017 +0200
+
+    t
+
+[33mcommit 17da1ded29579050f366b2c465b561bb25f98911[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Wed May 3 11:41:23 2017 +0200
+
+    Update students.yml
+
+[33mcommit c8f138ebb629c5a5c7cfd39f1e093ac5c5d8745a[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Tue Apr 25 11:45:54 2017 +0200
+
+    t
+
+[33mcommit 023a11a6ecd7401c8efe2b4a918d7b0a9ba93504[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Tue Apr 25 11:44:34 2017 +0200
+
+    t
+
+[33mcommit 5d1d36c948858f0ec3b0fe4f9f4f35b5f9e0aad1[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Sun Mar 19 20:02:33 2017 +0100
+
+    t
+
+[33mcommit 9f405f4d1aaa09a8bc711fc5f4f8b4627824418f[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Sun Mar 19 19:48:35 2017 +0100
+
+    t
+
+[33mcommit ac336ad74cffb690bc2a6a272cf4bc0b54f8a976[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Sun Mar 19 11:12:47 2017 +0100
+
+    t
+
+[33mcommit 11b9c9e7ee0a2c265a11e433af423bee4730477b[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Wed Mar 15 09:03:14 2017 +0100
+
+    t
+
+[33mcommit 60b1b2c6fe97f5d667f335382d7e60cda11e1bea[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Wed Mar 15 09:01:24 2017 +0100
+
+    t
+
+[33mcommit 39479a53dfabd1f6efa9e0a8c36039539432fed5[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Tue Mar 14 10:21:23 2017 +0100
+
+    t
+
+[33mcommit 398f9df0a2ce14b2879fee84e46b2351cd2c3f69[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Tue Mar 14 10:19:28 2017 +0100
+
+    t
+
+[33mcommit fdaf19ebaecc43037c316677fca088b265bd71cf[m
+Author: ibattist <irenebattisti90@gmail.com>
+Date:   Mon Feb 27 16:24:37 2017 +0100
+
+    Update team_members.yml
+
+[33mcommit 56507db559cf9aff48feeca2411b6c2af84dc300[m
+Author: ibattist <irenebattisti90@gmail.com>
+Date:   Mon Feb 27 16:23:57 2017 +0100
+
+    Update students.yml
+
+[33mcommit 615485abdcc1b75d7d8b526931fec80f98eff83e[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Wed Feb 22 14:08:41 2017 +0100
+
+    Update students.yml
+
+[33mcommit 02550f91b7f3ffec0f73985ed512778f2686b3d7[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Wed Feb 22 14:05:08 2017 +0100
+
+    Update students.yml
+
+[33mcommit 95e1fc9e63b5ecfb55910110a992637019677239[m
+Author: ibattist <irenebattisti90@gmail.com>
+Date:   Thu Feb 16 18:28:50 2017 +0100
+
+    Update news.yml
+
+[33mcommit 5e8c7f3a1cc3692dd4a51643e0cf12e9e19c778d[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Thu Feb 16 11:57:37 2017 +0100
+
+    t
+
+[33mcommit da73ea1355948d05c9d7935c7236e3a4829be942[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Wed Jan 18 10:27:40 2017 +0100
+
+    t
+
+[33mcommit eac53abc02f52d2777128d650b75b594251c49b6[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Jan 16 17:02:59 2017 +0100
+
+    t
+
+[33mcommit e12e7b07b2a3bff005c4bdb832918564b64a4216[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Jan 16 16:59:44 2017 +0100
+
+    t
+
+[33mcommit dd02e79d143c9d67f6e0f0580b21910036233311[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Fri Jan 13 09:57:00 2017 +0100
+
+    Update news.yml
+    
+    Veldhoven news announcement
+
+[33mcommit 1b1a69be83b04de1121ce06e75655daeaf6e5de7[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Fri Jan 6 19:32:19 2017 +0100
+
+    t
+
+[33mcommit 5d3b867851d34d26ca95f0ac6bbaa52e49ece1df[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Fri Dec 16 19:33:44 2016 +0100
+
+    t
+
+[33mcommit 068254f80321b906a11155719928081ec6ca7146[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Sat Dec 3 13:40:08 2016 +0100
+
+    t
+
+[33mcommit b9e460eda34c58ef219ccc4fb7b231218a4fb450[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Fri Nov 25 15:17:33 2016 +0100
+
+    t
+
+[33mcommit e903552b48769c8f939b8acafc13d34fef2f22cd[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Nov 7 15:43:55 2016 +0100
+
+    t
+
+[33mcommit cabc521347f4938619eb946efceeb92bc588104f[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Nov 7 15:43:17 2016 +0100
+
+    t
+
+[33mcommit fa2e00bf398fe89dbe828be0a5955d968af94241[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Nov 7 15:42:38 2016 +0100
+
+    t
+
+[33mcommit 165adccf8c8e36ce737a0470b1a0d820fd526fe1[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Nov 7 15:40:15 2016 +0100
+
+    t
+
+[33mcommit cfb603c382e7524246a7a6ade80dffd90c4a0c54[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Tue Oct 18 14:26:49 2016 +0200
+
+    t
+
+[33mcommit 04b1632b9565df6ed99b980a4330acdac9579050[m
+Author: ibattist <irenebattisti90@gmail.com>
+Date:   Thu Oct 6 11:21:31 2016 +0200
+
+    Add files via upload
+
+[33mcommit 2c2b51ec7e9737179a6fb405a67acfcaaa8ec5a1[m
+Author: ibattist <irenebattisti90@gmail.com>
+Date:   Thu Oct 6 11:21:00 2016 +0200
+
+    Delete cake-01.jpg
+
+[33mcommit 91c9f825138331a98ca27dfbc5c3adf07896449f[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Sep 26 15:13:51 2016 +0200
+
+    Update students.yml
+
+[33mcommit 33deb3495f9c04b8214edacf15c328f6107c4e33[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Sep 26 14:58:23 2016 +0200
+
+    Update team.md
+
+[33mcommit 46e6a095c54ff30e003ac636e5208328fb85a83e[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Sep 26 14:56:34 2016 +0200
+
+    Update students.yml
+
+[33mcommit df26080c100ab555a8bc7c1837d7263219199042[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Fri Sep 23 18:52:29 2016 +0200
+
+    t
+
+[33mcommit bce31df3571842ddabe4c9652ee3a53effdf2ea4[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Wed Sep 21 17:41:10 2016 +0200
+
+    t
+
+[33mcommit b403abd50b9cf290f12a836df0c2c5733fa74f7b[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Sep 19 21:22:26 2016 +0200
+
+    t
+
+[33mcommit 9ceba5b98c51870f73436a50b272186e4d2069eb[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Sep 19 21:17:04 2016 +0200
+
+    t
+
+[33mcommit dbdb37d356fbccd7fe7d029495134bbd99e052b8[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Sep 19 21:15:26 2016 +0200
+
+    t
+
+[33mcommit 1ce34ac5c7e37fd48d78dccebc358046056ab9c8[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Fri Sep 9 23:06:21 2016 +0200
+
+    t
+
+[33mcommit 1c469cd7f295e4c9fb5a99376565af447f5df0e1[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Fri Sep 9 23:04:21 2016 +0200
+
+    t
+
+[33mcommit 3c46d4f85ec22b03b57b2e61759d2a1c5901a756[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Fri Sep 9 23:00:50 2016 +0200
+
+    t
+
+[33mcommit 4fddea1a8809c072c210873c4c0dff0b14b9c48d[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Fri Sep 9 23:00:23 2016 +0200
+
+    t
+
+[33mcommit b96dd3256fe55532d7fe0c8dac15486cf5306c59[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Fri Sep 9 22:24:02 2016 +0200
+
+    t
+
+[33mcommit 9daebb13f5a85fe762fe2449eac295d4b1f40fbb[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Fri Sep 9 22:17:13 2016 +0200
+
+    t
+
+[33mcommit c9c9bc6b62c8c75a2aa585fdd6dfa5a8f2d4adf9[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Sep 5 16:48:19 2016 +0200
+
+    t
+
+[33mcommit acf894cddc3cfed23c0ddfde0533b10c274cf4d3[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Fri Sep 2 12:02:49 2016 +0200
+
+    t
+
+[33mcommit a143f3fbc5b5aec246b5e9274599f3c565066126[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Wed Aug 31 17:09:36 2016 +0200
+
+    Update news.yml
+
+[33mcommit 65d93ee1728c6dcea2d49f0c18490c7fc1d38537[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Wed Aug 31 16:32:49 2016 +0200
+
+    Update team.md
+
+[33mcommit 0302611ddf01a9762a1b1d44cf49299364c693ef[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Aug 30 17:58:07 2016 +0200
+
+    Update students.yml
+
+[33mcommit 8bff3075777c8359de8f691b28bb60cd2789eaf6[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Aug 30 17:56:22 2016 +0200
+
+    Create students.yml
+
+[33mcommit 48647ef6b1998eadad731a74ccc4bb73b22f0101[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Aug 30 17:54:48 2016 +0200
+
+    Update team.md
+
+[33mcommit c1e277a1d551540070f45451aeac96e78a0b763c[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Aug 30 17:52:33 2016 +0200
+
+    Update team.md
+
+[33mcommit e5e458ff5c99ce2d083b975ef8da12c611205f98[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Aug 30 17:51:00 2016 +0200
+
+    Update team.md
+
+[33mcommit dda4cbd5aad60e07e225f44cb16e09e893e3a1ed[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Aug 30 16:11:21 2016 +0200
+
+    Update team.md
+
+[33mcommit 6e872b99a3fbcda4e9a241e5dcc3774cba8975cd[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Aug 30 16:10:31 2016 +0200
+
+    Update team.md
+
+[33mcommit 048daeca8131a27cb4d7696ab52cd64e20975304[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Aug 29 12:32:26 2016 +0200
+
+    t
+
+[33mcommit 6458cb17c39c638f862267f95546e27311e58719[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Aug 29 12:29:46 2016 +0200
+
+    t
+
+[33mcommit 2f872343059fd8b127239f4b313aca6ad1d4d7e7[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Aug 22 15:13:34 2016 +0200
+
+    t
+
+[33mcommit 14f03df2c96a6cabe7856986c976c8066231ffb3[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Aug 22 15:11:33 2016 +0200
+
+    h
+
+[33mcommit 9d97ffcd4563fa72fc94cf23eeccf33b14fb7012[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Aug 22 14:18:21 2016 +0200
+
+    t
+
+[33mcommit 95592e9ab6a13bfc911ee42ebb0a272eff3a90c0[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Aug 22 14:15:42 2016 +0200
+
+    t
+
+[33mcommit 16d479444bb90104f9db32720a75144b58e58710[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Aug 22 14:11:45 2016 +0200
+
+    aha
+
+[33mcommit 47bb9dc5ed7aede2ea598d7fe1029b5d14ccd872[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Aug 22 10:00:24 2016 +0200
+
+    t
+
+[33mcommit 2014506a9cb23b3d04c47e83e5a60a4cae8d7d43[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Aug 22 09:54:58 2016 +0200
+
+    t
+
+[33mcommit 3f82de59791e6c7293b7ef7a758b5cd344493ee4[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Wed Aug 17 14:25:05 2016 +0200
+
+    Update team.md
+
+[33mcommit 628626b2280dba9eced0b0467aa0aba762c2e17d[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Wed Aug 17 14:09:11 2016 +0200
+
+    Update team.md
+
+[33mcommit e415e26362d1d296d2015746889786c796e605bd[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Wed Aug 17 10:57:54 2016 +0200
+
+    Update team.md
+
+[33mcommit 35ca3350636587bfd7323936938d6f2684c798d1[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Wed Aug 17 10:56:14 2016 +0200
+
+    Update team.md
+
+[33mcommit 5bf80d690457cc545c25081d047ae134e825f65e[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Wed Aug 17 10:52:17 2016 +0200
+
+    Update team.md
+
+[33mcommit c417738add9dfc91b0bbb00b3442449f41a2dc54[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Wed Aug 17 10:46:00 2016 +0200
+
+    Update team.md
+
+[33mcommit b920689a7ffcb03be8f0998c8da414e475f943a5[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Wed Aug 17 10:43:48 2016 +0200
+
+    Update team.md
+
+[33mcommit 488a6e0841a3ce9f6834b7f313efcea02582a8f5[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Wed Aug 17 10:41:20 2016 +0200
+
+    Update team_members.yml
+
+[33mcommit f0838cc8fcc673f767fa46cd68890fa598e2463e[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Tue Aug 16 18:07:52 2016 +0200
+
+    t
+
+[33mcommit 079bc92f0e8846623909f434ec41309286708cf0[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Tue Aug 16 18:04:36 2016 +0200
+
+    t
+
+[33mcommit 41013ee84684f3057271c3293db3a83ec601863e[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Tue Aug 16 18:02:02 2016 +0200
+
+    t
+
+[33mcommit e8247b3ed178ee2dafdafdb19216f1e3a2352e75[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 17:43:25 2016 +0200
+
+    Update pictures.md
+
+[33mcommit da2bb5d2edd409b237e88e1fb832b9bca390ada8[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 17:35:45 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 529d996bb7a0a7670d44cdefbcf35ed7dc437bf8[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 17:32:54 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 8946449fe2b21bcde27509ad8cfd9ea640fb2a27[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 17:29:18 2016 +0200
+
+    Update pictures.md
+
+[33mcommit fd098a023a1034e86c0c2dc7155c113625e3bf4f[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 17:09:41 2016 +0200
+
+    Update team.md
+
+[33mcommit c200e027c00012822dcdac993aab14747e1c8d90[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 17:08:14 2016 +0200
+
+    Update team_members.yml
+
+[33mcommit b5f0dbfcad644500272f6a465b77230d4e711d4e[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 17:04:45 2016 +0200
+
+    Update team_members.yml
+
+[33mcommit 81bb0257674d6409b2e350959f042864f37019ef[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 16:55:20 2016 +0200
+
+    Update team_members.yml
+
+[33mcommit 38ee7f3c73c8c8772645bc028c0af8635ad0cc6e[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 16:49:03 2016 +0200
+
+    Update team.md
+
+[33mcommit 0561c45a8295d29266e76958f12887e5b6d2b23d[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 16:47:15 2016 +0200
+
+    Update team.md
+
+[33mcommit 139af2a7803b8cfe77bb27d3700d62db5e4bb421[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 16:40:24 2016 +0200
+
+    Update team_members.yml
+
+[33mcommit be7cf1ff2ac3753e634a12f6d64744cdde652f3e[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 16:37:46 2016 +0200
+
+    Update team_members.yml
+
+[33mcommit 8ddc4ba078c110edc086856c1973cf6ce5b52020[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Aug 16 16:32:29 2016 +0200
+
+    Update news.yml
+
+[33mcommit d0ef7a94e4532ab4236309d030deb14afc8dc1a9[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 16:18:35 2016 +0200
+
+    Update team.md
+
+[33mcommit a396c66135bda0d70b69cd223b872ad549813015[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 16:18:16 2016 +0200
+
+    Update team_members.yml
+
+[33mcommit 3c9375142234b96a18f23ad80c8dec1377987e04[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 16:15:30 2016 +0200
+
+    Update team_members.yml
+
+[33mcommit 51a966a416351988e067f1917bbc3b5f27850d8c[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 16:13:26 2016 +0200
+
+    Update team.md
+
+[33mcommit 5268d98d39205c590e34a79e7210015e55f6826a[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 16:11:11 2016 +0200
+
+    Update team.md
+
+[33mcommit 3bf05f2581a6977bf43962cf55088c212e44cf16[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 16:09:30 2016 +0200
+
+    Update team_members.yml
+
+[33mcommit e37653643a1d70fb8c927e7eebf992555d9b326b[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 16:06:45 2016 +0200
+
+    Update team.md
+
+[33mcommit c09f94023550b21047e09c75def0074b92cc93e0[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 16:05:15 2016 +0200
+
+    Update team.md
+
+[33mcommit da78f97c8e9f623d9008295e1f0a26064af1a527[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 16:04:56 2016 +0200
+
+    Update team_members.yml
+
+[33mcommit 48cb1c951b05779103c8203e88a86c9babfc62b3[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 16:02:16 2016 +0200
+
+    Update team.md
+
+[33mcommit 5b14ce0c3797b552eaf5524028980f94cd81ac68[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 16:01:11 2016 +0200
+
+    Update team_members.yml
+
+[33mcommit 08de892214c18b8c498d70c48cb44f3c08ea239a[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 15:56:15 2016 +0200
+
+    Update team.md
+
+[33mcommit aad83aa93d76373e0fa301672f8f0c1778f9c8d0[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 15:53:48 2016 +0200
+
+    Update team_members.yml
+
+[33mcommit bdff500769434533920cf301e89308e8d93010f9[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 15:41:17 2016 +0200
+
+    Update team.md
+
+[33mcommit c8f445b59ae5b9338c191a060eb86a08d25ad1c6[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 15:34:58 2016 +0200
+
+    Update team_members.yml
+
+[33mcommit 5b4f6ee9a7bdd7d1686b9491f62aa71d5eda63d5[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 15:24:13 2016 +0200
+
+    Update team.md
+
+[33mcommit 6c6d21dbbe1593e3ab2a268395743edaae2f7c48[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 16 15:23:54 2016 +0200
+
+    Update team.md
+
+[33mcommit 31ae60b953d4ab27b7f88fecd42558256ece68ba[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Tue Aug 16 10:56:33 2016 +0200
+
+    t
+
+[33mcommit 59f8488c8391051fac7ea0426cccbb5d0aeaf8ba[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Aug 15 22:35:50 2016 +0200
+
+    t
+
+[33mcommit e3305ffef81e73c2a2005fe701597aa6e9a6a352[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Aug 15 19:19:30 2016 +0200
+
+    t
+
+[33mcommit 7c2bf082720560f8602c54dd737386af79390b9c[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Aug 15 18:41:22 2016 +0200
+
+    t
+
+[33mcommit 2855d729e08b0ac9151f81cc4a5326ba2e86b767[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Aug 15 18:32:43 2016 +0200
+
+    t
+
+[33mcommit 7a015de5cede11c0b6f03fa1a39aa164f0bea653[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Aug 15 18:17:02 2016 +0200
+
+    t
+
+[33mcommit 626a4b936b0f695796910e66d3182b39442dcbb5[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Sun Aug 14 20:43:58 2016 +0200
+
+    t
+
+[33mcommit 371bebba4c73896f00293af3ed573545ce64d8b8[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Sat Aug 13 23:22:49 2016 +0200
+
+    t
+
+[33mcommit a01a37a14e6f8bbb6762758e12fe568127145622[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Sat Aug 13 20:24:49 2016 +0200
+
+    Update CNAME
+
+[33mcommit ed0a1614e9bfac4fdc378cbe851ed017a715befc[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Sat Aug 13 20:23:44 2016 +0200
+
+    t
+
+[33mcommit 88a0a9f5e31ca22bfb6e560f22277a9185285f7c[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Fri Aug 12 19:46:56 2016 +0200
+
+    t
+
+[33mcommit 9695f7140d2528dfe721fcf85e57214d1e30d5ac[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Fri Aug 12 18:19:09 2016 +0200
+
+    t
+
+[33mcommit 1517c5deec72d26276ee9bf74549b139c7d85e9a[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 15:34:39 2016 +0200
+
+    Update pictures.md
+
+[33mcommit a09a0eb57e33b4cd1a80f9c7b7150b5c1abc311a[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 15:32:45 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 2f6edde5d0a84e8a0122bd6c8528f5f4f38bc4b2[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 15:31:15 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 704129cf034683c37954837c1883c8ff02d3ab2c[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 15:29:09 2016 +0200
+
+    Update pictures.md
+
+[33mcommit d585743e8f4b835758d12dd8878106eae8520ff5[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 15:27:15 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 0e737157683b63db9631040dd230ce944e0e3234[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 15:26:39 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 89c5292f6a4a5cd6a8ef9b92ffb3ca49fde36815[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 15:25:30 2016 +0200
+
+    Update pictures.md
+
+[33mcommit f7841231cb80750673d936472b265553988c38dd[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 15:23:53 2016 +0200
+
+    Update pictures_Leiden.yml
+
+[33mcommit 394491bf09ff6415e167c87cedd5f1bc552560b7[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 15:17:48 2016 +0200
+
+    Create pictures_Leiden.yml
+
+[33mcommit f639322bc9e4adf6e6e8cf464642ffe15e2113dc[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 14:53:06 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 0c5b9900707bf55420b5a0d5b2e4205bfe629e56[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 14:48:49 2016 +0200
+
+    Update pictures.md
+
+[33mcommit a30aec520e9b0ef7c6b4aeace6ba3ec89affd33b[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 14:44:35 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 338a01f3fbc28a1dcc33035e33ab41ac014fe77b[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 14:25:38 2016 +0200
+
+    Update pictures.md
+
+[33mcommit d9acb2cd74d271a9e0f83e24c62b23752dd497d6[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 14:24:09 2016 +0200
+
+    Update pictures.md
+
+[33mcommit ac9efcb41d149c452c14489ce638f43110ba4320[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 14:23:07 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 204924d6cf7264c1381e5c71bc0a05d0aa5d14dd[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 14:20:55 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 39996f3ef27390db1cdab2f4585f99becc4df646[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 14:13:45 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 4a38f7309851a7680ef14bc8bb2d67b32c0220bf[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 14:12:01 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 13c70f6abf39276b4c87b8f9c9a0f01c336666ec[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 14:06:32 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 924079dfb0f04106b9e58bc68357227b7bcf82ee[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 13:52:29 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 58b7011fc6aa871a97972d72a49e998d667b1ba1[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 13:52:16 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 454984697031990369c1a74acfba95707c3a8f81[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 13:49:27 2016 +0200
+
+    Update pictures.md
+
+[33mcommit e9632cca76e36fc547abb46529cb60083f68e6ef[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 13:39:34 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 0d30e5ad646f84b92858e99e42ef58f7e7acde30[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Fri Aug 12 12:52:28 2016 +0200
+
+    t
+
+[33mcommit bd1f03fec404ea32d5b2a85dc1751ac5713a0d99[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Fri Aug 12 12:44:38 2016 +0200
+
+    t
+
+[33mcommit f6be5010be7aa4369e7def3a3af10f93e48b52d1[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Fri Aug 12 12:42:34 2016 +0200
+
+    t
+
+[33mcommit d9a973b25ff7e9048a705284bc74cdbb1c50a5b7[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Fri Aug 12 12:41:50 2016 +0200
+
+    Update pictures.md
+
+[33mcommit f0721947de0de6a382e17521d4b414b9cdf6310d[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 12:22:30 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 586390268bfec3acca67f8b840637392f58068ee[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 12:20:26 2016 +0200
+
+    t
+
+[33mcommit debfd23e288bbbecd40a9919c4f771979bf6a5f0[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 12:19:03 2016 +0200
+
+    Update publications.md
+
+[33mcommit 678222f77093e27aa27f22cb3d3afaddf1bfaeb6[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 12:14:13 2016 +0200
+
+    Update pictures.md
+
+[33mcommit ea2a76bbabc690118b0b14f17d519ef5efcea43b[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 12:11:57 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 752a6bca5543699be5f956599c7d608092138dc9[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Fri Aug 12 11:43:45 2016 +0200
+
+    t
+
+[33mcommit bf137e17bf707a4449d33916d59a70cf1c18f1f1[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 11:27:05 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 2d9544e97e37e80c22d9e4c5ed8668e5431221e3[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 11:24:43 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 46932da28d94352c08177e3cf3d07ac692233852[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 11:22:51 2016 +0200
+
+    Update pictures.md
+
+[33mcommit ca39c320d77a7611f6715e42e127a61a9f2dbecc[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 11:10:37 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 04d7ca2a8b5de60332d6bfe58b4d5cc1945a343f[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 11:09:56 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 2131b1c7aedefc4caa9811fc775e52cdd18b17e2[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 11:08:00 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 2fb3267819233645fc08835e492112c71741fdcf[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 11:04:07 2016 +0200
+
+    Update pictures.md
+
+[33mcommit 1049269b246f14dcfd955fdfce3bcf521bff1728[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 10:42:31 2016 +0200
+
+    Rename pictures_copy to pictures_copy.md
+
+[33mcommit 99eb891bc12fd9348f119dd5b09e7398678dc742[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 12 10:42:05 2016 +0200
+
+    Create pictures_copy
+
+[33mcommit b7343c9165bbc6e88197720c90a3d5bf2e4b2d12[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Wed Aug 10 16:36:13 2016 +0200
+
+    t
+
+[33mcommit cf5ddd0b65567c2aa09ecd798191996161bc1581[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Wed Aug 10 11:29:15 2016 +0200
+
+    t
+
+[33mcommit 95485c9da78963007adf3c7af8baf7ec9baf3743[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Wed Aug 10 11:25:55 2016 +0200
+
+    Update team.md
+
+[33mcommit b0c609c1bd540394a44247cebc397f4adba4caf4[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Wed Aug 10 11:22:04 2016 +0200
+
+    Update team.md
+
+[33mcommit 6eb1aa59614ee1984d5d5e03c6d6d106baf272ca[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Wed Aug 10 10:51:58 2016 +0200
+
+    t
+
+[33mcommit 557ae4a2c486ccad40bf82232e31cabe72140471[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Wed Aug 10 10:47:06 2016 +0200
+
+    Update footer.html
+
+[33mcommit 5f3c82c1b3d2626e961c7c59369331ea331c6ee7[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Wed Aug 10 10:10:30 2016 +0200
+
+    Update footer.html
+
+[33mcommit 30e921c365eb8194b0b98774ca1c1f01f469c78f[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Tue Aug 9 23:05:21 2016 +0200
+
+    t
+
+[33mcommit 3503527e1dbe51c2969f78b37414efb9782fa93b[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Tue Aug 9 19:16:46 2016 +0200
+
+    t
+
+[33mcommit f33da8246bf0105653eb656f7b6737bdc86f467a[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Tue Aug 9 19:14:56 2016 +0200
+
+    t
+
+[33mcommit 38810b1ba0d6a0ac81cffb8ff64bdecfe657bb27[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Tue Aug 9 19:10:58 2016 +0200
+
+    t
+
+[33mcommit 5d35560f8619b3e4586d05ab3e847e404d4ebf7e[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Tue Aug 9 18:53:26 2016 +0200
+
+    t
+
+[33mcommit 8fdb1fb5a950a27d2d1ee8a80727e779dd150d80[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Tue Aug 9 18:52:35 2016 +0200
+
+    t
+
+[33mcommit 1d951e2a5e7c7039e08fdacbc54fc24a460bd3a4[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Tue Aug 9 18:48:45 2016 +0200
+
+    t
+
+[33mcommit 507cef93f992d4956c9b9b897ac74132fcfa284a[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 9 18:30:10 2016 +0200
+
+    t
+
+[33mcommit b5a328e6b0f5e886ebe5d15d76c1f04a10c317a0[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 9 18:25:24 2016 +0200
+
+    t
+
+[33mcommit 44985c13a9228f454b105e4d07e17f3f44401f84[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 9 18:20:48 2016 +0200
+
+    t
+
+[33mcommit 7a7a33b16103fdb26524e0515d915f9f9fbac342[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 9 18:17:26 2016 +0200
+
+    t
+
+[33mcommit 59414e2feeb0a363f89de90c7c706e0ca213738e[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 9 18:15:13 2016 +0200
+
+    Update footer.html
+
+[33mcommit 248b9a2c6fbb25545837b6a4f9920320994ec66f[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 9 18:08:52 2016 +0200
+
+    Update footer.html
+
+[33mcommit cfbbd60c08ac1e8149dfd077dce2e4d7cb4d97a5[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 9 17:58:39 2016 +0200
+
+    Update publist.yml
+
+[33mcommit 1701d432c676f80a4e216f66005b6827d8144b5d[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Tue Aug 9 17:56:07 2016 +0200
+
+    t
+
+[33mcommit 6c4a9adc573a39b6a513b357e0b8e05327818fed[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Aug 9 16:59:16 2016 +0200
+
+    Update team.md
+
+[33mcommit 2d4ef3d5c2f81451bea3edb87abcb6ac34786fb8[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Aug 9 16:55:34 2016 +0200
+
+    Update team.md
+
+[33mcommit d4ddbe04ae6823d562bc14fedca0750b02b5d450[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Tue Aug 9 16:20:43 2016 +0200
+
+    Update team.md
+
+[33mcommit fbeab9834f0ea3e4a6b7a7a5d5213787c275737f[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Tue Aug 9 13:53:26 2016 +0200
+
+    Update README.md
+
+[33mcommit 5249189a02deb561da9f10ec73bbd9914b60c8a2[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Tue Aug 9 13:34:06 2016 +0200
+
+    Create README.md
+
+[33mcommit cfcf8402e6f696a9d969454b8eb50f2e4c06c5aa[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Mon Aug 8 19:14:36 2016 +0200
+
+    t
+
+[33mcommit e324295cbb506d9b22b7d37374aeedfbec76a01d[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Aug 8 19:13:18 2016 +0200
+
+    t
+
+[33mcommit 80429f4756654d1a4d0cf005f90b568fff611d62[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Mon Aug 8 19:11:05 2016 +0200
+
+    t
+
+[33mcommit e5bf20f016b3188c723a9ebcc9e4ce77e489bb53[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 18:12:03 2016 +0200
+
+    t
+
+[33mcommit 4670268248bc177c1b626e3bbc3fc8b9fd35c1c6[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 18:09:17 2016 +0200
+
+    Update home.md
+
+[33mcommit 75ba937208f4fe9c07931892f6b5498642d6094a[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 18:07:17 2016 +0200
+
+    Update team.md
+
+[33mcommit 6afa41ab3cebdb545760b14bb0de85386ad0201d[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 18:05:05 2016 +0200
+
+    Update team.md
+
+[33mcommit 2e18f85dcee26b72bb81b408c96ba8f088e2cc86[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 18:01:31 2016 +0200
+
+    t
+
+[33mcommit a2463ad2f5e1336451628e2c826aac48851ad316[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 17:52:50 2016 +0200
+
+    t
+
+[33mcommit d575a77a861a6e53bce80849bc76e8fafabc21a5[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 17:30:06 2016 +0200
+
+    t
+
+[33mcommit caccf91386e3cd9b4dfbbb55ac01496e936fc03b[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 17:29:33 2016 +0200
+
+    Update home.md
+
+[33mcommit 9d7d3a7c59c67dd3205ac658530bd8904224e2c0[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 17:26:21 2016 +0200
+
+    t
+
+[33mcommit d0670b8e6b7db6b9459e6bb3a79896e62b4a69e2[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 15:24:54 2016 +0200
+
+    Update publist.yml
+
+[33mcommit 69ed4a4df3935f6f1a454c7cb253bf3b8930f718[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 15:23:29 2016 +0200
+
+    Update publist.yml
+
+[33mcommit 7bf1608cfc0d91a3bfb8a3b8b6ea466f209d1900[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 15:22:26 2016 +0200
+
+    Update publist.yml
+
+[33mcommit 0b82f2a9b23ee9e3e74a32885cadfceaefb325f6[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 15:22:03 2016 +0200
+
+    Update publications.md
+
+[33mcommit f6102e29b354a54033aa7e1f47370092dcc7a2c5[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 15:19:44 2016 +0200
+
+    Update publist.yml
+
+[33mcommit a423d7ef3e8e4f6318524c262409e1bc675ddca2[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 15:18:24 2016 +0200
+
+    Update publications.md
+
+[33mcommit 1ac43b423388de6f874702aa09913afe70cd9c43[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 15:15:43 2016 +0200
+
+    Update publications.md
+
+[33mcommit 4ec5540ef7d8f1383e09eb21d0a5ff746ee599ce[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 15:12:17 2016 +0200
+
+    Update publications.md
+
+[33mcommit 493ce27c843ea80b74a7a70d73e801efaad5057e[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 15:10:27 2016 +0200
+
+    Update publications.md
+
+[33mcommit 19f4af7e67b353d3c9a4fa7c14ca58afcc211ba9[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 15:08:28 2016 +0200
+
+    Update publications.md
+
+[33mcommit bf865e86478bad9ebf62543378395658aa307250[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 15:06:24 2016 +0200
+
+    Update
+
+[33mcommit 5295ed686301d7120199d9f239c65bfcbaa1994c[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 15:04:25 2016 +0200
+
+    Update publications.md
+
+[33mcommit fb8fed9665cdfe4d3068bd77283cfa125b44d9e9[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 15:02:53 2016 +0200
+
+    Update publications.md
+
+[33mcommit d438a7ae778ad9ea0d0060e9df728f27d24a11b6[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 15:02:16 2016 +0200
+
+    Update publications.md
+
+[33mcommit 28d6490fdaba1d133cf915d443ddfacb40b13a0e[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 14:59:05 2016 +0200
+
+    Update publications.md
+
+[33mcommit 3adba71bc9ba9315562ed6ee3db7c79af312d6c7[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 14:56:55 2016 +0200
+
+    Update publications.md
+
+[33mcommit 37c700b2501068ea3872fbc39c387f37db589e84[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 14:51:54 2016 +0200
+
+    Update publications.md
+
+[33mcommit 4a7f035442681074a5dcf712eca09a38a8e68239[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 14:49:48 2016 +0200
+
+    Update publications.md
+
+[33mcommit 55934de2e998136d706465f146b3f8084be1d29d[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 14:47:31 2016 +0200
+
+    Update publications.md
+
+[33mcommit a1fc2afcadd6270e3ff2899037e1d08876af320e[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 14:45:18 2016 +0200
+
+    Update publications.md
+
+[33mcommit c461315f169bda449d8af932f8011330c143f26a[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 14:43:10 2016 +0200
+
+    Update publications.md
+
+[33mcommit 59404f5410deade91466c8e614a22e5b88f6efa2[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 14:40:41 2016 +0200
+
+    Update publications.md
+
+[33mcommit 297e19e754595a8a4204efdbf0737c327181f7af[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 14:38:05 2016 +0200
+
+    Update publications.md
+
+[33mcommit 1582c4ea5dcbb17411d6cc0a706d57ac0bdb457d[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 14:33:47 2016 +0200
+
+    Update publications.md
+
+[33mcommit 9a8a5d8d881bbba8d97c09b3d4e325e0b57c37bb[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Aug 8 14:07:58 2016 +0200
+
+    Update research.md
+
+[33mcommit 3cad16c24803eaf6516baad2553a69a238e9c23a[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Aug 8 14:04:59 2016 +0200
+
+    Update home.md
+
+[33mcommit 32ecb2f971bc92f05bb62ec670bab856f59fdfdf[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Aug 8 14:03:39 2016 +0200
+
+    Update research.md
+
+[33mcommit e58391b6a8d42c14706ada793ad355abb61d3b07[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Aug 8 14:02:20 2016 +0200
+
+    Update home.md
+
+[33mcommit 6c45480055452a01063c764b93ba9375da871291[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 14:02:04 2016 +0200
+
+    Update
+
+[33mcommit dc5dd1272c235e2555c9dc4032738a15a54431ac[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Aug 8 14:01:04 2016 +0200
+
+    Update home.md
+
+[33mcommit 26ebb966a93ef839a1afe081437ac0a335d9a0d2[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Aug 8 13:44:59 2016 +0200
+
+    Update team.md
+
+[33mcommit f701e69f5aa6ea0c3eaf622e29a27c36867a0959[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 13:39:23 2016 +0200
+
+    Update publications.md
+
+[33mcommit a00d2d8fa123e74f0006c57d1cccea62bf0f1977[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 13:37:24 2016 +0200
+
+    Update publications.md
+
+[33mcommit fc090a8d21287479608cef7335b13ad822b5e01f[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 13:33:18 2016 +0200
+
+    Update publications.md
+
+[33mcommit 59fcd11c30bfd596e73d8699dd9f17e2a6249d07[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 13:26:23 2016 +0200
+
+    Update publist.yml
+
+[33mcommit 9ed28e306512ac6bd8c496e7eaf22bc3fca52de8[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 13:25:00 2016 +0200
+
+    Update publist.yml
+
+[33mcommit 3d6ad702ca1aa927c3a0c3458f4666f5bacc21b9[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Aug 8 13:24:32 2016 +0200
+
+    Update home.md
+
+[33mcommit 51ba21f5b36f222c8241207dc399e2664a42aeec[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 13:22:20 2016 +0200
+
+    Update publications.md
+
+[33mcommit d4cafdc3857caa4d0008eee1d3ba55e2dab6dec9[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 13:22:09 2016 +0200
+
+    Update publications.md
+
+[33mcommit 88e8e77eb9179436d38b4d65c2bb74afbc57445c[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 13:16:09 2016 +0200
+
+    Update publist.yml
+
+[33mcommit 614a01cd58575e0eb300f14cf7109aea2b61efdc[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 13:15:16 2016 +0200
+
+    Update publist.yml
+
+[33mcommit caac3ba6b8f7fda5bdc85ad2353c91532db5de0f[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Aug 8 13:14:47 2016 +0200
+
+    t
+
+[33mcommit 83077e1b3bde6d12b90ba760cdc0effcc76e8745[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 13:09:20 2016 +0200
+
+    Update publist.yml
+
+[33mcommit 43fd098f031e4846f8fb35ed386453431c78b189[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 13:08:40 2016 +0200
+
+    Update publist.yml
+
+[33mcommit c042924cba8b736cc7cf4459b877992b7f1619e3[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 13:06:45 2016 +0200
+
+    Update publist.yml
+
+[33mcommit 45eba3fa7eb7b84d542859dbbe26add3cb2f88e5[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 12:55:39 2016 +0200
+
+    Update
+
+[33mcommit ad24c1e0e53a22dc4891263660f4a162867da8a5[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 12:51:51 2016 +0200
+
+    Update publications.md
+
+[33mcommit 48db9fcd56f101f5a94dc0ea5fbb9355cec35b55[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 12:50:43 2016 +0200
+
+    Update publications.md
+
+[33mcommit ad04520f62946fcc036bc437e92a76030d4e2245[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 12:49:27 2016 +0200
+
+    Update
+
+[33mcommit 5635de8b885e9cb35bb52106fdf8cffc2b1319e3[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 12:46:17 2016 +0200
+
+    Update publist.yml
+
+[33mcommit 2e19470647d08c513540a5918b7ee27fa7f7434e[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 12:43:47 2016 +0200
+
+    Update publications.md
+
+[33mcommit 2f0f60834494546c739759413f72f58287743e8d[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 12:42:10 2016 +0200
+
+    Update
+
+[33mcommit b804ccfc45dd12f25277c9200195b229ae44cbd4[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 12:36:35 2016 +0200
+
+    Update publications.md
+
+[33mcommit 4376342a736b8eab916b134752e36a3d436e0010[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 12:34:30 2016 +0200
+
+    Update publications.md
+
+[33mcommit 5809aa35fe9f052cda181908a43ccb4ccdb38505[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 12:34:18 2016 +0200
+
+    Update publications.md
+
+[33mcommit d5eda73bcb00f8d11ee656cfe603d2740558925a[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 12:33:34 2016 +0200
+
+    Update publications.md
+
+[33mcommit 27b30e82d9fcdfeab7dc9abc39b1346c45a00bad[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 12:30:17 2016 +0200
+
+    Update
+
+[33mcommit 81c2ee53d2d4f64ea76be3b722676c77e652c4b5[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 12:27:59 2016 +0200
+
+    Update publications.md
+
+[33mcommit 28616ce6892cca223e9c69776612486a3ae28e99[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 12:27:37 2016 +0200
+
+    Update publications.md
+
+[33mcommit 97f74a3c31aa845c43f18819b9a1259d6d64501a[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 12:26:02 2016 +0200
+
+    Update publications.md
+
+[33mcommit 7d2a99c7bc5e04baa3b818a23911f156f8519ab0[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 12:24:38 2016 +0200
+
+    Update publications.md
+
+[33mcommit 0aa5aa6b7e45d14a49eadff74c5a512c5b55df30[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 12:19:24 2016 +0200
+
+    Update publications.md
+
+[33mcommit a46464fa2acbc810a4ad896b3751e5d5bfc3a7c9[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 12:17:56 2016 +0200
+
+    Update publications.md
+
+[33mcommit 12fc8964fc326c5b6b25f030ca943b116d7c2134[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 12:02:33 2016 +0200
+
+    Update publications.md
+
+[33mcommit 1f77012c80af1464bbe624ece01566f88a13e5df[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 12:00:11 2016 +0200
+
+    Update publications.md
+
+[33mcommit 222cf7572de9e60103f7f7357b81d895bb535726[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 11:57:51 2016 +0200
+
+    Update publications.md
+
+[33mcommit ab09289f504740487fdc8e872338f80cf0ee6654[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 11:57:43 2016 +0200
+
+    Update publications.md
+
+[33mcommit e9bdc11f2f59bd75cfb353365bc3e173e9b15b8f[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 11:41:14 2016 +0200
+
+    Update publications.md
+
+[33mcommit aba7bc9f6f790fd6e8c1adbf020c0d74780a8007[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 11:38:12 2016 +0200
+
+    Update publications.md
+
+[33mcommit 3b457e383a62445d97cd1b342c9c3bb83f017dd7[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 11:37:10 2016 +0200
+
+    Update publications.md
+
+[33mcommit 744f8732a8b29b1fd89fa3ee7dbaddbba66c95ab[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 11:35:42 2016 +0200
+
+    Update publications.md
+
+[33mcommit fec4db723e05464197da737d6d5a4598b4fd7740[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 11:22:22 2016 +0200
+
+    Update publications.md
+
+[33mcommit ff53d8d2b9b814dc58062744d7cc0319d14e127c[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 11:19:26 2016 +0200
+
+    Update publications.md
+
+[33mcommit 8a6414a9fb6ef2746336dec121cfac6eac1e9e02[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 11:18:06 2016 +0200
+
+    Update publications.md
+
+[33mcommit b3c0760f94068d248498a860e43b24267c05670d[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Aug 8 11:11:03 2016 +0200
+
+    fixed external urls
+
+[33mcommit a29ce8a5613b89b2b4696a0f87bcad41c0061b1e[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Aug 8 11:07:41 2016 +0200
+
+    t
+
+[33mcommit ff88b896a3bc2f89b7926be52f481ae14b58d051[m
+Author: koenmb <koenbastiaans@hotmail.com>
+Date:   Mon Aug 8 11:06:42 2016 +0200
+
+    fixed external urls
+
+[33mcommit 552a09349b9fc6e260cf94be3afa09ee09c17bd1[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 10:59:56 2016 +0200
+
+    Update publications.md
+
+[33mcommit 9fb148c238b15750edcc9d80acae34daf0d845af[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 10:56:34 2016 +0200
+
+    Update publications.md
+
+[33mcommit 0b1618c85825ead0a813fa766e46d59fbf620af5[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 10:49:01 2016 +0200
+
+    Update publist.yml
+
+[33mcommit 6306cd0e5a7dcfb4697869da002977b307d21e2c[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 10:45:18 2016 +0200
+
+    Update publist.yml
+
+[33mcommit aaa8969bfeb7d6ce7e7d0f911264408c0524d1ac[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 10:41:02 2016 +0200
+
+    Update publications.md
+
+[33mcommit 0548c99755e8b99769e708721f88554f1c05301c[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 10:40:23 2016 +0200
+
+    Update publications.md
+
+[33mcommit 09ecc8bed1192244657ed0b29fb8b3438625422c[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 10:36:37 2016 +0200
+
+    Update publications.md
+
+[33mcommit 4aa69fda4e5770fc5ca21d4743ccc32a0ade8678[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 10:36:22 2016 +0200
+
+    Update publications.md
+
+[33mcommit ad1f0f4474ea84506394ef963b8b659c7006010c[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 10:34:27 2016 +0200
+
+    Update publications.md
+
+[33mcommit fe17668e86f9bf8669b5723ce07954a035994c93[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 10:29:46 2016 +0200
+
+    Update publications.md
+
+[33mcommit 44e2eec84d43aceee6da410f66e75f8ae1a88494[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 10:28:02 2016 +0200
+
+    Update publications.md
+
+[33mcommit 994499c1e117d560224188d1181a94d6a4bedb25[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 10:27:03 2016 +0200
+
+    Update publications.md
+
+[33mcommit 91bab9612c901258caa18add00e6aab32c88570f[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Mon Aug 8 10:24:46 2016 +0200
+
+    Update publist.yml
+
+[33mcommit 24145aa5b5e5cfc9f0f8a740b827de4a21d8f42e[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Sun Aug 7 15:03:15 2016 +0200
+
+    Delete CNAME
+
+[33mcommit e73916d0950556342faac280f39bda06ec17e2cb[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Sun Aug 7 14:57:40 2016 +0200
+
+    Update CNAME
+
+[33mcommit ce95edc2690cf6f2ee9d311dab9ede1ce875170a[m
+Author: allanlab <milan.allan@gmail.com>
+Date:   Sun Aug 7 14:56:26 2016 +0200
+
+    Create CNAME
+
+[33mcommit be844b3455ed1fa7cb27436f01940ab7ab9e4a81[m
+Merge: a8421dc 5b2ee90
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Fri Aug 5 20:01:28 2016 +0200
+
+    Merge remote-tracking branch 'origin/gh-pages' into gh-pages
+
+[33mcommit a8421dc6c1ebcad7300d52d27a7be2b23783b798[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Fri Aug 5 19:57:23 2016 +0200
+
+    t
+
+[33mcommit 5b2ee9055dcb2c2767a1572b74e78e34bd9d9a27[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 5 18:35:24 2016 +0200
+
+    fixed "fulll"
+
+[33mcommit 9b76d64a6f7ca21b544246509b97cb2c09c087e2[m
+Author: vitaliyfedoseev <vitaliy.fedoseev@gmail.com>
+Date:   Fri Aug 5 18:33:14 2016 +0200
+
+    Update publications.md
+
+[33mcommit 76b3cf6e46dd9c638e32002ca92e9884b517367b[m
+Author: ibattist <irenebattisti90@gmail.com>
+Date:   Fri Aug 5 12:26:17 2016 +0200
+
+    t
+
+[33mcommit c5223ae1706a3374e3f08a0fcb53dc9671ccd894[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Fri Aug 5 10:40:14 2016 +0200
+
+    t
+
+[33mcommit 8a3ed23a53bd852de94d7c995267aeb7edeb30c0[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Thu Aug 4 23:50:34 2016 +0200
+
+    t
+
+[33mcommit af4771238aa971c0dc0d4e1af3aa5a2f196f03cc[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Thu Aug 4 15:28:22 2016 +0200
+
+    t
+
+[33mcommit 025165eaae42728fb33b8bde484a58255a938c80[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Thu Aug 4 10:53:35 2016 +0200
+
+    t
+
+[33mcommit a773b918efad05db1642137f2472f69370bf7872[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Thu Aug 4 05:00:26 2016 +0200
+
+    t
+
+[33mcommit 11cead3e6a7849f53919e02900fa38f8679d8154[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Wed Aug 3 22:46:01 2016 +0200
+
+    t
+
+[33mcommit b7e41e89595647662d94b57cea31021b45954b8d[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Wed Aug 3 22:38:50 2016 +0200
+
+    t
+
+[33mcommit c88218c8d6bb92d453ed5bb39ad0fe86b0dc77bb[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Wed Aug 3 21:34:47 2016 +0200
+
+    t
+
+[33mcommit 1ad604957a4d738486531fb2d393a82aedb62ab2[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Wed Aug 3 21:30:26 2016 +0200
+
+    t
+
+[33mcommit b72ba6f3d5ebf890e2fc1b77a78af85824eb2668[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Wed Aug 3 21:24:53 2016 +0200
+
+    t
+
+[33mcommit bfb19e57869bb66729c23661c3fef4b0ca933553[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Wed Aug 3 20:59:16 2016 +0200
+
+    t
+
+[33mcommit bd70365bc0eec5ac375551a6d55c0223d1b3f922[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Wed Aug 3 20:52:48 2016 +0200
+
+    t
+
+[33mcommit d8820b83e69fc8e47d2a4e112091a87e2a7ef9d8[m
+Author: Milan Allan <milan.allan@gmail.com>
+Date:   Wed Aug 3 20:46:30 2016 +0200
+
+    init
